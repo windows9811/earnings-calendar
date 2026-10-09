@@ -1,0 +1,6 @@
+{
+  "_說明": "手動修正用。key 是股票代號。可用欄位：name(顯示名稱) website(官網) logo(logo 圖片網址，會自動下載) time(bmo=盤前 / amc=盤後) include(true=就算市值不夠也要收錄) exclude(true=不要收錄)。改完後重新跑 update 即可。",
+  "BRK.B": { "website": "https://www.berkshirehathaway.com" },
+  "GOOG": { "exclude": true },
+  "FOX": { "exclude": true }
+}

@@ -1,0 +1,17 @@
+{
+  "siteName": "美股財報行事曆",
+  "siteTagline": "US Earnings Calendar",
+  "siteUrl": "https://example.com",
+  "basePath": "",
+  "homeLink": "https://example.com",
+
+  "minMarketCap": 10000000000,
+  "maxPerWeek": 135,
+  "storeMinMarketCap": 2000000000,
+  "weeksAhead": 6,
+  "weeksBehindRefresh": 1,
+  "visiblePerColumn": 10,
+
+  "timezone": "America/New_York",
+  "showNextWeekOnWeekend": true
+}
