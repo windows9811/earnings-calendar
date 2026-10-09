@@ -1,1 +1,65 @@
+name: Update earnings calendar
+
+on:
+  schedule:
+    - cron: "15 22 * * *"    # 每天 台北 06:15（美股收盤、盤後財報公布後）
+    - cron: "30 11 * * 1-5"  # 平日 台北 19:30（美股開盤前再補一次）
+  workflow_dispatch:          # 可在 GitHub 手動按「Run workflow」
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: earnings-deploy
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install image tool (shrinks big logos)
+        run: pip install pillow
+
+      - name: Fetch earnings + logos
+        run: python3 scripts/update.py
+        continue-on-error: true   # 資料源暫時抓不到時，仍用上次的資料重新產生網站
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+
+      - name: Build site
+        run: python3 scripts/build.py
+
+      - name: Save data back to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data public/logos
+          git diff --cached --quiet || git commit -m "chore: update earnings data"
+          git push
+
+      # 只同步 dist/earnings/ → 網站的 public_html/earnings/，不會碰到 WordPress 其他檔案
+      - name: Upload to Cloudways (/earnings)
+        env:
+          CW_HOST: ${{ secrets.CW_HOST }}
+          CW_USER: ${{ secrets.CW_USER }}
+          SSHPASS: ${{ secrets.CW_PASS }}
+        run: |
+          if [ -z "$CW_HOST" ] || [ -z "$CW_USER" ] || [ -z "$SSHPASS" ]; then
+            echo "::error::尚未設定 Cloudways 連線資料（CW_HOST / CW_USER / CW_PASS），請到 Settings → Secrets and variables → Actions 新增"
+            exit 1
+          fi
+          test -f dist/earnings/index.html   # 網頁沒產生成功就不上傳
+          sudo apt-get install -y -qq sshpass rsync > /dev/null
+          sshpass -e rsync -rlz --checksum --delete --chmod=D755,F644 \
+            -e "ssh -o StrictHostKeyChecking=accept-new -o PreferredAuthentications=password -o PubkeyAuthentication=no" \
+            dist/earnings/ "$CW_USER@$CW_HOST:public_html/earnings/"
+          echo "已上傳到 public_html/earnings/"
 
