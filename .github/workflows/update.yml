@@ -19,9 +19,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -43,6 +43,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data public/logos
           git diff --cached --quiet || git commit -m "chore: update earnings data"
+          git pull --rebase -X theirs origin main   # 期間若有其他更新（例如你改了設定），先合併再推
           git push
 
       # 只同步 dist/earnings/ → 網站的 public_html/earnings/，不會碰到 WordPress 其他檔案
@@ -57,9 +58,27 @@ jobs:
             exit 1
           fi
           test -f dist/earnings/index.html   # 網頁沒產生成功就不上傳
+          # 檢查是否不小心多複製了空白（只顯示長度，不會顯示內容）
+          for v in CW_HOST CW_USER SSHPASS; do
+            val="${!v}"
+            if [[ "$val" =~ ^[[:space:]] || "$val" =~ [[:space:]]$ ]]; then echo "::warning::$v 前後有多餘的空白或換行，請重新貼上"; fi
+          done
+          echo "Username 長度：${#CW_USER}，Password 長度：${#SSHPASS}"
           sudo apt-get install -y -qq sshpass rsync > /dev/null
+          SSH_OPTS="-o StrictHostKeyChecking=accept-new -o ConnectTimeout=20"
+          methods=$(ssh $SSH_OPTS -o PreferredAuthentications=none -o BatchMode=yes "$CW_USER@$CW_HOST" true 2>&1 | tail -1 || true)
+          echo "主機回應：$methods"
+          set +e
           sshpass -e rsync -rlz --checksum --delete --chmod=D755,F644 \
-            -e "ssh -o StrictHostKeyChecking=accept-new -o PreferredAuthentications=password -o PubkeyAuthentication=no" \
+            -e "ssh $SSH_OPTS -o PreferredAuthentications=password,keyboard-interactive -o PubkeyAuthentication=no" \
             dist/earnings/ "$CW_USER@$CW_HOST:public_html/earnings/"
-          echo "已上傳到 public_html/earnings/"
-
+          code=$?
+          set -e
+          case $code in
+            0) echo "已上傳到 public_html/earnings/" ;;
+            5) echo "::error::Cloudways 拒絕了帳號或密碼（主機回應：$methods）。請確認用的是 Access Details → Application Credentials 的 Username / Password，不是 Admin Panel 或 MySQL 的。" ;;
+            6) echo "::error::無法確認主機身分（host key）。" ;;
+            255) echo "::error::連不上主機（主機回應：$methods）。請確認 CW_HOST 是 Public IP，且 Cloudways 沒有限制 SSH/SFTP 只允許特定 IP。" ;;
+            *) echo "::error::上傳失敗，錯誤代碼 $code（主機回應：$methods）" ;;
+          esac
+          exit $code
