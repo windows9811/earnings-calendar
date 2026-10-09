@@ -33,7 +33,7 @@ NASDAQ_HEADERS = {
 }
 TIME_MAP = {"time-pre-market": "bmo", "time-after-hours": "amc"}
 RECHECK_DAYS = 30
-MAX_LOGO_BYTES = 600_000
+MAX_LOGO_BYTES = 150_000  # bigger logos get a smaller rendering (faster pages)
 
 
 def log(*a):
@@ -239,8 +239,32 @@ def wikimedia_png(url):
     """PNG rendering of a (huge) Wikimedia SVG."""
     m = re.match(r"^(https://upload\.wikimedia\.org/wikipedia/[^/]+)/([0-9a-f]/[0-9a-f]{2})/([^/?]+)$", url)
     if m:
-        return f"{m.group(1)}/thumb/{m.group(2)}/{m.group(3)}/480px-{m.group(3)}.png"
-    return url + "?width=480"
+        name = m.group(3)
+        thumb = f"400px-{name}.png" if name.lower().endswith(".svg") else f"400px-{name}"
+        return f"{m.group(1)}/thumb/{m.group(2)}/{name}/{thumb}"
+    return url + "?width=400"
+
+
+def shrink_raster(body):
+    """Downscale a big PNG/JPG logo with Pillow (if installed). Returns (bytes, ext) or None."""
+    try:
+        from io import BytesIO
+        from PIL import Image
+    except ImportError:
+        return None
+    try:
+        im = Image.open(BytesIO(body))
+        im.load()
+        if im.mode not in ("RGB", "RGBA"):
+            im = im.convert("RGBA")
+        scale = min(1.0, 120 / im.height, 600 / im.width)
+        if scale < 1:
+            im = im.resize((max(1, int(im.width * scale)), max(1, int(im.height * scale))), Image.LANCZOS)
+        out = BytesIO()
+        im.save(out, "PNG", optimize=True)
+        return out.getvalue(), "png"
+    except Exception:
+        return None
 
 
 def download_logo(sym, sources, ua):
@@ -255,12 +279,18 @@ def download_logo(sym, sources, ua):
             if status != 200 or len(body) < 200:
                 continue
             is_svg = "svg" in ctype or body.lstrip()[:200].lower().find(b"<svg") >= 0
-            if is_svg and len(body) > MAX_LOGO_BYTES and "wikimedia" in url:
-                # huge SVG: ask Wikimedia for a PNG rendering instead
+            if len(body) > MAX_LOGO_BYTES and "wikimedia" in url:
+                # big file: ask Wikimedia for a small PNG rendering instead
                 status, ctype, body = http_get(wikimedia_png(url), {"User-Agent": ua}, timeout=30, retries=2)
                 is_svg = False
-                if status != 200:
+                if status != 200 or len(body) < 200:
                     continue
+            if is_svg and len(body) > MAX_LOGO_BYTES:
+                continue  # oversized SVG we can't shrink: try the next source
+            if not is_svg and len(body) > MAX_LOGO_BYTES:
+                small = shrink_raster(body)
+                if small:
+                    body, ctype = small[0], "image/png"
             if len(body) > MAX_LOGO_BYTES * 3:
                 continue
             if is_svg:
@@ -285,6 +315,32 @@ def download_logo(sym, sources, ua):
     return None, None
 
 
+def optimize_existing_logos(companies):
+    """Shrink oversized logos already on disk (re-fetch Wikimedia ones as small PNGs)."""
+    fixed = 0
+    for sym, c in companies.items():
+        f = c.get("logo")
+        p = os.path.join(LOGO_DIR, f) if f else None
+        if not p or not os.path.exists(p) or os.path.getsize(p) <= MAX_LOGO_BYTES:
+            continue
+        if c.get("logoSource") in ("wikidata", "wikipedia") or f.endswith(".svg"):
+            os.remove(p)
+            c["logo"] = None  # enrich() will re-download a small rendering / another source
+            c.pop("checkedAt", None)
+            fixed += 1
+        elif not f.endswith(".svg"):
+            with open(p, "rb") as fh:
+                small = shrink_raster(fh.read())
+            if small:
+                os.remove(p)
+                c["logo"] = f"{logo_filename(sym)}.png"
+                with open(os.path.join(LOGO_DIR, c["logo"]), "wb") as fh:
+                    fh.write(small[0])
+                fixed += 1
+    if fixed:
+        log(f"  optimized {fixed} oversized logo(s)")
+
+
 def enrich(symbols_with_names, companies, overrides, ua, force=False, retry_fallback=False):
     now = datetime.now(timezone.utc)
     todo = []
@@ -297,7 +353,7 @@ def enrich(symbols_with_names, companies, overrides, ua, force=False, retry_fall
             logo_ok = c.get("logo") and os.path.exists(os.path.join(LOGO_DIR, c["logo"]))
             want_override_logo = ov.get("logo") and c.get("logoSource") != "override:" + ov["logo"]
             stale = (not logo_ok and age > timedelta(days=RECHECK_DAYS)) or want_override_logo
-            if not logo_ok and c.get("logo"):
+            if not logo_ok and (c.get("logo") or c.get("logoSource") in ("wikidata", "wikipedia")):
                 stale = True
             if retry_fallback and c.get("logoSource") in (None, "parqet", "fmp"):
                 stale = True
@@ -403,6 +459,7 @@ def main():
         for rows in wk["days"].values():
             for r in select_rows(rows, cfg, overrides):
                 need.setdefault(r["symbol"], r["name"])
+    optimize_existing_logos(companies)
     enrich(need, companies, overrides, ua, force=args.force_enrich, retry_fallback=args.retry_fallback_logos)
     save_json(COMPANIES_FILE, companies)
 

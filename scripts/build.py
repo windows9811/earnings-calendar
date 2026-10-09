@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Render the static site into dist/ from data/*.json.
+"""Render the static site into dist/earnings/ from data/*.json.
+
+Everything (pages, assets, logos, sitemap) lives inside dist/earnings/, so that one
+folder can be uploaded as  https://your-site.com/earnings/  without touching WordPress.
 
   dist/earnings/index.html              -> 本週（目前這週）
   dist/earnings/2026-10-19/index.html   -> 指定週（網址 = 該週週一）
@@ -18,6 +21,7 @@ from common import (  # noqa: E402
 )
 
 DIST = os.path.join(ROOT, "dist")
+OUT = os.path.join(DIST, "earnings")
 SRC = os.path.join(ROOT, "src")
 E = html.escape
 
@@ -154,7 +158,8 @@ def range_text(monday):
 
 def page(cfg, monday, groups, prev_m, next_m, cur_m, updated_at, is_index):
     base = cfg.get("basePath", "").rstrip("/")
-    root = "../" if is_index else "../../"
+    root = "" if is_index else "../"
+    here = root or "./"
     site = cfg.get("siteName", "美股財報行事曆")
     visible = int(cfg.get("visiblePerColumn", 10))
     total = sum(len(v) for g in groups.values() for v in g.values())
@@ -171,18 +176,18 @@ def page(cfg, monday, groups, prev_m, next_m, cur_m, updated_at, is_index):
     def nav(m, cls, ic, label):
         if m is None:
             return f'<span class="circle {cls} disabled" aria-hidden="true">{ic}</span>'
-        return f'<a class="circle {cls}" href="{root}earnings/{m.isoformat()}/" aria-label="{label}" data-key="{cls}">{ic}</a>'
+        return f'<a class="circle {cls}" href="{root}{m.isoformat()}/" aria-label="{label}" data-key="{cls}">{ic}</a>'
 
-    back = "" if monday == cur_m else f'<a class="back" href="{root}earnings/">回到本週</a>'
+    back = "" if monday == cur_m else f'<a class="back" href="{here}">回到本週</a>'
     try:
         upd = datetime.fromisoformat(updated_at).astimezone(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
     except Exception:
         upd = "—"
     css_v = str(int(os.path.getmtime(os.path.join(SRC, "style.css"))))
     js_v = str(int(os.path.getmtime(os.path.join(SRC, "app.js"))))
-    home = cfg.get("homeLink") or f"{root}earnings/"
+    home = cfg.get("homeLink") or here
     if "example.com" in home:
-        home = f"{root}earnings/"
+        home = here
     canon_tags = "" if not site_url else (f'<link rel="canonical" href="{E(canonical)}">\n'
                                           f'<meta property="og:url" content="{E(canonical)}">\n')
 
@@ -206,7 +211,7 @@ def page(cfg, monday, groups, prev_m, next_m, cur_m, updated_at, is_index):
 <header class="topbar">
   <div class="wrap topbar-in">
     <a class="brand" href="{E(home)}"><span class="brand-main">{E(site)}</span><span class="brand-sub">{E(cfg.get("siteTagline", ""))}</span></a>
-    <nav class="topnav"><a href="{root}earnings/" class="active">財報行事曆</a></nav>
+    <nav class="topnav"><a href="{here}" class="active">財報行事曆</a></nav>
   </div>
 </header>
 <main class="wrap main">
@@ -244,6 +249,24 @@ def page(cfg, monday, groups, prev_m, next_m, cur_m, updated_at, is_index):
 """
 
 
+HTACCESS = """DirectoryIndex index.html
+<IfModule mod_headers.c>
+  <FilesMatch "\\.html$">
+    Header set Cache-Control "public, max-age=600, must-revalidate"
+  </FilesMatch>
+  <FilesMatch "\\.(svg|png|jpg|webp|css|js)$">
+    Header set Cache-Control "public, max-age=604800"
+  </FilesMatch>
+  <FilesMatch "\\.xml$">
+    Header set Cache-Control "public, max-age=3600"
+  </FilesMatch>
+</IfModule>
+<IfModule mod_mime.c>
+  AddType image/svg+xml .svg
+</IfModule>
+"""
+
+
 def main():
     cfg = load_config()
     companies = load_json(COMPANIES_FILE, {})
@@ -259,11 +282,11 @@ def main():
 
     if os.path.isdir(DIST):
         shutil.rmtree(DIST)
-    os.makedirs(os.path.join(DIST, "assets"))
+    os.makedirs(os.path.join(OUT, "assets"))
     for f in ("style.css", "app.js"):
-        shutil.copy(os.path.join(SRC, f), os.path.join(DIST, "assets", f))
+        shutil.copy(os.path.join(SRC, f), os.path.join(OUT, "assets", f))
     if os.path.isdir(LOGO_DIR):
-        shutil.copytree(LOGO_DIR, os.path.join(DIST, "logos"))
+        shutil.copytree(LOGO_DIR, os.path.join(OUT, "logos"))
 
     cur = current_week(cfg)
     if cur not in mondays:  # fall back to the nearest week we have
@@ -273,29 +296,26 @@ def main():
         groups = build_week(wk, cfg, companies, overrides)
         prev_m = mondays[i - 1] if i > 0 else None
         next_m = mondays[i + 1] if i + 1 < len(mondays) else None
-        html_s = page(cfg, m, groups, prev_m, next_m, cur, wk.get("updatedAt", ""), False)
-        out = os.path.join(DIST, "earnings", m.isoformat())
+        out = os.path.join(OUT, m.isoformat())
         os.makedirs(out, exist_ok=True)
         with open(os.path.join(out, "index.html"), "w", encoding="utf-8") as f:
-            f.write(html_s)
+            f.write(page(cfg, m, groups, prev_m, next_m, cur, wk.get("updatedAt", ""), False))
         urls.append(f"/earnings/{m.isoformat()}/")
         if m == cur:
-            with open(os.path.join(DIST, "earnings", "index.html"), "w", encoding="utf-8") as f:
+            with open(os.path.join(OUT, "index.html"), "w", encoding="utf-8") as f:
                 f.write(page(cfg, m, groups, prev_m, next_m, cur, wk.get("updatedAt", ""), True))
 
-    with open(os.path.join(DIST, "index.html"), "w", encoding="utf-8") as f:
-        f.write('<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=earnings/">'
-                '<a href="earnings/">美股財報行事曆</a>')
     site_url = cfg.get("siteUrl", "").rstrip("/") + base
     if "example.com" in site_url:
         site_url = ""
-    with open(os.path.join(DIST, "sitemap.xml"), "w", encoding="utf-8") as f:
+    with open(os.path.join(OUT, "sitemap.xml"), "w", encoding="utf-8") as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
         for u in ["/earnings/"] + urls:
             f.write(f"  <url><loc>{E(site_url + u)}</loc></url>\n")
         f.write("</urlset>\n")
-    with open(os.path.join(DIST, ".nojekyll"), "w") as f:
-        f.write("")
+    # Apache (Cloudways): short cache for pages so daily updates show up, long cache for logos/assets
+    with open(os.path.join(OUT, ".htaccess"), "w", encoding="utf-8") as f:
+        f.write(HTACCESS)
     print(f"built {len(urls)} week pages -> dist/ (current week {cur})")
 
 

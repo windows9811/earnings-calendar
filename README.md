@@ -10,16 +10,17 @@
 ## 運作方式
 
 ```
-GitHub Actions（每天 2 次）
+GitHub Actions（每天 2 次，在 GitHub 的伺服器上跑，不吃部落格主機資源）
   └─ scripts/update.py   抓 Nasdaq 財報行事曆（今天往前 1 週～往後 6 週）
        ├─ 篩選：市值 ≥ 100 億美元、每週最多 135 家（config.json 可調）＋ 去除重複股別（GOOG/GOOGL）
        ├─ 公司官網：Nasdaq 公司資料 → Wikidata
-       └─ 公司 logo：Wikidata 文字標誌 SVG → Parqet → FMP，下載到 public/logos/
-  └─ scripts/build.py    產生靜態網頁到 dist/
-  └─ 把新資料 commit 回 repo、發布到 GitHub Pages
+       └─ 公司 logo：Wikidata → Wikipedia → Parqet → FMP，過大的自動縮小，存到 public/logos/
+  └─ scripts/build.py    產生靜態網頁到 dist/earnings/（全部檔案都在這個資料夾裡）
+  └─ 把新資料 commit 回 repo
+  └─ 用 rsync 只同步 dist/earnings/ → Cloudways 的 public_html/earnings/
 ```
 
-不需要任何 API key、不需要安裝套件（只用 Python 內建功能）。
+網址：`https://george-dewi.com/earnings/`。不會動到 WordPress 的任何檔案或資料庫。
 
 ### 「時間未定」是什麼？
 離財報日還很遠的公司，常常還沒公布是盤前還是盤後。程式會依序嘗試：
@@ -36,23 +37,25 @@ GitHub Actions（每天 2 次）
 python3 scripts/update.py && python3 scripts/build.py && python3 -m http.server 8000 -d dist
 ```
 
-然後打開 http://localhost:8000/earnings
+然後打開 http://localhost:8000/earnings/
 
-## 部署到 GitHub Pages（免費）
+## 部署（GitHub → Cloudways）
 
-1. 在 GitHub 建一個新 repo，把整個資料夾推上去（分支名稱 `main`）
-2. repo → **Settings → Pages → Source** 選 **GitHub Actions**
-3. 改 `config.json`：
-   - `siteName`：網站名稱
-   - `siteUrl`：網站網址，例如 `https://earnings.你的網域.com`（用於 Google 收錄的網址標記，沒填也能正常運作）
-   - `homeLink`：左上角名稱點下去要連到哪（例如你的部落格首頁）
-   - 網站內的連結都是相對路徑，放在任何網址底下都能正常顯示
-4. 推上去之後 Actions 會自動跑；之後每天自動更新。也可以到 **Actions → Update earnings calendar → Run workflow** 手動更新。
+需要在 GitHub repo 的 **Settings → Secrets and variables → Actions** 新增 3 個 secret（Cloudways 的 Application Credentials）：
 
-想用自己的網域（例如 `earnings.你的網域.com`）：Settings → Pages → Custom domain，DNS 加一筆 CNAME 指向 `你的帳號.github.io`。
+| 名稱 | 內容 |
+|---|---|
+| `CW_HOST` | Cloudways 伺服器的 Public IP |
+| `CW_USER` | Application Credentials 的 Username |
+| `CW_PASS` | Application Credentials 的 Password |
 
-### 選用：Finnhub 補時段
-到 https://finnhub.io 註冊免費帳號拿 API key，在 repo **Settings → Secrets and variables → Actions** 新增 `FINNHUB_API_KEY`。
+選用：`FINNHUB_API_KEY`（https://finnhub.io 免費 key），用來補上「時間未定」公司的盤前／盤後。
+
+Cloudways 後台另外要在 Varnish 設定排除 `/earnings`，避免訪客看到舊頁面。
+
+手動立即更新：**Actions → Update earnings calendar → Run workflow**。
+
+SEO：到 Google Search Console 提交 `https://george-dewi.com/earnings/sitemap.xml`。
 
 ## 手動修正（data/overrides.json）
 
