@@ -1,0 +1,114 @@
+{
+ "days": {
+  "2026-10-05": [],
+  "2026-10-06": [
+   {
+    "eps": "$3.62",
+    "fq": "Aug/2026",
+    "lastYearEps": "",
+    "marketCap": 20218458100,
+    "name": "Constellation Brands Inc",
+    "symbol": "STZ",
+    "time": "tbd"
+   },
+   {
+    "eps": "$1.95",
+    "fq": "Aug/2026",
+    "lastYearEps": "",
+    "marketCap": 12540387300,
+    "name": "RPM International Inc.",
+    "symbol": "RPM",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.59",
+    "fq": "Aug/2026",
+    "lastYearEps": "",
+    "marketCap": 6625861600,
+    "name": "Lamb Weston Holdings, Inc.",
+    "symbol": "LW",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.61",
+    "fq": "Aug/2026",
+    "lastYearEps": "",
+    "marketCap": 3720732420,
+    "name": "Penguin Solutions, Inc.",
+    "symbol": "PENG",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.04",
+    "fq": "Aug/2026",
+    "lastYearEps": "",
+    "marketCap": 2547478020,
+    "name": "Neogen Corporation",
+    "symbol": "NEOG",
+    "time": "tbd"
+   }
+  ],
+  "2026-10-07": [
+   {
+    "eps": "$0.36",
+    "fq": "Aug/2026",
+    "lastYearEps": "",
+    "marketCap": 7508434400,
+    "name": "Levi Strauss & Co.",
+    "symbol": "LEVI",
+    "time": "tbd"
+   },
+   {
+    "eps": "($0.26)",
+    "fq": "Aug/2026",
+    "lastYearEps": "",
+    "marketCap": 7121437200,
+    "name": "Applied Digital Corporation",
+    "symbol": "APLD",
+    "time": "tbd"
+   }
+  ],
+  "2026-10-08": [
+   {
+    "eps": "$2.29",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 168878031000,
+    "name": "Pepsico, Inc.",
+    "symbol": "PEP",
+    "time": "bmo"
+   },
+   {
+    "eps": "($0.08)",
+    "fq": "Aug/2026",
+    "lastYearEps": "",
+    "marketCap": 2797139970,
+    "name": "Novagold Resources Inc.",
+    "symbol": "NG",
+    "time": "bmo"
+   },
+   {
+    "eps": "($0.56)",
+    "fq": "Aug/2026",
+    "lastYearEps": "",
+    "marketCap": 2358957570,
+    "name": "Nurix Therapeutics, Inc.",
+    "symbol": "NRIX",
+    "time": "tbd"
+   }
+  ],
+  "2026-10-09": [
+   {
+    "eps": "$1.93",
+    "fq": "Sep/2026",
+    "lastYearEps": "$1.71",
+    "marketCap": 54562984000,
+    "name": "Delta Air Lines, Inc.",
+    "symbol": "DAL",
+    "time": "bmo"
+   }
+  ]
+ },
+ "updatedAt": "2026-10-09T08:11:04+00:00",
+ "week": "2026-10-05"
+}
