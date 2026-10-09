@@ -5,7 +5,7 @@
     "eps": "$1.04",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 8551802400,
+    "marketCap": 8602175500,
     "name": "Jefferies Financial Group Inc.",
     "symbol": "JEF",
     "time": "tbd"
@@ -14,7 +14,7 @@
     "eps": "($5.40)",
     "fq": "Jul/2026",
     "lastYearEps": "",
-    "marketCap": 5155358700,
+    "marketCap": 5205960700,
     "name": "Vail Resorts, Inc.",
     "symbol": "MTN",
     "time": "tbd"
@@ -23,9 +23,18 @@
     "eps": "",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 4004147200,
+    "marketCap": 4082927870,
     "name": "AAR Corp.",
     "symbol": "AIR",
+    "time": "tbd"
+   },
+   {
+    "eps": "",
+    "fq": "Jul/2026",
+    "lastYearEps": "",
+    "marketCap": 2003240060,
+    "name": "IDT Corporation",
+    "symbol": "IDT",
     "time": "tbd"
    }
   ],
@@ -63,7 +72,7 @@
     "eps": "$31.41",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 1228779680000,
+    "marketCap": 1169870550000,
     "name": "Micron Technology, Inc.",
     "symbol": "MU",
     "time": "tbd"
@@ -72,7 +81,7 @@
     "eps": "$3.89",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 31380588500,
+    "marketCap": 31348105200,
     "name": "Jabil Inc.",
     "symbol": "JBL",
     "time": "tbd"
@@ -81,7 +90,7 @@
     "eps": "$4.32",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 9701568500,
+    "marketCap": 10190239700,
     "name": "FactSet Research Systems Inc.",
     "symbol": "FDS",
     "time": "tbd"
@@ -90,7 +99,7 @@
     "eps": "$0.31",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 6325702700,
+    "marketCap": 6478474200,
     "name": "ConAgra Brands, Inc.",
     "symbol": "CAG",
     "time": "tbd"
@@ -99,7 +108,7 @@
     "eps": "",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 2928755460,
+    "marketCap": 3028249090,
     "name": "Cal-Maine Foods, Inc.",
     "symbol": "CALM",
     "time": "tbd"
@@ -110,7 +119,7 @@
     "eps": "$3.19",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 131259212000,
+    "marketCap": 139082433000,
     "name": "Accenture plc",
     "symbol": "ACN",
     "time": "tbd"
@@ -119,7 +128,7 @@
     "eps": "$0.43",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 51035210000,
+    "marketCap": 51599630000,
     "name": "Nike, Inc.",
     "symbol": "NKE",
     "time": "tbd"
@@ -128,7 +137,7 @@
     "eps": "$0.75",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 12175167500,
+    "marketCap": 12360821800,
     "name": "McCormick & Company, Incorporated",
     "symbol": "MKC",
     "time": "tbd"
@@ -137,7 +146,7 @@
     "eps": "",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 12175167500,
+    "marketCap": 12360821800,
     "name": "McCormick & Company, Incorporated",
     "symbol": "MKC.V",
     "time": "tbd"
@@ -146,7 +155,7 @@
     "eps": "$5.19",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 8993237000,
+    "marketCap": 8993536000,
     "name": "Acuity Inc.",
     "symbol": "AYI",
     "time": "tbd"
@@ -154,6 +163,6 @@
   ],
   "2026-10-02": []
  },
- "updatedAt": "2026-10-09T11:42:55+00:00",
+ "updatedAt": "2026-10-09T12:40:51+00:00",
  "week": "2026-09-28"
 }
