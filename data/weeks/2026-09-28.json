@@ -34,7 +34,7 @@
     "eps": "$1.36",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 35161555000,
+    "marketCap": 35134665000,
     "name": "Carnival Corporation Ltd.",
     "symbol": "CCL",
     "time": "tbd"
@@ -43,7 +43,7 @@
     "eps": "$0.68",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 7562712600,
+    "marketCap": 7635103700,
     "name": "CarMax Inc",
     "symbol": "KMX",
     "time": "tbd"
@@ -52,7 +52,7 @@
     "eps": "($0.04)",
     "fq": "Jul/2026",
     "lastYearEps": "",
-    "marketCap": 4693186600,
+    "marketCap": 4529644000,
     "name": "Uranium Energy Corp.",
     "symbol": "UEC",
     "time": "tbd"
@@ -154,6 +154,6 @@
   ],
   "2026-10-02": []
  },
- "updatedAt": "2026-10-09T09:23:09+00:00",
+ "updatedAt": "2026-10-09T11:42:55+00:00",
  "week": "2026-09-28"
 }

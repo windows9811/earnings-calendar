@@ -12,7 +12,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$2.82",
+    "eps": "$2.53",
     "fq": "Sep/2026",
     "lastYearEps": "$2.80",
     "marketCap": 622838280000,
@@ -104,7 +104,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$1.12",
+    "eps": "$1.11",
     "fq": "Sep/2026",
     "lastYearEps": "$1.06",
     "marketCap": 374251880000,
@@ -113,7 +113,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$2.88",
+    "eps": "$2.83",
     "fq": "Sep/2026",
     "lastYearEps": "$2.80",
     "marketCap": 297952117000,
@@ -122,12 +122,21 @@
     "time": "bmo"
    },
    {
-    "eps": "$14.04",
+    "eps": "$14.01",
     "fq": "Sep/2026",
     "lastYearEps": "$11.55",
     "marketCap": 165652808000,
     "name": "BlackRock, Inc.",
     "symbol": "BLK",
+    "time": "bmo"
+   },
+   {
+    "eps": "$4.37",
+    "fq": "Sep/2026",
+    "lastYearEps": "$4.05",
+    "marketCap": 124483322000,
+    "name": "Progressive Corporation (The)",
+    "symbol": "PGR",
     "time": "bmo"
    },
    {
@@ -187,7 +196,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$2.27",
+    "eps": "$2.26",
     "fq": "Sep/2026",
     "lastYearEps": "$1.91",
     "marketCap": 96836108000,
@@ -196,7 +205,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$1.33",
+    "eps": "$1.32",
     "fq": "Sep/2026",
     "lastYearEps": "$1.22",
     "marketCap": 87515750000,
@@ -259,15 +268,6 @@
     "time": "amc"
    },
    {
-    "eps": "$4.91",
-    "fq": "Sep/2026",
-    "lastYearEps": "$4.71",
-    "marketCap": 18616074200,
-    "name": "Snap-On Incorporated",
-    "symbol": "SNA",
-    "time": "tbd"
-   },
-   {
     "eps": "$0.04",
     "fq": "Sep/2026",
     "lastYearEps": "$0.03",
@@ -277,7 +277,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$1.58",
+    "eps": "$1.65",
     "fq": "Sep/2026",
     "lastYearEps": "($0.02)",
     "marketCap": 11210872800,
@@ -319,7 +319,7 @@
     "marketCap": 3625218050,
     "name": "Cohen & Steers Inc",
     "symbol": "CNS",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$0.53",
@@ -329,15 +329,6 @@
     "name": "Simmons First National Corporation",
     "symbol": "SFNC",
     "time": "amc"
-   },
-   {
-    "eps": "$0.11",
-    "fq": "Sep/2026",
-    "lastYearEps": "($0.06)",
-    "marketCap": 3167545340,
-    "name": "Liberty Energy Inc.",
-    "symbol": "LBRT",
-    "time": "tbd"
    },
    {
     "eps": "$1.01",
@@ -396,7 +387,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$5",
+    "eps": "$4.98",
     "fq": "Sep/2026",
     "lastYearEps": "$4.87",
     "marketCap": 31284895700,
@@ -433,6 +424,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-09T09:23:37+00:00",
+ "updatedAt": "2026-10-09T11:43:21+00:00",
  "week": "2026-10-12"
 }

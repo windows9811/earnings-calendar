@@ -6,7 +6,7 @@
     "eps": "$3.62",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 20218458100,
+    "marketCap": 20918009900,
     "name": "Constellation Brands Inc",
     "symbol": "STZ",
     "time": "tbd"
@@ -15,7 +15,7 @@
     "eps": "$1.95",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 12540387300,
+    "marketCap": 12680674300,
     "name": "RPM International Inc.",
     "symbol": "RPM",
     "time": "tbd"
@@ -24,7 +24,7 @@
     "eps": "$0.59",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 6625861600,
+    "marketCap": 6814620700,
     "name": "Lamb Weston Holdings, Inc.",
     "symbol": "LW",
     "time": "tbd"
@@ -33,7 +33,7 @@
     "eps": "$0.61",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 3720732420,
+    "marketCap": 3667439870,
     "name": "Penguin Solutions, Inc.",
     "symbol": "PENG",
     "time": "tbd"
@@ -42,7 +42,7 @@
     "eps": "$0.04",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 2547478020,
+    "marketCap": 2556363780,
     "name": "Neogen Corporation",
     "symbol": "NEOG",
     "time": "tbd"
@@ -53,7 +53,7 @@
     "eps": "$0.36",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 7508434400,
+    "marketCap": 7305098800,
     "name": "Levi Strauss & Co.",
     "symbol": "LEVI",
     "time": "tbd"
@@ -62,7 +62,7 @@
     "eps": "($0.26)",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 7121437200,
+    "marketCap": 7211933200,
     "name": "Applied Digital Corporation",
     "symbol": "APLD",
     "time": "tbd"
@@ -73,25 +73,25 @@
     "eps": "$2.29",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 168878031000,
+    "marketCap": 175170175000,
     "name": "Pepsico, Inc.",
     "symbol": "PEP",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "($0.08)",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 2797139970,
+    "marketCap": 2735858430,
     "name": "Novagold Resources Inc.",
     "symbol": "NG",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "($0.56)",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 2358957570,
+    "marketCap": 2304991230,
     "name": "Nurix Therapeutics, Inc.",
     "symbol": "NRIX",
     "time": "tbd"
@@ -99,7 +99,7 @@
   ],
   "2026-10-09": [
    {
-    "eps": "$1.93",
+    "eps": "$1.80",
     "fq": "Sep/2026",
     "lastYearEps": "$1.71",
     "marketCap": 54562984000,
@@ -109,6 +109,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-09T09:23:23+00:00",
+ "updatedAt": "2026-10-09T11:43:09+00:00",
  "week": "2026-10-05"
 }
