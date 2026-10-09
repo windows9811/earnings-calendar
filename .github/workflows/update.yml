@@ -46,39 +46,44 @@ jobs:
           git pull --rebase -X theirs origin main   # 期間若有其他更新（例如你改了設定），先合併再推
           git push
 
-      # 只同步 dist/earnings/ → 網站的 public_html/earnings/，不會碰到 WordPress 其他檔案
+      # 只同步 dist/earnings/ → 網站的 public_html/earnings/（SFTP），不會碰到 WordPress 其他檔案
       - name: Upload to Cloudways (/earnings)
         env:
           CW_HOST: ${{ secrets.CW_HOST }}
           CW_USER: ${{ secrets.CW_USER }}
-          SSHPASS: ${{ secrets.CW_PASS }}
+          LFTP_PASSWORD: ${{ secrets.CW_PASS }}
         run: |
-          if [ -z "$CW_HOST" ] || [ -z "$CW_USER" ] || [ -z "$SSHPASS" ]; then
+          if [ -z "$CW_HOST" ] || [ -z "$CW_USER" ] || [ -z "$LFTP_PASSWORD" ]; then
             echo "::error::尚未設定 Cloudways 連線資料（CW_HOST / CW_USER / CW_PASS），請到 Settings → Secrets and variables → Actions 新增"
             exit 1
           fi
           test -f dist/earnings/index.html   # 網頁沒產生成功就不上傳
-          # 檢查是否不小心多複製了空白（只顯示長度，不會顯示內容）
-          for v in CW_HOST CW_USER SSHPASS; do
+          for v in CW_HOST CW_USER LFTP_PASSWORD; do
             val="${!v}"
             if [[ "$val" =~ ^[[:space:]] || "$val" =~ [[:space:]]$ ]]; then echo "::warning::$v 前後有多餘的空白或換行，請重新貼上"; fi
           done
-          echo "Username 長度：${#CW_USER}，Password 長度：${#SSHPASS}"
-          sudo apt-get install -y -qq sshpass rsync > /dev/null
-          SSH_OPTS="-o StrictHostKeyChecking=accept-new -o ConnectTimeout=20"
-          methods=$(ssh $SSH_OPTS -o PreferredAuthentications=none -o BatchMode=yes "$CW_USER@$CW_HOST" true 2>&1 | tail -1 || true)
-          echo "主機回應：$methods"
+          sudo apt-get install -y -qq lftp > /dev/null
+          # logo 很少變動：固定檔案時間，之後只會上傳有變的檔案
+          find dist/earnings/logos -type f -exec touch -t 202001010000 {} +
+          LFTP="lftp --env-password -u $CW_USER sftp://$CW_HOST"
+          SETTINGS="set sftp:auto-confirm yes; set net:max-retries 2; set net:timeout 30; set net:reconnect-interval-base 5"
           set +e
-          sshpass -e rsync -rlz --checksum --delete --chmod=D755,F644 \
-            -e "ssh $SSH_OPTS -o PreferredAuthentications=password,keyboard-interactive -o PubkeyAuthentication=no" \
-            dist/earnings/ "$CW_USER@$CW_HOST:public_html/earnings/"
+          home=$($LFTP -e "$SETTINGS; cls -1; bye" 2>&1)
+          code=$?
+          if [ $code -ne 0 ]; then
+            echo "::error::無法用 SFTP 登入 Cloudways：$(echo "$home" | tail -3 | tr '\n' ' ')"
+            exit 1
+          fi
+          if ! echo "$home" | grep -q '^public_html/\?$'; then
+            echo "::error::登入後找不到 public_html 資料夾，登入位置的內容是：$(echo "$home" | head -20 | tr '\n' ' ')"
+            exit 1
+          fi
+          out=$($LFTP -e "$SETTINGS; mirror -R --delete --parallel=6 --verbose=1 dist/earnings public_html/earnings; bye" 2>&1)
           code=$?
           set -e
-          case $code in
-            0) echo "已上傳到 public_html/earnings/" ;;
-            5) echo "::error::Cloudways 拒絕了帳號或密碼（主機回應：$methods）。請確認用的是 Access Details → Application Credentials 的 Username / Password，不是 Admin Panel 或 MySQL 的。" ;;
-            6) echo "::error::無法確認主機身分（host key）。" ;;
-            255) echo "::error::連不上主機（主機回應：$methods）。請確認 CW_HOST 是 Public IP，且 Cloudways 沒有限制 SSH/SFTP 只允許特定 IP。" ;;
-            *) echo "::error::上傳失敗，錯誤代碼 $code（主機回應：$methods）" ;;
-          esac
-          exit $code
+          echo "$out" | tail -40
+          if [ $code -ne 0 ]; then
+            echo "::error::上傳失敗（代碼 $code）：$(echo "$out" | grep -iv '^Transferring' | tail -5 | tr '\n' ' ')"
+            exit $code
+          fi
+          echo "已上傳到 public_html/earnings/"
