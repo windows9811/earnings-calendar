@@ -159,8 +159,42 @@ a { color: inherit; text-decoration: none; }
 .capturing { padding: 28px 24px 20px; }
 .capturing .weekbar-actions, .capturing .circle.prev, .capturing .back, .capturing .more { visibility: hidden; }
 
-.foot { margin-top: 28px; text-align: center; color: var(--muted-2); font-size: 12.5px; }
+/* ---------- today ---------- */
+.today-tag { display: none; margin-left: auto; padding: 2px 8px; border-radius: 999px; font-size: 11px; font-weight: 700; color: #fff; background: var(--accent); }
+.day.today { border-color: var(--accent); box-shadow: 0 0 0 2px rgba(var(--accent-rgb), .22); }
+.day.today .today-tag { display: inline-block; }
+
+/* ---------- about + FAQ ---------- */
+.info { max-width: 920px; margin: 72px auto 0; padding: 0 4px; }
+.info-kicker { margin: 0; text-align: center; font-size: 12px; font-weight: 700; letter-spacing: .32em; color: var(--muted); }
+.info h2 { margin: 10px 0 30px; text-align: center; font-family: "Noto Sans TC", sans-serif; font-weight: 900; font-size: clamp(26px, 3.4vw, 38px); }
+.info h3 { margin: 30px 0 10px; font-family: "Noto Sans TC", sans-serif; font-size: 19px; font-weight: 700; }
+.info p { margin: 0; color: var(--muted); font-size: 16px; line-height: 1.9; }
+.info p b { color: var(--fg); }
+.faq { border-top: 1px solid var(--border); padding-top: 64px; }
+.faq h2 { margin-bottom: 18px; }
+.faq-item { border-bottom: 1px solid var(--border); }
+.faq-item:first-of-type { border-top: 1px solid var(--border); }
+.faq-item summary { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 22px 0; cursor: pointer; list-style: none; }
+.faq-item summary::-webkit-details-marker { display: none; }
+.faq-item summary h3 { margin: 0; font-size: 17px; }
+.faq-item summary:hover h3 { color: var(--accent-text); }
+.faq-item p { padding: 0 0 22px; font-size: 15.5px; }
+.faq-ico { position: relative; width: 14px; height: 14px; flex-shrink: 0; transition: transform .2s; }
+.faq-ico::before, .faq-ico::after { content: ""; position: absolute; left: 0; top: 6px; width: 14px; height: 2px; border-radius: 2px; background: var(--muted); }
+.faq-ico::after { transform: rotate(90deg); }
+.faq-item[open] .faq-ico { transform: rotate(45deg); }
+
+.foot { margin-top: 56px; padding-top: 24px; border-top: 1px solid var(--border); text-align: center; color: var(--muted-2); font-size: 12.5px; }
 .foot p { margin: 4px 0; }
+.foot-by { margin-top: 10px !important; font-size: 13.5px; color: var(--muted); }
+.foot-by a { color: var(--accent-text); }
+@media (max-width: 640px) {
+  .info { margin-top: 48px; }
+  .info h3 { font-size: 17px; }
+  .info p { font-size: 15px; line-height: 1.85; }
+  .faq { padding-top: 44px; }
+}
 
 .toast {
   position: fixed; left: 50%; bottom: 28px; transform: translate(-50%, 20px);

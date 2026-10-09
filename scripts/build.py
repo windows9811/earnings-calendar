@@ -9,6 +9,8 @@ folder can be uploaded as  https://your-site.com/earnings/  without touching Wor
 """
 import glob
 import html
+import json
+import re
 import os
 import shutil
 import sys
@@ -140,12 +142,79 @@ def render_board(monday, groups, root, visible):
         if g["tbd"]:
             tbd = f'<div class="tbd-row">{column(ds, "tbd", g["tbd"], root, visible)}</div>'
         cols.append(
-            f'<section class="day" aria-label="{WD_ZH[i]} {d.month}/{d.day}">'
+            f'<section class="day" data-date="{ds}" aria-label="{WD_ZH[i]} {d.month}/{d.day}">'
             f'<header class="day-h"><span class="zh">{WD_ZH[i]}</span>'
-            f'<span class="en">{WD_EN[i]} · {d.month}/{d.day}</span></header>'
+            f'<span class="en">{WD_EN[i]} · {d.month}/{d.day}</span><span class="today-tag">今天</span></header>'
             f'<div class="day-cols">{column(ds, "bmo", g["bmo"], root, visible)}'
             f'{column(ds, "amc", g["amc"], root, visible)}</div>{tbd}</section>')
     return f'<div class="board">{"".join(cols)}</div>'
+
+
+def cap_zh(v):
+    """10000000000 -> '100 億美元'"""
+    return f"{v / 1e8:,.0f} 億美元"
+
+
+def about_faq(cfg):
+    """About + FAQ blocks below the calendar (SEO text) and the FAQPage JSON-LD."""
+    min_cap = cap_zh(cfg.get("minMarketCap", 1e10))
+    per_week = int(cfg.get("maxPerWeek", 0) or 0)
+    cap_rule = f"財報旺季時每週依市值取前 {per_week} 家，" if per_week else ""
+    about = [
+        ("為什麼要看財報行事曆？",
+         "財報公布前後，常常是一檔美股一季當中波動最大的時候：營收、獲利或財測只要和市場預期有落差，"
+         "股價就可能在盤後或隔天開盤大幅跳動。事先知道<b>哪一天、盤前還是盤後</b>有哪些重點公司公布財報，"
+         "就能提前檢視持股、評估要不要調整部位，或是單純避開這段不確定的時間。"
+         "這個頁面把每週值得關注的美股財報整理成一張週曆，用繁體中文一眼看完。"),
+        ("怎麼使用這份行事曆？",
+         "每一欄是一個美股交易日（週一到週五），欄內分成<b>盤前（Before Open）</b>與<b>盤後（After Close）</b>；"
+         "還沒公布時段的公司會放在下方「時間未定」。同一時段依市值由大到小排列，今天會以藍色外框標示。"
+         "點公司 logo 可以前往該公司官方網站；用上方左右箭頭切換上一週／下一週，也可以按右上角下載整週圖片。"
+         "所有日期皆為美東時間（US Eastern Time）。"),
+        ("收錄哪些公司？",
+         f"以市場關注度為標準，收錄在美國上市、市值約 {min_cap}以上的公司，包含 Apple、Microsoft、NVIDIA 等科技巨頭，"
+         f"以及台積電（TSM）等在美掛牌的 ADR。{cap_rule}同一家公司若有多種股別（例如 GOOG／GOOGL）只列一次。"),
+    ]
+    faq = [
+        ("美股財報行事曆是什麼？",
+         "美股財報行事曆（US Earnings Calendar）是列出美國上市公司何時公布季度財報的時間表。"
+         "本頁每週整理「最受矚目」的公司，以週一到週五分欄，並標示盤前或盤後公布，"
+         "讓你快速掌握本週與未來幾週的重點財報。"),
+        ("盤前與盤後是什麼意思？換算台灣時間是幾點？",
+         "盤前是在美股開盤（美東時間上午 9:30）前公布，開盤就會反應；盤後是在收盤（美東時間下午 4:00）後公布，"
+         "先在盤後交易反應、隔天開盤再延續。換算台灣時間：美國夏令時間（約 3 月中到 11 月初）開盤是晚上 9:30、"
+         "收盤是清晨 4:00；冬令時間各晚一小時，也就是晚上 10:30 開盤、清晨 5:00 收盤。"),
+        ("「時間未定」是什麼意思？",
+         "代表公司還沒公布會在盤前或盤後發布財報。多數公司會在財報日前 2～4 週正式公告，"
+         "本頁每天自動更新，公司公布後就會移到正確的欄位。"),
+        ("美股財報季是什麼時候？",
+         "每一季結束後約 2～6 週是財報最集中的「財報季」，大約從 1 月中、4 月中、7 月中與 10 月中開始。"
+         "通常由 JPMorgan 等大型銀行率先公布，接下來三到四週進入高峰，"
+         "Mag 7 等科技巨頭多半在財報季的第二到第四週登場。"),
+        ("為什麼這裡的財報日期跟其他網站不一樣？",
+         "公司正式公告之前，多數網站顯示的是依過去公布規律「推估」的日期，公司也可能臨時改期。"
+         "本頁每天同步最新資料，公司確認或改期後會自動更新；日期與時段仍請以公司官方公告為準。"),
+        ("資料多久更新一次？來源是什麼？",
+         "每天自動更新兩次（台北時間早上 6:15 與晚上 7:30），涵蓋本週與未來 6 週的財報，過去週次的頁面也會保留供回顧。"
+         "財報日期與時段來自 Nasdaq 財報行事曆，公司官網連結與 logo 則整理自公開資料。"),
+    ]
+    about_html = "".join(f'<h3>{q}</h3><p>{a}</p>' for q, a in about)
+    faq_html = "".join(
+        f'<details class="faq-item" open><summary><h3>{q}</h3><span class="faq-ico" aria-hidden="true"></span></summary>'
+        f'<p>{a}</p></details>' for q, a in faq)
+    block = (f'<section class="info" aria-labelledby="about-h"><p class="info-kicker">ABOUT</p>'
+             f'<h2 id="about-h">關於美股財報行事曆</h2>{about_html}</section>'
+             f'<section class="info faq" aria-labelledby="faq-h"><p class="info-kicker">FAQ</p>'
+             f'<h2 id="faq-h">美股財報行事曆常見問題</h2>{faq_html}</section>')
+    ld = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [{"@type": "Question", "name": q,
+                        "acceptedAnswer": {"@type": "Answer", "text": re.sub(r"<[^>]+>", "", a)}}
+                       for q, a in faq],
+    }
+    ld_json = json.dumps(ld, ensure_ascii=False).replace("</", "<\\/")
+    return block, f'<script type="application/ld+json">{ld_json}</script>'
 
 
 def range_text(monday):
@@ -188,6 +257,8 @@ def page(cfg, monday, groups, prev_m, next_m, cur_m, updated_at, is_index):
     home = cfg.get("homeLink") or here
     if "example.com" in home:
         home = here
+    info_html, faq_ld = about_faq(cfg)
+    maintainer = cfg.get("maintainer") or cfg.get("siteTagline", "")
     canon_tags = "" if not site_url else (f'<link rel="canonical" href="{E(canonical)}">\n'
                                           f'<meta property="og:url" content="{E(canonical)}">\n')
 
@@ -202,6 +273,7 @@ def page(cfg, monday, groups, prev_m, next_m, cur_m, updated_at, is_index):
 <meta property="og:title" content="{E(title)}">
 <meta property="og:description" content="{E(desc)}">
 <meta name="twitter:card" content="summary">
+{faq_ld}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -236,9 +308,11 @@ def page(cfg, monday, groups, prev_m, next_m, cur_m, updated_at, is_index):
     {render_board(monday, groups, root, visible)}
     <p class="capture-foot">{E(site)}{(" · " + E(canonical)) if site_url else ""}</p>
   </div>
+  {info_html}
   <footer class="foot">
-    <p>點擊公司 logo 可前往該公司官方網站。財報日期與盤前／盤後時段以公司正式公告為準；「時間未定」代表公司尚未公布時段。</p>
-    <p>資料來源：Nasdaq Earnings Calendar · 收錄條件：市值 ≥ {fmt_cap(cfg.get("minMarketCap", 1e10))} · 每日自動更新 · 最後更新 {upd}（台北時間）</p>
+    <p>資料來源：Nasdaq Earnings Calendar · 收錄條件：市值 ≥ {cap_zh(cfg.get("minMarketCap", 1e10))} · 每日自動更新 · 最後更新 {upd}（台北時間）</p>
+    <p>本頁內容僅供參考，不構成任何投資建議；財報日期與時段以公司正式公告為準。</p>
+    <p class="foot-by">由 <a href="{E(home)}">{E(maintainer)}</a> 編輯與維護 · 美股財報行事曆 US Earnings Calendar</p>
   </footer>
 </main>
 <div id="toast" class="toast" role="status" aria-live="polite"></div>

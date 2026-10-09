@@ -17,7 +17,7 @@ GitHub Actions（每天 2 次，在 GitHub 的伺服器上跑，不吃部落格�
        └─ 公司 logo：Wikidata → Wikipedia → Parqet → FMP，過大的自動縮小，存到 public/logos/
   └─ scripts/build.py    產生靜態網頁到 dist/earnings/（全部檔案都在這個資料夾裡）
   └─ 把新資料 commit 回 repo
-  └─ 用 rsync 只同步 dist/earnings/ → Cloudways 的 public_html/earnings/
+  └─ 用 SFTP 只同步 dist/earnings/ → Cloudways 的 public_html/earnings/
 ```
 
 網址：`https://george-dewi.com/earnings/`。不會動到 WordPress 的任何檔案或資料庫。

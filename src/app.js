@@ -8,6 +8,13 @@
     toastTimer = setTimeout(function () { toastEl.classList.remove('show'); }, 2200);
   }
 
+  // 今天（美東時間）加上藍色外框
+  try {
+    var todayET = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York' }).format(new Date());
+    var todayCol = document.querySelector('.day[data-date="' + todayET + '"]');
+    if (todayCol) todayCol.classList.add('today');
+  } catch (e) {}
+
   // 顯示更多 / 收合
   document.querySelectorAll('.more').forEach(function (btn) {
     var label = btn.querySelector('span');
