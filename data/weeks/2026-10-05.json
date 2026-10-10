@@ -101,7 +101,7 @@
    {
     "eps": "$1.80",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.71",
+    "lastYearEps": "",
     "marketCap": 54017155000,
     "name": "Delta Air Lines, Inc.",
     "symbol": "DAL",
@@ -109,6 +109,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-09T22:32:22+00:00",
+ "updatedAt": "2026-10-10T06:49:08+00:00",
  "week": "2026-10-05"
 }

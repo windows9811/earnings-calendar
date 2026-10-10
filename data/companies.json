@@ -1,4 +1,11 @@
 {
+ "A": {
+  "checkedAt": "2026-10-10T06:50:35+00:00",
+  "label": "Agilent Technologies",
+  "logo": "A.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.agilent.com"
+ },
  "AA": {
   "checkedAt": "2026-10-09T08:12:57+00:00",
   "label": "Alcoa",
@@ -102,6 +109,13 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-20"
  },
+ "ADI": {
+  "checkedAt": "2026-10-10T06:50:37+00:00",
+  "label": "Analog Devices",
+  "logo": "ADI.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.analog.com"
+ },
  "ADM": {
   "checkedAt": "2026-10-09T08:18:14+00:00",
   "label": "Archer Daniels Midland",
@@ -119,6 +133,13 @@
   "logo": "ADP.svg",
   "logoSource": "wikidata",
   "website": "https://www.adp.com"
+ },
+ "ADSK": {
+  "checkedAt": "2026-10-10T06:50:38+00:00",
+  "label": "Autodesk",
+  "logo": "ADSK.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.autodesk.com"
  },
  "AEE": {
   "checkedAt": "2026-10-09T08:19:25+00:00",
@@ -818,6 +839,13 @@
   "logoSource": "wikidata",
   "website": "https://www.boeing.com"
  },
+ "BABA": {
+  "checkedAt": "2026-10-10T06:50:36+00:00",
+  "label": "Alibaba Group",
+  "logo": "BABA.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.alibabagroup.com"
+ },
  "BAC": {
   "checkedAt": "2026-10-09T08:12:51+00:00",
   "label": "Bank of America",
@@ -914,6 +942,13 @@
   "logo": "BBVA.svg",
   "logoSource": "wikidata",
   "website": "https://www.bbva.com"
+ },
+ "BBY": {
+  "checkedAt": "2026-10-10T06:50:40+00:00",
+  "label": "Best Buy",
+  "logo": "BBY.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.bestbuy.com"
  },
  "BC": {
   "lastTime": "bmo",
@@ -1260,6 +1295,13 @@
   "logoSource": "parqet",
   "website": "https://www.ab-inbev.com"
  },
+ "BURL": {
+  "checkedAt": "2026-10-10T06:50:40+00:00",
+  "label": "Burlington",
+  "logo": "BURL.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.burlington.com"
+ },
  "BUSE": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-27"
@@ -1272,6 +1314,10 @@
   "logo": "BWA.svg",
   "logoSource": "wikidata",
   "website": "https://www.borgwarner.com"
+ },
+ "BWLP": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-23"
  },
  "BWXT": {
   "checkedAt": "2026-10-09T08:17:53+00:00",
@@ -2099,12 +2145,28 @@
   "logoSource": "wikipedia",
   "website": "https://www.datadog.com"
  },
+ "DE": {
+  "checkedAt": "2026-10-10T06:50:40+00:00",
+  "label": "Deere & Company",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-25",
+  "logo": "DE.png",
+  "logoSource": "wikidata",
+  "website": "https://www.deere.com"
+ },
  "DECK": {
   "checkedAt": "2026-10-09T08:14:01+00:00",
   "label": "Deckers Outdoor Corporation",
   "logo": "DECK.png",
   "logoSource": "wikidata",
   "website": "https://www.deckers.com"
+ },
+ "DELL": {
+  "checkedAt": "2026-10-10T06:50:35+00:00",
+  "label": "Dell",
+  "logo": "DELL.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.dell.com"
  },
  "DGX": {
   "checkedAt": "2026-10-09T08:13:54+00:00",
@@ -2148,6 +2210,13 @@
   "logo": "DIS.svg",
   "logoSource": "wikidata",
   "website": "https://www.thewaltdisneycompany.com"
+ },
+ "DKS": {
+  "checkedAt": "2026-10-10T06:50:40+00:00",
+  "label": "Dick's Sporting Goods",
+  "logo": "DKS.svg",
+  "logoSource": "wikipedia",
+  "website": "https://www.dicks.com"
  },
  "DLR": {
   "checkedAt": "2026-10-09T08:16:17+00:00",
@@ -3564,6 +3633,13 @@
   "logoSource": "wikidata",
   "website": "https://www.robinhood.com"
  },
+ "HPQ": {
+  "checkedAt": "2026-10-10T06:50:39+00:00",
+  "label": "HP Inc.",
+  "logo": "HPQ.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.hp.com"
+ },
  "HR": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-29"
@@ -4096,6 +4172,13 @@
   "logoSource": "wikidata",
   "website": "https://www.key.com"
  },
+ "KEYS": {
+  "checkedAt": "2026-10-10T06:50:36+00:00",
+  "label": "Keysight Technologies",
+  "logo": "KEYS.svg",
+  "logoSource": "wikipedia",
+  "website": "https://www.keysight.com"
+ },
  "KGC": {
   "checkedAt": "2026-10-09T08:15:34+00:00",
   "label": "Kinross Gold",
@@ -4301,6 +4384,13 @@
   "logo": "LHX.svg",
   "logoSource": "wikidata",
   "website": "https://www.l3harris.com"
+ },
+ "LI": {
+  "checkedAt": "2026-10-10T06:50:41+00:00",
+  "label": "Li Auto",
+  "logo": "LI.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.lixiang.com"
  },
  "LII": {
   "checkedAt": "2026-10-09T08:15:47+00:00",
@@ -5150,12 +5240,26 @@
   "logoSource": "wikipedia",
   "website": "https://www.norfolksouthern.com"
  },
+ "NTAP": {
+  "checkedAt": "2026-10-10T06:50:39+00:00",
+  "label": "NetApp",
+  "logo": "NTAP.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.netapp.com"
+ },
  "NTES": {
   "checkedAt": "2026-10-09T08:22:38+00:00",
   "label": "NetEase",
   "logo": "NTES.svg",
   "logoSource": "parqet",
   "website": "https://ir.netease.com"
+ },
+ "NTNX": {
+  "checkedAt": "2026-10-10T06:50:39+00:00",
+  "label": "Nutanix",
+  "logo": "NTNX.png",
+  "logoSource": "wikidata",
+  "website": "https://www.nutanix.com"
  },
  "NTR": {
   "checkedAt": "2026-10-09T08:19:21+00:00",
@@ -6483,6 +6587,13 @@
   "logoSource": "wikipedia",
   "website": "https://www.sitime.com"
  },
+ "SJM": {
+  "checkedAt": "2026-10-10T06:50:41+00:00",
+  "label": "The J.M. Smucker Company",
+  "logo": "SJM.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.jmsmucker.com"
+ },
  "SKM": {
   "checkedAt": "2026-10-09T08:17:03+00:00",
   "label": "SK Telecom",
@@ -6571,6 +6682,13 @@
  "SMR": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-05"
+ },
+ "SMTC": {
+  "checkedAt": "2026-10-10T06:50:34+00:00",
+  "label": "Semtech Corporation",
+  "logo": "SMTC.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.semtech.com"
  },
  "SN": {
   "checkedAt": "2026-10-09T08:20:58+00:00",
@@ -6864,6 +6982,13 @@
   "logo": "SYK.svg",
   "logoSource": "wikidata",
   "website": "https://www.stryker.com"
+ },
+ "SYM": {
+  "checkedAt": "2026-10-10T06:50:35+00:00",
+  "label": "Symbotic",
+  "logo": "SYM.jpg",
+  "logoSource": "wikidata",
+  "website": "https://www.symbotic.com"
  },
  "SYY": {
   "checkedAt": "2026-10-09T08:14:48+00:00",
@@ -7837,6 +7962,13 @@
   "logoSource": "parqet",
   "website": "https://www.wasteconnections.com"
  },
+ "WDAY": {
+  "checkedAt": "2026-10-10T06:50:38+00:00",
+  "label": "Workday, Inc.",
+  "logo": "WDAY.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.workday.com"
+ },
  "WDC": {
   "checkedAt": "2026-10-09T08:16:00+00:00",
   "label": "Western Digital",
@@ -8034,6 +8166,13 @@
   "logoSource": "parqet",
   "website": "https://www.willistowerswatson.com"
  },
+ "WWD": {
+  "checkedAt": "2026-10-10T06:50:36+00:00",
+  "label": "Woodward",
+  "logo": "WWD.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.woodward.com"
+ },
  "WY": {
   "checkedAt": "2026-10-09T08:17:03+00:00",
   "label": "Weyerhaeuser",
@@ -8153,6 +8292,20 @@
  "ZION": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-19"
+ },
+ "ZM": {
+  "checkedAt": "2026-10-10T06:50:35+00:00",
+  "label": "Zoom Communications",
+  "logo": "ZM.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.zoom.com"
+ },
+ "ZS": {
+  "checkedAt": "2026-10-10T06:50:39+00:00",
+  "label": "Zscaler",
+  "logo": "ZS.svg",
+  "logoSource": "wikipedia",
+  "website": "https://www.zscaler.com"
  },
  "ZTO": {
   "checkedAt": "2026-10-09T08:22:30+00:00",
