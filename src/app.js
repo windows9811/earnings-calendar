@@ -8,6 +8,25 @@
     toastTimer = setTimeout(function () { toastEl.classList.remove('show'); }, 2200);
   }
 
+  // 手機版選單（漢堡選單＋子選單展開）
+  var burger = document.querySelector('.sh-burger');
+  var nav = document.getElementById('sh-nav');
+  if (burger && nav) {
+    burger.addEventListener('click', function () {
+      var open = !nav.classList.contains('open');
+      nav.classList.toggle('open', open);
+      burger.setAttribute('aria-expanded', String(open));
+    });
+  }
+  document.querySelectorAll('.sh-toggle').forEach(function (t) {
+    t.addEventListener('click', function () {
+      var sub = t.parentNode.querySelector(':scope > .sh-sub');
+      var open = !sub.classList.contains('open');
+      sub.classList.toggle('open', open);
+      t.setAttribute('aria-expanded', String(open));
+    });
+  });
+
   // 今天（美東時間）加上藍色外框
   try {
     var todayET = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York' }).format(new Date());

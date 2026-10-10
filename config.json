@@ -5,14 +5,142 @@
   "basePath": "",
   "homeLink": "https://george-dewi.com",
   "maintainer": "慢活夫妻 George & Dewi",
-
   "minMarketCap": 10000000000,
   "maxPerWeek": 135,
   "storeMinMarketCap": 2000000000,
   "weeksAhead": 6,
   "weeksBehindRefresh": 1,
   "visiblePerColumn": 10,
-
   "timezone": "America/New_York",
-  "showNextWeekOnWeekend": true
+  "showNextWeekOnWeekend": true,
+  "logo": "https://george-dewi.com/wp-content/uploads/2023/08/LOGO.png",
+  "menu": [
+    {
+      "label": "首頁 Home page",
+      "url": "https://george-dewi.com/",
+      "children": [
+        {
+          "label": "精選文章",
+          "url": "https://george-dewi.com/blog/"
+        }
+      ]
+    },
+    {
+      "label": "關於我們",
+      "url": "https://george-dewi.com/about/",
+      "children": [
+        {
+          "label": "關於我們",
+          "url": "https://george-dewi.com/about/"
+        },
+        {
+          "label": "暢銷書《慢富》",
+          "url": "https://george-dewi.com/book-slowly-rich/"
+        },
+        {
+          "label": "我們的服務",
+          "url": "https://george-dewi.com/course-service/",
+          "children": [
+            {
+              "label": "慢遊美股 VIP 2.0",
+              "url": "https://school.george-dewi.com/courses/usvip"
+            },
+            {
+              "label": "慢遊美股 VIP 2.0 學員心得分享",
+              "url": "https://george-dewi.com/course-reviews/"
+            }
+          ]
+        },
+        {
+          "label": "異業合作",
+          "url": "https://george-dewi.com/other-cooperation/"
+        },
+        {
+          "label": "聯繫我們",
+          "url": "https://george-dewi.com/contact/"
+        }
+      ]
+    },
+    {
+      "label": "交易所開戶",
+      "url": "https://george-dewi.com/category/cryptocurrency-account-opening/",
+      "children": [
+        {
+          "label": "交易所開戶推薦",
+          "url": "https://george-dewi.com/recommended-cryptocurrency-exchanges/"
+        },
+        {
+          "label": "幣安開戶教學",
+          "url": "https://george-dewi.com/binance-account-opening/"
+        },
+        {
+          "label": "OKX開戶教學",
+          "url": "https://george-dewi.com/okx-account-opening/"
+        },
+        {
+          "label": "Pionex派網開戶教學",
+          "url": "https://george-dewi.com/pionex-account/"
+        },
+        {
+          "label": "MAX開戶教學",
+          "url": "https://george-dewi.com/max-account/"
+        },
+        {
+          "label": "BitoPro幣託開戶教學",
+          "url": "https://george-dewi.com/bitopro-account/"
+        }
+      ]
+    },
+    {
+      "label": "美股券商教學",
+      "url": "https://george-dewi.com/category/us-stock-account/",
+      "children": [
+        {
+          "label": "IB開戶教學",
+          "url": "https://george-dewi.com/interactive-brokers-account-opening/"
+        },
+        {
+          "label": "嘉信開戶教學",
+          "url": "https://george-dewi.com/charles-schwab/"
+        },
+        {
+          "label": "Firstrade開戶教學",
+          "url": "https://george-dewi.com/firstrade/"
+        },
+        {
+          "label": "美股開戶推薦",
+          "url": "https://george-dewi.com/open-an-us-account/"
+        }
+      ]
+    },
+    {
+      "label": "美股教學",
+      "url": "https://george-dewi.com/category/us-stocks-beginner/",
+      "children": [
+        {
+          "label": "美股入門教學",
+          "url": "https://george-dewi.com/basic-us-stocks/"
+        },
+        {
+          "label": "股票入門教學",
+          "url": "https://george-dewi.com/getting-started-with-stocks/"
+        }
+      ]
+    },
+    {
+      "label": "投資工具",
+      "url": "https://george-dewi.com/course-service/",
+      "children": [
+        {
+          "label": "美股財報行事曆",
+          "url": "https://george-dewi.com/earnings/"
+        }
+      ]
+    },
+    {
+      "label": "免費美股課",
+      "url": "https://link.george-dewi.com/vip2/BLOGMENU",
+      "cta": true
+    }
+  ]
 }

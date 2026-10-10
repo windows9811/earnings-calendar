@@ -150,6 +150,47 @@ def render_board(monday, groups, root, visible):
     return f'<div class="board">{"".join(cols)}</div>'
 
 
+I_CHEV = ('<svg class="sh-arrow" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6" fill="none" '
+          'stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>')
+
+
+def render_menu(items, depth=0):
+    """Main-site menu (config.json "menu"), same structure as george-dewi.com."""
+    lis = []
+    for it in items:
+        kids = it.get("children") or []
+        cls = ["sh-item"]
+        if kids:
+            cls.append("has-sub")
+        if it.get("cta"):
+            cls.append("sh-cta")
+        if it.get("url", "").rstrip("/").endswith("/earnings"):
+            cls.append("current")
+        arrow = I_CHEV if kids else ""
+        sub = f'<ul class="sh-sub lvl-{depth + 1}">{render_menu(kids, depth + 1)}</ul>' if kids else ""
+        toggle = ('<button type="button" class="sh-toggle" aria-label="展開子選單" aria-expanded="false">'
+                  f'{I_CHEV}</button>') if kids else ""
+        lis.append(f'<li class="{" ".join(cls)}"><a href="{E(it.get("url", "#"))}">'
+                   f'<span>{E(it["label"])}</span>{arrow}</a>{toggle}{sub}</li>')
+    return "".join(lis)
+
+
+def site_header(cfg, home, here, site):
+    menu = cfg.get("menu") or []
+    logo = cfg.get("logo")
+    brand = (f'<img src="{E(logo)}" alt="{E(cfg.get("maintainer") or site)}" width="175" height="47">' if logo
+             else f'<span class="brand-main">{E(site)}</span>')
+    if not menu:
+        menu = [{"label": "財報行事曆", "url": here}]
+    return f"""<header class="site-header">
+  <div class="sh-in">
+    <a class="sh-logo" href="{E(home)}">{brand}</a>
+    <button type="button" class="sh-burger" aria-label="選單" aria-expanded="false" aria-controls="sh-nav"><span></span><span></span><span></span></button>
+    <nav id="sh-nav" class="sh-nav" aria-label="主選單"><ul class="sh-menu">{render_menu(menu)}</ul></nav>
+  </div>
+</header>"""
+
+
 def cap_zh(v):
     """10000000000 -> '100 億美元'"""
     return f"{v / 1e8:,.0f} 億美元"
@@ -276,16 +317,11 @@ def page(cfg, monday, groups, prev_m, next_m, cur_m, updated_at, is_index):
 {faq_ld}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&family=Roboto:wght@400;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{root}assets/style.css?v={css_v}">
 </head>
 <body>
-<header class="topbar">
-  <div class="wrap topbar-in">
-    <a class="brand" href="{E(home)}"><span class="brand-main">{E(site)}</span><span class="brand-sub">{E(cfg.get("siteTagline", ""))}</span></a>
-    <nav class="topnav"><a href="{here}" class="active">財報行事曆</a></nav>
-  </div>
-</header>
+{site_header(cfg, home, here, site)}
 <main class="wrap main">
   <div id="capture" class="capture">
     <div class="hero">
