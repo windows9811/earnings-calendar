@@ -131,7 +131,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$4.37",
+    "eps": "$4.35",
     "fq": "Sep/2026",
     "lastYearEps": "$4.05",
     "marketCap": 127163449000,
@@ -259,7 +259,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$1.95",
+    "eps": "$1.81",
     "fq": "Sep/2026",
     "lastYearEps": "$1.76",
     "marketCap": 21452050400,
@@ -354,7 +354,7 @@
     "eps": "$0.40",
     "fq": "Sep/2026",
     "lastYearEps": "$0.44",
-    "marketCap": 112936010000,
+    "marketCap": 114321416000,
     "name": "HDFC Bank Limited",
     "symbol": "HDB",
     "time": "tbd"
@@ -363,16 +363,16 @@
     "eps": "$0.40",
     "fq": "Sep/2026",
     "lastYearEps": "$0.39",
-    "marketCap": 99883573000,
+    "marketCap": 99847766000,
     "name": "ICICI Bank Limited",
     "symbol": "IBN",
     "time": "tbd"
    },
    {
-    "eps": "$6.86",
+    "eps": "$6.90",
     "fq": "Sep/2026",
     "lastYearEps": "$8.14",
-    "marketCap": 77229072000,
+    "marketCap": 76912042000,
     "name": "The Travelers Companies, Inc.",
     "symbol": "TRV",
     "time": "bmo"
@@ -381,7 +381,7 @@
     "eps": "$1.17",
     "fq": "Sep/2026",
     "lastYearEps": "$1.04",
-    "marketCap": 56414695000,
+    "marketCap": 56329183000,
     "name": "Truist Financial Corporation",
     "symbol": "TFC",
     "time": "bmo"
@@ -390,7 +390,7 @@
     "eps": "$4.98",
     "fq": "Sep/2026",
     "lastYearEps": "$4.87",
-    "marketCap": 31419201500,
+    "marketCap": 31409092600,
     "name": "M&T Bank Corporation",
     "symbol": "MTB",
     "time": "bmo"
@@ -399,7 +399,7 @@
     "eps": "$1.38",
     "fq": "Sep/2026",
     "lastYearEps": "$1.05",
-    "marketCap": 26993219600,
+    "marketCap": 26774208500,
     "name": "Citizens Financial Group, Inc.",
     "symbol": "CFG",
     "time": "bmo"
@@ -408,7 +408,7 @@
     "eps": "$0.67",
     "fq": "Sep/2026",
     "lastYearEps": "$0.63",
-    "marketCap": 23061731300,
+    "marketCap": 23027654700,
     "name": "Regions Financial Corporation",
     "symbol": "RF",
     "time": "bmo"
@@ -417,13 +417,13 @@
     "eps": "$1.93",
     "fq": "Sep/2026",
     "lastYearEps": "$1.85",
-    "marketCap": 3591705860,
+    "marketCap": 3567514620,
     "name": "BancFirst Corporation",
     "symbol": "BANF",
     "time": "tbd"
    }
   ]
  },
- "updatedAt": "2026-10-11T22:31:33+00:00",
+ "updatedAt": "2026-10-12T11:48:19+00:00",
  "week": "2026-10-12"
 }
