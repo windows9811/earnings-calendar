@@ -5,7 +5,7 @@
     "eps": "$1.02",
     "fq": "Sep/2026",
     "lastYearEps": "$3.76",
-    "marketCap": 23903610900,
+    "marketCap": 24495534100,
     "name": "Trip.com Group Limited",
     "symbol": "TCOM",
     "time": "tbd"
@@ -14,7 +14,7 @@
     "eps": "$0.65",
     "fq": "Sep/2026",
     "lastYearEps": "$1.15",
-    "marketCap": 18413291500,
+    "marketCap": 18796754900,
     "name": "Tyson Foods, Inc.",
     "symbol": "TSN",
     "time": "bmo"
@@ -23,34 +23,34 @@
     "eps": "$0.53",
     "fq": "Sep/2026",
     "lastYearEps": "$0.45",
-    "marketCap": 15658204200,
+    "marketCap": 16700010500,
     "name": "XP Inc.",
     "symbol": "XP",
-    "time": "tbd"
-   },
-   {
-    "eps": "$0.74",
-    "fq": "Sep/2026",
-    "lastYearEps": "$0.64",
-    "marketCap": 14641734700,
-    "name": "Aramark",
-    "symbol": "ARMK",
     "time": "tbd"
    },
    {
     "eps": "$0.35",
     "fq": "Sep/2026",
     "lastYearEps": "$0.26",
-    "marketCap": 14600140800,
+    "marketCap": 14582724600,
     "name": "James Hardie Industries plc.",
     "symbol": "JHX",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.74",
+    "fq": "Sep/2026",
+    "lastYearEps": "$0.64",
+    "marketCap": 14483559400,
+    "name": "Aramark",
+    "symbol": "ARMK",
     "time": "tbd"
    },
    {
     "eps": "$0.75",
     "fq": "Sep/2026",
     "lastYearEps": "$0.63",
-    "marketCap": 13122041900,
+    "marketCap": 13580252200,
     "name": "H World Group Limited",
     "symbol": "HTHT",
     "time": "tbd"
@@ -59,7 +59,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "($0.06)",
-    "marketCap": 9149570000,
+    "marketCap": 9484894200,
     "name": "XPeng Inc.",
     "symbol": "XPEV",
     "time": "tbd"
@@ -68,34 +68,34 @@
     "eps": "$0.19",
     "fq": "Sep/2026",
     "lastYearEps": "$0.12",
-    "marketCap": 8642744300,
+    "marketCap": 8881379300,
     "name": "Full Truck Alliance Co. Ltd.",
     "symbol": "YMM",
-    "time": "tbd"
-   },
-   {
-    "eps": "$0.24",
-    "fq": "Sep/2026",
-    "lastYearEps": "($0.01)",
-    "marketCap": 4016546300,
-    "name": "Helmerich & Payne, Inc.",
-    "symbol": "HP",
     "time": "tbd"
    },
    {
     "eps": "",
     "fq": "Oct/2026",
     "lastYearEps": "$1.21",
-    "marketCap": 3958762750,
+    "marketCap": 4002848000,
     "name": "Brady Corporation",
     "symbol": "BRC",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.24",
+    "fq": "Sep/2026",
+    "lastYearEps": "($0.01)",
+    "marketCap": 3985565180,
+    "name": "Helmerich & Payne, Inc.",
+    "symbol": "HP",
     "time": "tbd"
    },
    {
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$6.75",
-    "marketCap": 3098595580,
+    "marketCap": 3078025470,
     "name": "Danaos Corporation",
     "symbol": "DAC",
     "time": "tbd"
@@ -731,6 +731,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-12T11:49:17+00:00",
+ "updatedAt": "2026-10-12T22:33:37+00:00",
  "week": "2026-11-16"
 }
