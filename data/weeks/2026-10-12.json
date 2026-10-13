@@ -1,6 +1,16 @@
 {
  "days": {
-  "2026-10-12": [],
+  "2026-10-12": [
+   {
+    "eps": "($0.56)",
+    "fq": "Aug/2026",
+    "lastYearEps": "",
+    "marketCap": 2299802110,
+    "name": "Nurix Therapeutics, Inc.",
+    "symbol": "NRIX",
+    "time": "tbd"
+   }
+  ],
   "2026-10-13": [
    {
     "eps": "$5.94",
@@ -131,7 +141,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$4.35",
+    "eps": "$4.46",
     "fq": "Sep/2026",
     "lastYearEps": "$4.05",
     "marketCap": 126407664000,
@@ -149,7 +159,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$3.63",
+    "eps": "$3.65",
     "fq": "Sep/2026",
     "lastYearEps": "$2.78",
     "marketCap": 48061821000,
@@ -172,16 +182,16 @@
     "eps": "$4.45",
     "fq": "Sep/2026",
     "lastYearEps": "$2.92",
-    "marketCap": 2351094560000,
+    "marketCap": 2304623510000,
     "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
     "symbol": "TSM",
     "time": "bmo"
    },
    {
-    "eps": "$1.66",
+    "eps": "$1.67",
     "fq": "Sep/2026",
     "lastYearEps": "$1.31",
-    "marketCap": 167226769000,
+    "marketCap": 167849329000,
     "name": "The Charles Schwab Corporation",
     "symbol": "SCHW",
     "time": "bmo"
@@ -190,7 +200,7 @@
     "eps": "$1.58",
     "fq": "Sep/2026",
     "lastYearEps": "$1.49",
-    "marketCap": 122766361000,
+    "marketCap": 125591626000,
     "name": "Prologis, Inc.",
     "symbol": "PLD",
     "time": "bmo"
@@ -199,7 +209,7 @@
     "eps": "$2.26",
     "fq": "Sep/2026",
     "lastYearEps": "$1.91",
-    "marketCap": 96829325000,
+    "marketCap": 96924320000,
     "name": "The Bank Of New York Mellon Corporation",
     "symbol": "BNY",
     "time": "bmo"
@@ -208,7 +218,7 @@
     "eps": "$1.32",
     "fq": "Sep/2026",
     "lastYearEps": "$1.22",
-    "marketCap": 88933573000,
+    "marketCap": 89463316000,
     "name": "U.S. Bancorp",
     "symbol": "USB",
     "time": "bmo"
@@ -217,7 +227,7 @@
     "eps": "$4.97",
     "fq": "Sep/2026",
     "lastYearEps": "$4.35",
-    "marketCap": 87452443000,
+    "marketCap": 88270275000,
     "name": "PNC Financial Services Group, Inc. (The)",
     "symbol": "PNC",
     "time": "bmo"
@@ -226,7 +236,7 @@
     "eps": "$1.96",
     "fq": "Sep/2026",
     "lastYearEps": "$1.85",
-    "marketCap": 83874652000,
+    "marketCap": 84246880000,
     "name": "Marsh",
     "symbol": "MRSH",
     "time": "bmo"
@@ -235,7 +245,7 @@
     "eps": "$0.21",
     "fq": "Sep/2026",
     "lastYearEps": "$0.20",
-    "marketCap": 43524743000,
+    "marketCap": 43930378000,
     "name": "Infosys Limited",
     "symbol": "INFY",
     "time": "tbd"
@@ -244,7 +254,7 @@
     "eps": "$0.66",
     "fq": "Sep/2026",
     "lastYearEps": "$0.57",
-    "marketCap": 39811977000,
+    "marketCap": 39821042000,
     "name": "Interactive Brokers Group, Inc.",
     "symbol": "IBKR",
     "time": "amc"
@@ -253,7 +263,7 @@
     "eps": "$0.14",
     "fq": "Sep/2026",
     "lastYearEps": "$0.16",
-    "marketCap": 32213266400,
+    "marketCap": 31589566500,
     "name": "Ericsson",
     "symbol": "ERIC",
     "time": "bmo"
@@ -262,7 +272,7 @@
     "eps": "$1.81",
     "fq": "Sep/2026",
     "lastYearEps": "$1.76",
-    "marketCap": 21530939400,
+    "marketCap": 21441720300,
     "name": "J.B. Hunt Transport Services, Inc.",
     "symbol": "JBHT",
     "time": "amc"
@@ -280,7 +290,7 @@
     "eps": "$1.65",
     "fq": "Sep/2026",
     "lastYearEps": "($0.02)",
-    "marketCap": 11136978900,
+    "marketCap": 10997106700,
     "name": "Alcoa Corporation",
     "symbol": "AA",
     "time": "amc"
@@ -289,16 +299,16 @@
     "eps": "$0.53",
     "fq": "Sep/2026",
     "lastYearEps": "$0.51",
-    "marketCap": 10934776800,
+    "marketCap": 10925301800,
     "name": "First Horizon Corporation",
     "symbol": "FHN",
     "time": "bmo"
    },
    {
-    "eps": "$1.97",
+    "eps": "$1.98",
     "fq": "Aug/2026",
     "lastYearEps": "$1.37",
-    "marketCap": 7067788800,
+    "marketCap": 7088807400,
     "name": "Commercial Metals Company",
     "symbol": "CMC",
     "time": "bmo"
@@ -307,7 +317,7 @@
     "eps": "$1.84",
     "fq": "Sep/2026",
     "lastYearEps": "$1.55",
-    "marketCap": 3648368130,
+    "marketCap": 3654999550,
     "name": "Independent Bank Corp.",
     "symbol": "INDB",
     "time": "amc"
@@ -316,7 +326,7 @@
     "eps": "$0.88",
     "fq": "Sep/2026",
     "lastYearEps": "$0.81",
-    "marketCap": 3561455360,
+    "marketCap": 3547571460,
     "name": "Cohen & Steers Inc",
     "symbol": "CNS",
     "time": "amc"
@@ -325,7 +335,7 @@
     "eps": "$0.53",
     "fq": "Sep/2026",
     "lastYearEps": "$0.46",
-    "marketCap": 3205315840,
+    "marketCap": 3228438020,
     "name": "Simmons First National Corporation",
     "symbol": "SFNC",
     "time": "amc"
@@ -334,7 +344,7 @@
     "eps": "$1.01",
     "fq": "Sep/2026",
     "lastYearEps": "$0.83",
-    "marketCap": 2454564100,
+    "marketCap": 2385270780,
     "name": "ManpowerGroup",
     "symbol": "MAN",
     "time": "bmo"
@@ -343,7 +353,7 @@
     "eps": "$0.83",
     "fq": "Sep/2026",
     "lastYearEps": "$0.72",
-    "marketCap": 2177679870,
+    "marketCap": 2183599360,
     "name": "WaFd, Inc.",
     "symbol": "WAFD",
     "time": "tbd"
@@ -369,7 +379,7 @@
     "time": "tbd"
    },
    {
-    "eps": "$6.90",
+    "eps": "$7.03",
     "fq": "Sep/2026",
     "lastYearEps": "$8.14",
     "marketCap": 76912042000,
@@ -424,6 +434,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-12T22:32:36+00:00",
+ "updatedAt": "2026-10-13T11:46:52+00:00",
  "week": "2026-10-12"
 }

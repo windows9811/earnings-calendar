@@ -441,6 +441,8 @@
  "AMGN": {
   "checkedAt": "2026-10-09T08:17:57+00:00",
   "label": "Amgen",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03",
   "logo": "AMGN.svg",
   "logoSource": "wikidata",
   "website": "https://www.amgen.com"
@@ -508,6 +510,10 @@
   "logoSource": "wikidata",
   "website": "https://www.amazon.com"
  },
+ "AN": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-30"
+ },
  "ANET": {
   "checkedAt": "2026-10-09T08:18:01+00:00",
   "label": "Arista Networks",
@@ -520,6 +526,8 @@
  "AON": {
   "checkedAt": "2026-10-09T08:17:21+00:00",
   "label": "Aon plc",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-28",
   "logo": "AON.svg",
   "logoSource": "wikidata",
   "website": "https://www.aon.com"
@@ -633,6 +641,10 @@
   "logo": "ARGX.svg",
   "logoSource": "parqet",
   "website": "https://www.argenx.com"
+ },
+ "ARLP": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-26"
  },
  "ARM": {
   "checkedAt": "2026-10-09T08:19:02+00:00",
@@ -1011,6 +1023,8 @@
  "BE": {
   "checkedAt": "2026-10-09T08:14:35+00:00",
   "label": "Bloom Energy",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-22",
   "logo": "BE.svg",
   "logoSource": "parqet",
   "website": "https://www.bloomenergy.com"
@@ -1177,6 +1191,8 @@
  "BN": {
   "checkedAt": "2026-10-09T08:22:08+00:00",
   "label": "",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-12",
   "logo": "BN.svg",
   "logoSource": "wikipedia",
   "website": "https://www.brookfield.com"
@@ -1383,6 +1399,8 @@
  "CACI": {
   "checkedAt": "2026-10-09T08:15:46+00:00",
   "label": "CACI",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-21",
   "logo": "CACI.svg",
   "logoSource": "wikidata",
   "website": "https://www.caci.com"
@@ -1403,6 +1421,10 @@
  "CALX": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-02"
+ },
+ "CAR": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03"
  },
  "CARR": {
   "checkedAt": "2026-10-09T08:14:40+00:00",
@@ -1594,6 +1616,8 @@
  "CHD": {
   "checkedAt": "2026-10-09T08:17:31+00:00",
   "label": "Church & Dwight",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-30",
   "logo": "CHD.svg",
   "logoSource": "parqet",
   "website": "https://www.churchdwight.com"
@@ -1828,6 +1852,10 @@
  "CNX": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-29"
+ },
+ "COCO": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-22"
  },
  "COF": {
   "checkedAt": "2026-10-09T08:13:05+00:00",
@@ -2067,6 +2095,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-29"
  },
+ "CVBF": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-21"
+ },
  "CVE": {
   "checkedAt": "2026-10-09T08:17:26+00:00",
   "label": "Cenovus Energy",
@@ -2263,6 +2295,8 @@
  "DIS": {
   "checkedAt": "2026-10-09T08:22:05+00:00",
   "label": "The Walt Disney Company",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-17",
   "logo": "DIS.svg",
   "logoSource": "wikidata",
   "website": "https://www.thewaltdisneycompany.com"
@@ -2273,6 +2307,10 @@
   "logo": "DKS.svg",
   "logoSource": "wikipedia",
   "website": "https://www.dicks.com"
+ },
+ "DLB": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-17"
  },
  "DLR": {
   "checkedAt": "2026-10-09T08:16:17+00:00",
@@ -2466,6 +2504,10 @@
  "EE": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
+ },
+ "EFSC": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-21"
  },
  "EFX": {
   "checkedAt": "2026-10-09T08:13:12+00:00",
@@ -2711,6 +2753,8 @@
  "ERIE": {
   "checkedAt": "2026-10-09T08:17:09+00:00",
   "label": "Erie Insurance Group",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-29",
   "logo": "ERIE.svg",
   "logoSource": "wikipedia",
   "website": "https://www.erieinsurance.com"
@@ -2903,6 +2947,10 @@
  "FBP": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-22"
+ },
+ "FCF": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-27"
  },
  "FCN": {
   "lastTime": "bmo",
@@ -3128,9 +3176,15 @@
   "logoSource": "parqet",
   "website": "https://www.formfactor.com"
  },
+ "FOX": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-02"
+ },
  "FOXA": {
   "checkedAt": "2026-10-09T08:16:49+00:00",
   "label": "Fox Corporation",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-02",
   "logo": "FOXA.svg",
   "logoSource": "wikidata",
   "website": "https://www.foxcorporation.com"
@@ -3288,6 +3342,8 @@
  "GD": {
   "checkedAt": "2026-10-09T08:14:10+00:00",
   "label": "General Dynamics",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-30",
   "logo": "GD.svg",
   "logoSource": "parqet",
   "website": "https://www.gd.com"
@@ -4031,6 +4087,10 @@
   "logoSource": "parqet",
   "website": "https://www.insmed.com"
  },
+ "INSP": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-02"
+ },
  "INTC": {
   "checkedAt": "2026-10-09T08:16:00+00:00",
   "label": "Intel",
@@ -4210,6 +4270,8 @@
  "JBS": {
   "checkedAt": "2026-10-09T08:22:11+00:00",
   "label": "",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09",
   "logo": "JBS.svg",
   "logoSource": "wikipedia",
   "website": "https://www.jbs.com.br"
@@ -4294,6 +4356,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-29"
  },
+ "KD": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04"
+ },
  "KDP": {
   "checkedAt": "2026-10-09T08:18:11+00:00",
   "label": "Keurig Dr Pepper",
@@ -4335,6 +4401,8 @@
  "KHC": {
   "checkedAt": "2026-10-09T08:19:28+00:00",
   "label": "Kraft Heinz",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04",
   "logo": "KHC.svg",
   "logoSource": "wikidata",
   "website": "https://www.kraftheinzcompany.com"
@@ -4419,6 +4487,8 @@
  "KSPI": {
   "checkedAt": "2026-10-09T08:21:40+00:00",
   "label": "Kaspi.kz Joint Stock Company",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-09",
   "logo": "KSPI.jpg",
   "logoSource": "wikidata",
   "website": "https://www.kaspi.kz"
@@ -4453,6 +4523,10 @@
   "logo": "LAMR.svg",
   "logoSource": "wikidata",
   "website": "https://www.lamar.com"
+ },
+ "LASR": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-05"
  },
  "LAUR": {
   "lastTime": "bmo",
@@ -4668,6 +4742,8 @@
  "LSCC": {
   "checkedAt": "2026-10-09T08:17:44+00:00",
   "label": "Lattice Semiconductor",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-02",
   "logo": "LSCC.png",
   "logoSource": "parqet",
   "website": "https://www.latticesemi.com"
@@ -4787,6 +4863,10 @@
  "MBGL": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-12"
+ },
+ "MBIN": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-28"
  },
  "MCD": {
   "checkedAt": "2026-10-09T08:19:03+00:00",
@@ -4971,6 +5051,8 @@
  "MKSI": {
   "checkedAt": "2026-10-09T08:19:46+00:00",
   "label": "",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04",
   "logo": "MKSI.svg",
   "logoSource": "parqet",
   "website": "https://www.mksinst.com"
@@ -5184,6 +5266,8 @@
  "MTD": {
   "checkedAt": "2026-10-09T08:20:51+00:00",
   "label": "Mettler Toledo",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-05",
   "logo": "MTD.svg",
   "logoSource": "wikidata",
   "website": "https://www.mt.com"
@@ -5391,6 +5475,10 @@
   "logo": "NOW.svg",
   "logoSource": "wikidata",
   "website": "https://www.servicenow.com"
+ },
+ "NP": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-20"
  },
  "NRG": {
   "checkedAt": "2026-10-09T08:20:57+00:00",
@@ -5721,6 +5809,8 @@
  "OSCR": {
   "checkedAt": "2026-10-09T08:21:20+00:00",
   "label": "Oscar Health",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-05",
   "logo": "OSCR.svg",
   "logoSource": "wikidata",
   "website": "https://www.hioscar.com"
@@ -5745,6 +5835,8 @@
  "OVV": {
   "checkedAt": "2026-10-09T08:18:34+00:00",
   "label": "Ovintiv",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03",
   "logo": "OVV.svg",
   "logoSource": "parqet",
   "website": "https://www.ovintiv.com"
@@ -6341,6 +6433,10 @@
   "logo": "RDDT.svg",
   "logoSource": "wikipedia",
   "website": "https://www.reddit.com"
+ },
+ "RDN": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
  },
  "RDY": {
   "checkedAt": "2026-10-09T08:14:15+00:00",
@@ -7001,6 +7097,8 @@
  "SONY": {
   "checkedAt": "2026-10-09T08:21:46+00:00",
   "label": "Sony Group",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-05",
   "logo": "SONY.svg",
   "logoSource": "wikidata",
   "website": "https://www.sony.com"
@@ -7064,6 +7162,10 @@
  "SSB": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-21"
+ },
+ "SSD": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-26"
  },
  "SSNC": {
   "checkedAt": "2026-10-09T08:14:02+00:00",
@@ -7806,7 +7908,7 @@
   "checkedAt": "2026-10-09T08:14:25+00:00",
   "label": "Universal Health Services",
   "lastTime": "amc",
-  "lastTimeDate": "2026-10-26",
+  "lastTimeDate": "2026-10-27",
   "logo": "UHS.svg",
   "logoSource": "wikidata",
   "website": "https://www.uhs.com"
@@ -7996,6 +8098,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-05"
  },
+ "VIST": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-28"
+ },
  "VIV": {
   "checkedAt": "2026-10-09T08:16:56+00:00",
   "label": "Telefônica Brasil",
@@ -8015,6 +8121,8 @@
  "VLTO": {
   "checkedAt": "2026-10-09T08:14:59+00:00",
   "label": "Veralto Corporation",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-29",
   "logo": "VLTO.svg",
   "logoSource": "parqet",
   "website": "https://www.veralto.com"
@@ -8434,6 +8542,10 @@
   "logo": "WTW.png",
   "logoSource": "parqet",
   "website": "https://www.willistowerswatson.com"
+ },
+ "WULF": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-06"
  },
  "WWD": {
   "checkedAt": "2026-10-10T06:50:36+00:00",

@@ -53,7 +53,7 @@
     "eps": "$0.36",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 7170884100,
+    "marketCap": 7377957900,
     "name": "Levi Strauss & Co.",
     "symbol": "LEVI",
     "time": "tbd"
@@ -62,7 +62,7 @@
     "eps": "($0.26)",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 7160527400,
+    "marketCap": 7030500900,
     "name": "Applied Digital Corporation",
     "symbol": "APLD",
     "time": "tbd"
@@ -86,15 +86,6 @@
     "name": "Novagold Resources Inc.",
     "symbol": "NG",
     "time": "tbd"
-   },
-   {
-    "eps": "($0.56)",
-    "fq": "Aug/2026",
-    "lastYearEps": "",
-    "marketCap": 2319520510,
-    "name": "Nurix Therapeutics, Inc.",
-    "symbol": "NRIX",
-    "time": "tbd"
    }
   ],
   "2026-10-09": [
@@ -102,13 +93,13 @@
     "eps": "$1.80",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 54036886000,
+    "marketCap": 52705362000,
     "name": "Delta Air Lines, Inc.",
     "symbol": "DAL",
     "time": "tbd"
    }
   ]
  },
- "updatedAt": "2026-10-12T22:32:20+00:00",
+ "updatedAt": "2026-10-13T11:46:40+00:00",
  "week": "2026-10-05"
 }
