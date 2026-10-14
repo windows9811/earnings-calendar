@@ -119,7 +119,7 @@
     "time": "amc"
    },
    {
-    "eps": "$0.54",
+    "eps": "$0.58",
     "fq": "Sep/2026",
     "lastYearEps": "$0.83",
     "marketCap": 5197103100,
@@ -128,7 +128,7 @@
     "time": "amc"
    },
    {
-    "eps": "$0.82",
+    "eps": "$0.83",
     "fq": "Sep/2026",
     "lastYearEps": "$0.65",
     "marketCap": 4234932740,
@@ -193,7 +193,7 @@
     "time": "amc"
    },
    {
-    "eps": "$1.75",
+    "eps": "$1.76",
     "fq": "Sep/2026",
     "lastYearEps": "$1.70",
     "marketCap": 251572535000,
@@ -220,7 +220,7 @@
     "time": "amc"
    },
    {
-    "eps": "$5.43",
+    "eps": "$5.45",
     "fq": "Sep/2026",
     "lastYearEps": "$5.95",
     "marketCap": 123396342000,
@@ -247,7 +247,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$7.21",
+    "eps": "$7.22",
     "fq": "Sep/2026",
     "lastYearEps": "$7.67",
     "marketCap": 68900569000,
@@ -265,7 +265,7 @@
     "time": "amc"
    },
    {
-    "eps": "$5",
+    "eps": "$4.99",
     "fq": "Sep/2026",
     "lastYearEps": "$4.47",
     "marketCap": 41294328000,
@@ -274,7 +274,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$2.68",
+    "eps": "$2.60",
     "fq": "Sep/2026",
     "lastYearEps": "$2.78",
     "marketCap": 33899528200,
@@ -319,7 +319,7 @@
     "time": "tbd"
    },
    {
-    "eps": "$2.10",
+    "eps": "$2.09",
     "fq": "Sep/2026",
     "lastYearEps": "$1.98",
     "marketCap": 17869381600,
@@ -328,7 +328,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$2.21",
+    "eps": "$2.20",
     "fq": "Sep/2026",
     "lastYearEps": "$2.04",
     "marketCap": 17309048800,
@@ -382,13 +382,22 @@
     "time": "bmo"
    },
    {
-    "eps": "$1.34",
+    "eps": "$1.32",
     "fq": "Sep/2026",
     "lastYearEps": "$1.15",
     "marketCap": 11532210200,
     "name": "Ally Financial Inc.",
     "symbol": "ALLY",
     "time": "bmo"
+   },
+   {
+    "eps": "$0.79",
+    "fq": "Sep/2026",
+    "lastYearEps": "$0.75",
+    "marketCap": 11486685200,
+    "name": "Equity Lifestyle Properties, Inc.",
+    "symbol": "ELS",
+    "time": "amc"
    },
    {
     "eps": "$5.71",
@@ -427,7 +436,7 @@
     "time": "bmo"
    },
    {
-    "eps": "($0.13)",
+    "eps": "($0.12)",
     "fq": "Sep/2026",
     "lastYearEps": "$1.12",
     "marketCap": 7766966300,
@@ -537,7 +546,16 @@
   ],
   "2026-10-21": [
    {
-    "eps": "$0.22",
+    "eps": "$6.39",
+    "fq": "Sep/2026",
+    "lastYearEps": "$7.25",
+    "marketCap": 1892695280000,
+    "name": "Meta Platforms, Inc.",
+    "symbol": "META",
+    "time": "amc"
+   },
+   {
+    "eps": "$0.21",
     "fq": "Sep/2026",
     "lastYearEps": "$0.37",
     "marketCap": 1493047440000,
@@ -600,7 +618,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$1.20",
+    "eps": "$1.18",
     "fq": "Sep/2026",
     "lastYearEps": "$1.13",
     "marketCap": 163770155000,
@@ -798,7 +816,7 @@
     "time": "amc"
    },
    {
-    "eps": "$0.73",
+    "eps": "$0.72",
     "fq": "Sep/2026",
     "lastYearEps": "$1.84",
     "marketCap": 10667591700,
@@ -861,7 +879,7 @@
     "time": "amc"
    },
    {
-    "eps": "$0.47",
+    "eps": "$0.48",
     "fq": "Sep/2026",
     "lastYearEps": "$0.37",
     "marketCap": 6424212500,
@@ -879,7 +897,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$1.89",
+    "eps": "$1.85",
     "fq": "Sep/2026",
     "lastYearEps": "$1.70",
     "marketCap": 6220953100,
@@ -913,6 +931,15 @@
     "name": "Sonoco Products Company",
     "symbol": "SON",
     "time": "amc"
+   },
+   {
+    "eps": "$2.09",
+    "fq": "Aug/2026",
+    "lastYearEps": "$2.28",
+    "marketCap": 4746372100,
+    "name": "Unifirst Corporation",
+    "symbol": "UNF",
+    "time": "bmo"
    },
    {
     "eps": "$0.58",
@@ -960,7 +987,7 @@
     "time": "amc"
    },
    {
-    "eps": "$1.51",
+    "eps": "$1.50",
     "fq": "Sep/2026",
     "lastYearEps": "$1.58",
     "marketCap": 3453224450,
@@ -1801,7 +1828,7 @@
   ],
   "2026-10-23": [
    {
-    "eps": "$4.49",
+    "eps": "$4.47",
     "fq": "Sep/2026",
     "lastYearEps": "$4.14",
     "marketCap": 210379276000,
@@ -1834,6 +1861,15 @@
     "marketCap": 72381669000,
     "name": "SLB Limited",
     "symbol": "SLB",
+    "time": "bmo"
+   },
+   {
+    "eps": "$0.21",
+    "fq": "Sep/2026",
+    "lastYearEps": "$0.20",
+    "marketCap": 43930378000,
+    "name": "Infosys Limited",
+    "symbol": "INFY",
     "time": "bmo"
    },
    {
@@ -1900,6 +1936,15 @@
     "time": "tbd"
    },
    {
+    "eps": "$0.50",
+    "fq": "Sep/2026",
+    "lastYearEps": "$0.54",
+    "marketCap": 4757627900,
+    "name": "Rithm Capital Corp.",
+    "symbol": "RITM",
+    "time": "bmo"
+   },
+   {
     "eps": "$0.06",
     "fq": "Sep/2026",
     "lastYearEps": "($0.07)",
@@ -1928,6 +1973,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-13T22:45:03+00:00",
+ "updatedAt": "2026-10-14T11:59:21+00:00",
  "week": "2026-10-19"
 }

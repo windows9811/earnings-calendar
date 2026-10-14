@@ -15,92 +15,92 @@
    {
     "eps": "$5.94",
     "fq": "Sep/2026",
-    "lastYearEps": "$5.07",
+    "lastYearEps": "",
     "marketCap": 888631660000,
     "name": "J P Morgan Chase & Co",
     "symbol": "JPM",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$2.53",
     "fq": "Sep/2026",
-    "lastYearEps": "$2.80",
+    "lastYearEps": "",
     "marketCap": 635562560000,
     "name": "Johnson & Johnson",
     "symbol": "JNJ",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$4.12",
     "fq": "Sep/2026",
-    "lastYearEps": "$2.92",
+    "lastYearEps": "",
     "marketCap": 339757597000,
     "name": "UnitedHealth Group Incorporated",
     "symbol": "UNH",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$12.90",
     "fq": "Sep/2026",
-    "lastYearEps": "$12.25",
+    "lastYearEps": "",
     "marketCap": 260292674000,
     "name": "The Goldman Sachs Group, Inc.",
     "symbol": "GS",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.85",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.73",
+    "lastYearEps": "",
     "marketCap": 251959624000,
     "name": "Wells Fargo & Company",
     "symbol": "WFC",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$2.66",
     "fq": "Sep/2026",
-    "lastYearEps": "$2.24",
+    "lastYearEps": "",
     "marketCap": 221287465000,
     "name": "Citigroup Inc.",
     "symbol": "C",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$4.33",
     "fq": "Sep/2026",
-    "lastYearEps": "$4.08",
+    "lastYearEps": "",
     "marketCap": 10285111300,
     "name": "Domino's Pizza Inc",
     "symbol": "DPZ",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.31",
     "fq": "Aug/2026",
-    "lastYearEps": "$0.42",
+    "lastYearEps": "",
     "marketCap": 6085984300,
     "name": "Albertsons Companies, Inc.",
     "symbol": "ACI",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.82",
     "fq": "Aug/2026",
-    "lastYearEps": "$1.55",
+    "lastYearEps": "",
     "marketCap": 4139894780,
     "name": "AZZ Inc.",
     "symbol": "AZZ",
-    "time": "amc"
+    "time": "tbd"
    },
    {
     "eps": "$1.21",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.07",
+    "lastYearEps": "",
     "marketCap": 2646342400,
     "name": "FB Financial Corporation",
     "symbol": "FBK",
-    "time": "bmo"
+    "time": "tbd"
    }
   ],
   "2026-10-14": [
@@ -434,6 +434,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-13T22:44:51+00:00",
+ "updatedAt": "2026-10-14T11:59:05+00:00",
  "week": "2026-10-12"
 }
