@@ -2277,6 +2277,8 @@
  "DECK": {
   "checkedAt": "2026-10-09T08:14:01+00:00",
   "label": "Deckers Outdoor Corporation",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-22",
   "logo": "DECK.png",
   "logoSource": "wikidata",
   "website": "https://www.deckers.com"
@@ -2993,6 +2995,10 @@
  "FCF": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-27"
+ },
+ "FCFS": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-22"
  },
  "FCN": {
   "lastTime": "bmo",
@@ -3898,6 +3904,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-29"
  },
+ "HRI": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-27"
+ },
  "HSBC": {
   "checkedAt": "2026-10-09T08:14:25+00:00",
   "label": "HSBC",
@@ -4046,6 +4056,10 @@
   "logoSource": "parqet",
   "website": "https://www.iconplc.com"
  },
+ "IDCC": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-29"
+ },
  "IDXX": {
   "checkedAt": "2026-10-09T08:17:41+00:00",
   "label": "IDEXX Laboratories, Inc.",
@@ -4150,6 +4164,10 @@
  "INSP": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-02"
+ },
+ "INTA": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-27"
  },
  "INTC": {
   "checkedAt": "2026-10-09T08:16:00+00:00",
@@ -4749,6 +4767,8 @@
  "LNT": {
   "checkedAt": "2026-10-09T08:21:11+00:00",
   "label": "Alliant Energy",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-29",
   "logo": "LNT.png",
   "logoSource": "parqet",
   "website": "https://www.alliantenergy.com"
@@ -4937,6 +4957,10 @@
  "MBIN": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-28"
+ },
+ "MBLY": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-29"
  },
  "MCD": {
   "checkedAt": "2026-10-09T08:19:03+00:00",
@@ -6413,6 +6437,8 @@
  "PWR": {
   "checkedAt": "2026-10-09T08:16:10+00:00",
   "label": "Quanta Services",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-29",
   "logo": "PWR.png",
   "logoSource": "parqet",
   "website": "https://www.quantaservices.com"
@@ -6582,6 +6608,10 @@
   "logo": "RGA.jpg",
   "logoSource": "wikidata",
   "website": "https://www.rgare.com"
+ },
+ "RGEN": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-27"
  },
  "RGLD": {
   "checkedAt": "2026-10-09T08:19:45+00:00",
@@ -6999,6 +7029,10 @@
   "logo": "SHW.svg",
   "logoSource": "parqet",
   "website": "https://www.sherwin-williams.com"
+ },
+ "SIGI": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-22"
  },
  "SIMO": {
   "lastTime": "amc",
@@ -8165,6 +8199,10 @@
   "logo": "VALE.svg",
   "logoSource": "parqet",
   "website": "https://www.vale.com"
+ },
+ "VC": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-22"
  },
  "VEEV": {
   "checkedAt": "2026-10-09T08:22:38+00:00",
