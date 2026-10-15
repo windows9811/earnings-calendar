@@ -2201,6 +2201,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-29"
  },
+ "CUBI": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-22"
+ },
  "CURB": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-22"
@@ -3444,6 +3448,10 @@
   "logoSource": "wikidata",
   "website": "https://www.fortinet.com"
  },
+ "FTRE": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-29"
+ },
  "FTS": {
   "checkedAt": "2026-10-09T08:18:24+00:00",
   "label": "",
@@ -4056,6 +4064,10 @@
   "logo": "HSY.svg",
   "logoSource": "parqet",
   "website": "https://www.thehersheycompany.com"
+ },
+ "HTH": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-22"
  },
  "HTHT": {
   "checkedAt": "2026-10-09T08:22:18+00:00",
@@ -8148,6 +8160,8 @@
  "TTMI": {
   "checkedAt": "2026-10-09T08:20:04+00:00",
   "label": "TTM Technologies",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-22",
   "logo": "TTMI.png",
   "logoSource": "parqet",
   "website": "https://www.ttm.com"
