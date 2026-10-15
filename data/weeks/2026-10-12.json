@@ -107,74 +107,83 @@
    {
     "eps": "$12.47",
     "fq": "Sep/2026",
-    "lastYearEps": "$6.41",
+    "lastYearEps": "",
     "marketCap": 662055030000,
     "name": "ASML Holding N.V.",
     "symbol": "ASML",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.11",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.06",
+    "lastYearEps": "",
     "marketCap": 377328697000,
     "name": "Bank of America Corporation",
     "symbol": "BAC",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$2.83",
     "fq": "Sep/2026",
-    "lastYearEps": "$2.80",
+    "lastYearEps": "",
     "marketCap": 293130502000,
     "name": "Morgan Stanley",
     "symbol": "MS",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$14.01",
     "fq": "Sep/2026",
-    "lastYearEps": "$11.55",
+    "lastYearEps": "",
     "marketCap": 165109219000,
     "name": "BlackRock, Inc.",
     "symbol": "BLK",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$4.46",
     "fq": "Sep/2026",
-    "lastYearEps": "$4.05",
+    "lastYearEps": "",
     "marketCap": 129576141000,
     "name": "Progressive Corporation (The)",
     "symbol": "PGR",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.34",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.29",
+    "lastYearEps": "",
     "marketCap": 59015799000,
     "name": "Fastenal Company",
     "symbol": "FAST",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$3.65",
     "fq": "Sep/2026",
-    "lastYearEps": "$2.78",
+    "lastYearEps": "",
     "marketCap": 47825576000,
     "name": "State Street Corporation",
     "symbol": "STT",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
-    "eps": "$0.63",
+    "eps": "$0.64",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.61",
+    "lastYearEps": "",
     "marketCap": 5673407500,
     "name": "Home BancShares, Inc.",
     "symbol": "HOMB",
-    "time": "amc"
+    "time": "tbd"
+   },
+   {
+    "eps": "",
+    "fq": "Aug/2026",
+    "lastYearEps": "",
+    "marketCap": 2375346940,
+    "name": "ChronoScale Holdings Corporation",
+    "symbol": "CHRN",
+    "time": "tbd"
    }
   ],
   "2026-10-15": [
@@ -242,7 +251,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$0.66",
+    "eps": "$0.67",
     "fq": "Sep/2026",
     "lastYearEps": "$0.57",
     "marketCap": 39639810000,
@@ -296,7 +305,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$1.98",
+    "eps": "$1.97",
     "fq": "Aug/2026",
     "lastYearEps": "$1.37",
     "marketCap": 7165138400,
@@ -314,7 +323,7 @@
     "time": "amc"
    },
    {
-    "eps": "$0.88",
+    "eps": "$0.87",
     "fq": "Sep/2026",
     "lastYearEps": "$0.81",
     "marketCap": 3540886780,
@@ -425,6 +434,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-14T22:44:18+00:00",
+ "updatedAt": "2026-10-15T11:58:32+00:00",
  "week": "2026-10-12"
 }
