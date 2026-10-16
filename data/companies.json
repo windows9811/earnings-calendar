@@ -1170,6 +1170,10 @@
   "logoSource": "wikidata",
   "website": "https://www.bunge.com"
  },
+ "BGSI": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-11"
+ },
  "BHC": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-28"
@@ -3412,6 +3416,10 @@
   "logo": "FLUT.svg",
   "logoSource": "parqet",
   "website": "https://www.flutter.com"
+ },
+ "FLY": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-10"
  },
  "FMS": {
   "checkedAt": "2026-10-09T08:18:51+00:00",
@@ -5759,8 +5767,13 @@
   "website": "https://www3.mtb.com"
  },
  "MTCH": {
+  "checkedAt": "2026-10-16T22:46:25+00:00",
+  "label": "Match Group",
   "lastTime": "amc",
-  "lastTimeDate": "2026-11-02"
+  "lastTimeDate": "2026-11-02",
+  "logo": "MTCH.png",
+  "logoSource": "wikidata",
+  "website": "https://www.mtch.com"
  },
  "MTD": {
   "checkedAt": "2026-10-09T08:20:51+00:00",
@@ -6773,6 +6786,10 @@
   "logoSource": "wikidata",
   "website": "https://www.palantir.com"
  },
+ "PLUG": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
+ },
  "PLXS": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-28"
@@ -7377,12 +7394,21 @@
   "website": "https://www.ryanair.com"
  },
  "RYAN": {
+  "checkedAt": "2026-10-16T22:46:24+00:00",
+  "label": "",
   "lastTime": "amc",
-  "lastTimeDate": "2026-10-29"
+  "lastTimeDate": "2026-10-29",
+  "logo": "RYAN.png",
+  "logoSource": "parqet",
+  "website": "https://www.ryanspecialty.com"
  },
  "RYN": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
+ },
+ "SAH": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-29"
  },
  "SAIA": {
   "lastTime": "bmo",
@@ -7521,6 +7547,8 @@
  "SGI": {
   "checkedAt": "2026-10-09T08:21:14+00:00",
   "label": "Silicon Graphics International",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-09",
   "logo": "SGI.svg",
   "logoSource": "wikidata",
   "website": "https://www.somnigroup.com"
@@ -8211,6 +8239,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-06"
  },
+ "TIMB": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
+ },
  "TJX": {
   "checkedAt": "2026-10-09T08:22:29+00:00",
   "label": "TJX Companies",
@@ -8675,8 +8707,13 @@
   "website": "https://www.ul.com"
  },
  "UMBF": {
+  "checkedAt": "2026-10-16T22:46:24+00:00",
+  "label": "UMB Financial Corporation",
   "lastTime": "amc",
-  "lastTimeDate": "2026-10-27"
+  "lastTimeDate": "2026-10-27",
+  "logo": "UMBF.jpg",
+  "logoSource": "wikidata",
+  "website": "https://www.umb.com"
  },
  "UMC": {
   "checkedAt": "2026-10-09T08:15:24+00:00",
@@ -9152,6 +9189,10 @@
   "logoSource": "parqet",
   "website": "https://www.welltower.com"
  },
+ "WERN": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-27"
+ },
  "WES": {
   "checkedAt": "2026-10-09T08:18:27+00:00",
   "label": "",
@@ -9466,6 +9507,10 @@
   "logo": "ZBRA.svg",
   "logoSource": "parqet",
   "website": "https://www.zebra.com"
+ },
+ "ZD": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-05"
  },
  "ZG": {
   "lastTime": "amc",
