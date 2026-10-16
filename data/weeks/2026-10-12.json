@@ -190,169 +190,178 @@
    {
     "eps": "$4.45",
     "fq": "Sep/2026",
-    "lastYearEps": "$2.92",
+    "lastYearEps": "",
     "marketCap": 2230197160000,
     "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
     "symbol": "TSM",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.66",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.31",
+    "lastYearEps": "",
     "marketCap": 167399703000,
     "name": "The Charles Schwab Corporation",
     "symbol": "SCHW",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.58",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.49",
+    "lastYearEps": "",
     "marketCap": 123685994000,
     "name": "Prologis, Inc.",
     "symbol": "PLD",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$2.26",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.91",
+    "lastYearEps": "",
     "marketCap": 93389308000,
     "name": "The Bank Of New York Mellon Corporation",
     "symbol": "BNY",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.32",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.22",
+    "lastYearEps": "",
     "marketCap": 87655973000,
     "name": "U.S. Bancorp",
     "symbol": "USB",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$4.97",
     "fq": "Sep/2026",
-    "lastYearEps": "$4.35",
+    "lastYearEps": "",
     "marketCap": 86092046000,
     "name": "PNC Financial Services Group, Inc. (The)",
     "symbol": "PNC",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.96",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.85",
+    "lastYearEps": "",
     "marketCap": 85134492000,
     "name": "Marsh",
     "symbol": "MRSH",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.67",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.57",
+    "lastYearEps": "",
     "marketCap": 38121996000,
     "name": "Interactive Brokers Group, Inc.",
     "symbol": "IBKR",
-    "time": "amc"
+    "time": "tbd"
    },
    {
     "eps": "$0.14",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.16",
+    "lastYearEps": "",
     "marketCap": 32297549800,
     "name": "Ericsson",
     "symbol": "ERIC",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.81",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.76",
+    "lastYearEps": "",
     "marketCap": 21803292700,
     "name": "J.B. Hunt Transport Services, Inc.",
     "symbol": "JBHT",
-    "time": "amc"
+    "time": "tbd"
    },
    {
     "eps": "$0.04",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.03",
+    "lastYearEps": "",
     "marketCap": 17826390000,
     "name": "Wipro Limited",
     "symbol": "WIT",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.53",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.51",
+    "lastYearEps": "",
     "marketCap": 10740528100,
     "name": "First Horizon Corporation",
     "symbol": "FHN",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.65",
     "fq": "Sep/2026",
-    "lastYearEps": "($0.02)",
+    "lastYearEps": "",
     "marketCap": 10577490900,
     "name": "Alcoa Corporation",
     "symbol": "AA",
-    "time": "amc"
+    "time": "tbd"
    },
    {
     "eps": "$1.97",
     "fq": "Aug/2026",
-    "lastYearEps": "$1.37",
+    "lastYearEps": "",
     "marketCap": 7222662700,
     "name": "Commercial Metals Company",
     "symbol": "CMC",
-    "time": "bmo"
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.52",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 4427386900,
+    "name": "First Financial Bankshares, Inc.",
+    "symbol": "FFIN",
+    "time": "tbd"
    },
    {
     "eps": "$1.84",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.55",
+    "lastYearEps": "",
     "marketCap": 3601946370,
     "name": "Independent Bank Corp.",
     "symbol": "INDB",
-    "time": "amc"
+    "time": "tbd"
    },
    {
     "eps": "$0.87",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.81",
+    "lastYearEps": "",
     "marketCap": 3413875460,
     "name": "Cohen & Steers Inc",
     "symbol": "CNS",
-    "time": "amc"
+    "time": "tbd"
    },
    {
     "eps": "$0.53",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.46",
+    "lastYearEps": "",
     "marketCap": 3186529020,
     "name": "Simmons First National Corporation",
     "symbol": "SFNC",
-    "time": "amc"
+    "time": "tbd"
    },
    {
     "eps": "$1.01",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.83",
+    "lastYearEps": "",
     "marketCap": 2416429310,
     "name": "ManpowerGroup",
     "symbol": "MAN",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.83",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.72",
+    "lastYearEps": "",
     "marketCap": 2139202300,
     "name": "WaFd, Inc.",
     "symbol": "WAFD",
@@ -364,7 +373,7 @@
     "eps": "$0.40",
     "fq": "Sep/2026",
     "lastYearEps": "$0.44",
-    "marketCap": 116784357000,
+    "marketCap": 116117307000,
     "name": "HDFC Bank Limited",
     "symbol": "HDB",
     "time": "tbd"
@@ -373,7 +382,7 @@
     "eps": "$0.40",
     "fq": "Sep/2026",
     "lastYearEps": "$0.39",
-    "marketCap": 102174810000,
+    "marketCap": 101208195000,
     "name": "ICICI Bank Limited",
     "symbol": "IBN",
     "time": "tbd"
@@ -382,7 +391,7 @@
     "eps": "$7.01",
     "fq": "Sep/2026",
     "lastYearEps": "$8.14",
-    "marketCap": 77856883000,
+    "marketCap": 78803812000,
     "name": "The Travelers Companies, Inc.",
     "symbol": "TRV",
     "time": "bmo"
@@ -391,7 +400,7 @@
     "eps": "$1.17",
     "fq": "Sep/2026",
     "lastYearEps": "$1.04",
-    "marketCap": 56097075000,
+    "marketCap": 55669506000,
     "name": "Truist Financial Corporation",
     "symbol": "TFC",
     "time": "bmo"
@@ -400,7 +409,7 @@
     "eps": "$4.98",
     "fq": "Sep/2026",
     "lastYearEps": "$4.87",
-    "marketCap": 31472635900,
+    "marketCap": 31201132500,
     "name": "M&T Bank Corporation",
     "symbol": "MTB",
     "time": "bmo"
@@ -409,7 +418,7 @@
     "eps": "$1.38",
     "fq": "Sep/2026",
     "lastYearEps": "$1.05",
-    "marketCap": 26660491300,
+    "marketCap": 26353031200,
     "name": "Citizens Financial Group, Inc.",
     "symbol": "CFG",
     "time": "bmo"
@@ -418,7 +427,7 @@
     "eps": "$0.67",
     "fq": "Sep/2026",
     "lastYearEps": "$0.63",
-    "marketCap": 23010615300,
+    "marketCap": 22908385300,
     "name": "Regions Financial Corporation",
     "symbol": "RF",
     "time": "bmo"
@@ -427,13 +436,13 @@
     "eps": "$1.93",
     "fq": "Sep/2026",
     "lastYearEps": "$1.85",
-    "marketCap": 3587337980,
+    "marketCap": 3585993980,
     "name": "BancFirst Corporation",
     "symbol": "BANF",
     "time": "tbd"
    }
   ]
  },
- "updatedAt": "2026-10-15T22:44:06+00:00",
+ "updatedAt": "2026-10-16T11:58:26+00:00",
  "week": "2026-10-12"
 }
