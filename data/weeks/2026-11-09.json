@@ -1264,7 +1264,7 @@
     "eps": "$0.45",
     "fq": "Sep/2026",
     "lastYearEps": "$0.44",
-    "marketCap": 259665510000,
+    "marketCap": 259428155000,
     "name": "Mitsubishi UFJ Financial Group Inc",
     "symbol": "MUFG",
     "time": "tbd"
@@ -1273,7 +1273,7 @@
     "eps": "$0.24",
     "fq": "Sep/2026",
     "lastYearEps": "$0.59",
-    "marketCap": 157952164000,
+    "marketCap": 158015996000,
     "name": "Sumitomo Mitsui Financial Group Inc",
     "symbol": "SMFG",
     "time": "tbd"
@@ -1282,7 +1282,7 @@
     "eps": "$0.21",
     "fq": "Sep/2026",
     "lastYearEps": "$0.20",
-    "marketCap": 127729230000,
+    "marketCap": 127231263000,
     "name": "Mizuho Financial Group, Inc.",
     "symbol": "MFG",
     "time": "tbd"
@@ -1291,7 +1291,7 @@
     "eps": "$3.94",
     "fq": "Sep/2026",
     "lastYearEps": "$3.21",
-    "marketCap": 41954763000,
+    "marketCap": 42270323000,
     "name": "KB Financial Group Inc",
     "symbol": "KB",
     "time": "tbd"
@@ -1300,7 +1300,7 @@
     "eps": "$2.52",
     "fq": "Sep/2026",
     "lastYearEps": "$2.05",
-    "marketCap": 33562810400,
+    "marketCap": 33857095700,
     "name": "Shinhan Financial Group Co Ltd",
     "symbol": "SHG",
     "time": "tbd"
@@ -1309,7 +1309,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$3.57",
-    "marketCap": 16760284200,
+    "marketCap": 17074630700,
     "name": "Woori Bank",
     "symbol": "WF",
     "time": "tbd"
@@ -1318,7 +1318,7 @@
     "eps": "$1.07",
     "fq": "Sep/2026",
     "lastYearEps": "$1.30",
-    "marketCap": 13585949700,
+    "marketCap": 13924738000,
     "name": "LATAM Airlines Group S.A.",
     "symbol": "LTM",
     "time": "tbd"
@@ -1327,7 +1327,7 @@
     "eps": "($0.44)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.45)",
-    "marketCap": 9823181800,
+    "marketCap": 9579856900,
     "name": "Twist Bioscience Corporation",
     "symbol": "TWST",
     "time": "tbd"
@@ -1336,7 +1336,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$0.05",
-    "marketCap": 6696569900,
+    "marketCap": 6553480700,
     "name": "Comp En De Mn Cemig ADS",
     "symbol": "CIG",
     "time": "tbd"
@@ -1345,7 +1345,7 @@
     "eps": "($0.86)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.57)",
-    "marketCap": 5481520600,
+    "marketCap": 5483293700,
     "name": "CG Oncology, Inc.",
     "symbol": "CGON",
     "time": "tbd"
@@ -1354,7 +1354,7 @@
     "eps": "($0.86)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.90)",
-    "marketCap": 4822697000,
+    "marketCap": 4949354000,
     "name": "Scholar Rock Holding Corporation",
     "symbol": "SRRK",
     "time": "tbd"
@@ -1363,7 +1363,7 @@
     "eps": "($1.08)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.47)",
-    "marketCap": 4717201900,
+    "marketCap": 4773359100,
     "name": "Spire Inc.",
     "symbol": "SR",
     "time": "tbd"
@@ -1372,7 +1372,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "($0.16)",
-    "marketCap": 3368609540,
+    "marketCap": 3419223040,
     "name": "Twenty One Capital, Inc.",
     "symbol": "XXI",
     "time": "tbd"
@@ -1390,18 +1390,9 @@
     "eps": "($0.49)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.24)",
-    "marketCap": 2174148350,
+    "marketCap": 2313964800,
     "name": "Perpetua Resources Corp.",
     "symbol": "PPTA",
-    "time": "tbd"
-   },
-   {
-    "eps": "($0.10)",
-    "fq": "Sep/2026",
-    "lastYearEps": "N/A",
-    "marketCap": 2102391300,
-    "name": "Sinda Ltd.",
-    "symbol": "SIND",
     "time": "tbd"
    },
    {
@@ -1415,6 +1406,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-16T22:46:00+00:00",
+ "updatedAt": "2026-10-17T22:40:24+00:00",
  "week": "2026-11-09"
 }

@@ -372,7 +372,7 @@
    {
     "eps": "$0.40",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.44",
+    "lastYearEps": "",
     "marketCap": 120735318000,
     "name": "HDFC Bank Limited",
     "symbol": "HDB",
@@ -381,7 +381,7 @@
    {
     "eps": "$0.40",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.39",
+    "lastYearEps": "",
     "marketCap": 105396855000,
     "name": "ICICI Bank Limited",
     "symbol": "IBN",
@@ -390,52 +390,52 @@
    {
     "eps": "$7.07",
     "fq": "Sep/2026",
-    "lastYearEps": "$8.14",
+    "lastYearEps": "",
     "marketCap": 80069861000,
     "name": "The Travelers Companies, Inc.",
     "symbol": "TRV",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.17",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.04",
+    "lastYearEps": "",
     "marketCap": 56891130000,
     "name": "Truist Financial Corporation",
     "symbol": "TFC",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$4.98",
     "fq": "Sep/2026",
-    "lastYearEps": "$4.87",
+    "lastYearEps": "",
     "marketCap": 31576614900,
     "name": "M&T Bank Corporation",
     "symbol": "MTB",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.38",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.05",
+    "lastYearEps": "",
     "marketCap": 26715244500,
     "name": "Citizens Financial Group, Inc.",
     "symbol": "CFG",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.67",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.63",
+    "lastYearEps": "",
     "marketCap": 23266195500,
     "name": "Regions Financial Corporation",
     "symbol": "RF",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.93",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.85",
+    "lastYearEps": "",
     "marketCap": 3633704190,
     "name": "BancFirst Corporation",
     "symbol": "BANF",
@@ -443,6 +443,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-16T22:45:06+00:00",
+ "updatedAt": "2026-10-17T22:39:31+00:00",
  "week": "2026-10-12"
 }
