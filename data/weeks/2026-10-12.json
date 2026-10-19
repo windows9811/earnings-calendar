@@ -16,7 +16,7 @@
     "eps": "$5.94",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 891901180000,
+    "marketCap": 903039030000,
     "name": "J P Morgan Chase & Co",
     "symbol": "JPM",
     "time": "tbd"
@@ -25,7 +25,7 @@
     "eps": "$2.53",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 610379100000,
+    "marketCap": 615873710000,
     "name": "Johnson & Johnson",
     "symbol": "JNJ",
     "time": "tbd"
@@ -34,7 +34,7 @@
     "eps": "$4.12",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 365024903000,
+    "marketCap": 360321516000,
     "name": "UnitedHealth Group Incorporated",
     "symbol": "UNH",
     "time": "tbd"
@@ -43,7 +43,7 @@
     "eps": "$12.90",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 259515253000,
+    "marketCap": 256597721000,
     "name": "The Goldman Sachs Group, Inc.",
     "symbol": "GS",
     "time": "tbd"
@@ -52,7 +52,7 @@
     "eps": "$1.85",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 250235945000,
+    "marketCap": 253622829000,
     "name": "Wells Fargo & Company",
     "symbol": "WFC",
     "time": "tbd"
@@ -61,7 +61,7 @@
     "eps": "$2.66",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 206676984000,
+    "marketCap": 208438297000,
     "name": "Citigroup Inc.",
     "symbol": "C",
     "time": "tbd"
@@ -70,7 +70,7 @@
     "eps": "$4.33",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 9970465800,
+    "marketCap": 10153038800,
     "name": "Domino's Pizza Inc",
     "symbol": "DPZ",
     "time": "tbd"
@@ -79,7 +79,7 @@
     "eps": "$0.31",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 6323793400,
+    "marketCap": 6352913400,
     "name": "Albertsons Companies, Inc.",
     "symbol": "ACI",
     "time": "tbd"
@@ -88,7 +88,7 @@
     "eps": "$1.82",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 3907615740,
+    "marketCap": 3876795140,
     "name": "AZZ Inc.",
     "symbol": "AZZ",
     "time": "tbd"
@@ -97,7 +97,7 @@
     "eps": "$1.21",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 2572874500,
+    "marketCap": 2575873280,
     "name": "FB Financial Corporation",
     "symbol": "FBK",
     "time": "tbd"
@@ -361,24 +361,6 @@
   ],
   "2026-10-16": [
    {
-    "eps": "$0.40",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 122325967000,
-    "name": "HDFC Bank Limited",
-    "symbol": "HDB",
-    "time": "tbd"
-   },
-   {
-    "eps": "$0.40",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 107365884000,
-    "name": "ICICI Bank Limited",
-    "symbol": "IBN",
-    "time": "tbd"
-   },
-   {
     "eps": "$7.07",
     "fq": "Sep/2026",
     "lastYearEps": "",
@@ -434,6 +416,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-19T12:01:43+00:00",
+ "updatedAt": "2026-10-19T22:44:00+00:00",
  "week": "2026-10-12"
 }
