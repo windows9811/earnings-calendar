@@ -679,25 +679,16 @@
     "eps": "$1.22",
     "fq": "Oct/2026",
     "lastYearEps": "$1.16",
-    "marketCap": 13004097500,
+    "marketCap": 12961151000,
     "name": "BJ's Wholesale Club Holdings, Inc.",
     "symbol": "BJ",
-    "time": "tbd"
-   },
-   {
-    "eps": "",
-    "fq": "Sep/2026",
-    "lastYearEps": "$0.19",
-    "marketCap": 11685475300,
-    "name": "Frontline Plc",
-    "symbol": "FRO",
     "time": "tbd"
    },
    {
     "eps": "$2.69",
     "fq": "Sep/2026",
     "lastYearEps": "$2.56",
-    "marketCap": 11673993200,
+    "marketCap": 11710414800,
     "name": "Moog Inc.",
     "symbol": "MOG.A",
     "time": "tbd"
@@ -706,7 +697,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$2.56",
-    "marketCap": 11673993200,
+    "marketCap": 11710414800,
     "name": "Moog Inc.",
     "symbol": "MOG.B",
     "time": "tbd"
@@ -714,8 +705,17 @@
    {
     "eps": "",
     "fq": "Sep/2026",
+    "lastYearEps": "$0.19",
+    "marketCap": 11291433000,
+    "name": "Frontline Plc",
+    "symbol": "FRO",
+    "time": "tbd"
+   },
+   {
+    "eps": "",
+    "fq": "Sep/2026",
     "lastYearEps": "$1.88",
-    "marketCap": 10257458200,
+    "marketCap": 10211047400,
     "name": "IES Holdings, Inc.",
     "symbol": "IESC",
     "time": "tbd"
@@ -724,7 +724,7 @@
     "eps": "($0.36)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.41)",
-    "marketCap": 7299352600,
+    "marketCap": 6784654300,
     "name": "VinFast Auto Ltd.",
     "symbol": "VFS",
     "time": "tbd"
@@ -733,13 +733,13 @@
     "eps": "",
     "fq": "Oct/2026",
     "lastYearEps": "$0.96",
-    "marketCap": 2395328260,
+    "marketCap": 2418508800,
     "name": "Buckle, Inc. (The)",
     "symbol": "BKE",
     "time": "tbd"
    }
   ]
  },
- "updatedAt": "2026-10-19T22:45:01+00:00",
+ "updatedAt": "2026-10-20T11:59:33+00:00",
  "week": "2026-11-16"
 }
