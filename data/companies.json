@@ -2302,8 +2302,13 @@
   "website": "https://www.copart.com"
  },
  "CPT": {
+  "checkedAt": "2026-10-21T22:47:23+00:00",
+  "label": "Camden Property Trust",
   "lastTime": "amc",
-  "lastTimeDate": "2026-11-05"
+  "lastTimeDate": "2026-11-05",
+  "logo": "CPT.png",
+  "logoSource": "wikipedia",
+  "website": "https://www.camdenliving.com"
  },
  "CQP": {
   "checkedAt": "2026-10-09T08:16:40+00:00",
@@ -2751,6 +2756,13 @@
  "DKL": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-06"
+ },
+ "DKNG": {
+  "checkedAt": "2026-10-21T22:47:22+00:00",
+  "label": "DraftKings",
+  "logo": "DKNG.svg",
+  "logoSource": "wikipedia",
+  "website": "https://www.draftkings.com"
  },
  "DKS": {
   "checkedAt": "2026-10-10T06:50:40+00:00",
@@ -6861,6 +6873,10 @@
   "logo": "ONTO.png",
   "logoSource": "parqet",
   "website": "https://www.ontoinnovation.com"
+ },
+ "OPEN": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-05"
  },
  "OPLN": {
   "lastTime": "bmo",
