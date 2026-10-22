@@ -112,6 +112,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-13"
  },
+ "ACLS": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-05"
+ },
  "ACMR": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-05"
@@ -402,6 +406,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-20"
  },
+ "ALKS": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-03"
+ },
  "ALL": {
   "checkedAt": "2026-10-09T08:19:17+00:00",
   "label": "Allstate",
@@ -428,6 +436,10 @@
   "logo": "ALLY.svg",
   "logoSource": "wikidata",
   "website": "https://www.ally.com"
+ },
+ "ALMR": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03"
  },
  "ALNY": {
   "checkedAt": "2026-10-09T08:16:47+00:00",
@@ -535,6 +547,10 @@
   "logo": "AMP.png",
   "logoSource": "parqet",
   "website": "https://www.ameriprise.com"
+ },
+ "AMPL": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
  },
  "AMRX": {
   "lastTime": "bmo",
@@ -746,6 +762,10 @@
   "logoSource": "parqet",
   "website": "https://www.aramark.com"
  },
+ "ARQT": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
+ },
  "ARW": {
   "checkedAt": "2026-10-09T08:17:07+00:00",
   "label": "Arrow Electronics",
@@ -880,6 +900,10 @@
  "AVPT": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-05"
+ },
+ "AVT": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04"
  },
  "AVTR": {
   "checkedAt": "2026-10-09T08:15:52+00:00",
@@ -1111,6 +1135,10 @@
  "BC": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-29"
+ },
+ "BCC": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-02"
  },
  "BCE": {
   "checkedAt": "2026-10-09T08:21:08+00:00",
@@ -1477,6 +1505,8 @@
  "BR": {
   "checkedAt": "2026-10-09T08:18:32+00:00",
   "label": "Broadridge Financial Solutions",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-03",
   "logo": "BR.svg",
   "logoSource": "parqet",
   "website": "https://www.broadridge.com"
@@ -1494,6 +1524,10 @@
   "logo": "BRK-B.svg",
   "logoSource": "wikidata",
   "website": "https://www.berkshirehathaway.com"
+ },
+ "BRKR": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04"
  },
  "BRO": {
   "checkedAt": "2026-10-09T08:14:18+00:00",
@@ -1673,6 +1707,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-11-02"
  },
+ "CAMT": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04"
+ },
  "CAR": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-03"
@@ -1750,6 +1788,8 @@
  "CBRS": {
   "checkedAt": "2026-10-09T08:22:00+00:00",
   "label": "Cerebras",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-12",
   "logo": "CBRS.svg",
   "logoSource": "parqet",
   "website": "https://www.cerebras.ai/"
@@ -1829,6 +1869,8 @@
  "CDW": {
   "checkedAt": "2026-10-09T08:18:37+00:00",
   "label": "CDW",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04",
   "logo": "CDW.svg",
   "logoSource": "parqet",
   "website": "https://www.cdw.com"
@@ -1975,6 +2017,10 @@
   "logo": "CIB.svg",
   "logoSource": "parqet",
   "website": "https://www.bancolombia.com/"
+ },
+ "CIFR": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-02"
  },
  "CIGI": {
   "lastTime": "bmo",
@@ -2283,6 +2329,8 @@
  "CPAY": {
   "checkedAt": "2026-10-09T08:19:30+00:00",
   "label": "Corpay",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04",
   "logo": "CPAY.png",
   "logoSource": "wikidata",
   "website": "https://www.corpay.com"
@@ -2290,6 +2338,8 @@
  "CPNG": {
   "checkedAt": "2026-10-09T08:18:20+00:00",
   "label": "Coupang",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03",
   "logo": "CPNG.svg",
   "logoSource": "wikidata",
   "website": "https://www.aboutcoupang.com"
@@ -2760,6 +2810,8 @@
  "DKNG": {
   "checkedAt": "2026-10-21T22:47:22+00:00",
   "label": "DraftKings",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-05",
   "logo": "DKNG.svg",
   "logoSource": "wikipedia",
   "website": "https://www.draftkings.com"
@@ -2845,6 +2897,10 @@
   "logo": "DOW.svg",
   "logoSource": "wikipedia",
   "website": "https://www.dow.com"
+ },
+ "DPC": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-12"
  },
  "DPZ": {
   "checkedAt": "2026-10-09T08:12:49+00:00",
@@ -3166,8 +3222,13 @@
   "website": "https://www.enbridge.com"
  },
  "ENLT": {
+  "checkedAt": "2026-10-22T12:01:20+00:00",
+  "label": "",
   "lastTime": "bmo",
-  "lastTimeDate": "2026-11-03"
+  "lastTimeDate": "2026-11-03",
+  "logo": "ENLT.png",
+  "logoSource": "wikipedia",
+  "website": "https://www.enlightenergy.co.il"
  },
  "ENPH": {
   "lastTime": "amc",
@@ -3423,6 +3484,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-27"
  },
+ "EXP": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04"
+ },
  "EXPD": {
   "checkedAt": "2026-10-09T08:18:21+00:00",
   "label": "Expeditors International",
@@ -3639,7 +3704,7 @@
   "checkedAt": "2026-10-09T08:19:44+00:00",
   "label": "Fidelity National Information Services",
   "lastTime": "bmo",
-  "lastTimeDate": "2026-11-03",
+  "lastTimeDate": "2026-11-04",
   "logo": "FIS.svg",
   "logoSource": "wikidata",
   "website": "https://www.fisglobal.com"
@@ -4079,6 +4144,10 @@
   "logoSource": "parqet",
   "website": "https://www.cgi.com"
  },
+ "GIL": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-05"
+ },
  "GILD": {
   "checkedAt": "2026-10-09T08:16:00+00:00",
   "label": "Gilead Sciences",
@@ -4174,6 +4243,10 @@
  },
  "GNW": {
   "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
+ },
+ "GOLF": {
+  "lastTime": "bmo",
   "lastTimeDate": "2026-11-04"
  },
  "GOOG": {
@@ -4392,6 +4465,10 @@
  "HG": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-29"
+ },
+ "HGTY": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-03"
  },
  "HGV": {
   "lastTime": "bmo",
@@ -4797,6 +4874,10 @@
   "logoSource": "parqet",
   "website": "https://www.imperialoil.ca"
  },
+ "IMVT": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-09"
+ },
  "INCY": {
   "checkedAt": "2026-10-09T08:15:01+00:00",
   "label": "Incyte",
@@ -4849,6 +4930,10 @@
   "logoSource": "fmp",
   "website": "https://www.innio.com/"
  },
+ "INOD": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-05"
+ },
  "INSM": {
   "checkedAt": "2026-10-09T08:16:51+00:00",
   "label": "",
@@ -4895,6 +4980,10 @@
   "logoSource": "parqet",
   "website": "https://www.invitationhomes.com"
  },
+ "INVX": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-29"
+ },
  "IOND": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
@@ -4925,6 +5014,10 @@
   "logo": "IP.png",
   "logoSource": "parqet",
   "website": "https://www.internationalpaper.com"
+ },
+ "IPAR": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
  },
  "IPGP": {
   "lastTime": "bmo",
@@ -5086,6 +5179,10 @@
   "logoSource": "wikipedia",
   "website": "https://www.jbs.com.br"
  },
+ "JBTM": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-03"
+ },
  "JCI": {
   "checkedAt": "2026-10-09T08:14:36+00:00",
   "label": "Johnson Controls",
@@ -5112,6 +5209,8 @@
  "JKHY": {
   "checkedAt": "2026-10-09T08:19:00+00:00",
   "label": "Jack Henry & Associates",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03",
   "logo": "JKHY.png",
   "logoSource": "parqet",
   "website": "https://www.jackhenry.com"
@@ -5141,6 +5240,10 @@
  "JOBY": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
+ },
+ "JOE": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-28"
  },
  "JPM": {
   "checkedAt": "2026-10-09T08:12:46+00:00",
@@ -6064,6 +6167,8 @@
  "MOD": {
   "checkedAt": "2026-10-09T08:15:14+00:00",
   "label": "",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03",
   "logo": "MOD.png",
   "logoSource": "parqet",
   "website": "https://www.modine.com"
@@ -6184,6 +6289,10 @@
   "logo": "MS.png",
   "logoSource": "wikidata",
   "website": "https://www.morganstanley.com"
+ },
+ "MSA": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-02"
  },
  "MSCI": {
   "checkedAt": "2026-10-09T08:13:07+00:00",
@@ -6912,9 +7021,17 @@
   "logoSource": "wikidata",
   "website": "https://www.hioscar.com"
  },
+ "OSIS": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-29"
+ },
  "OSK": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-29"
+ },
+ "OSW": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-28"
  },
  "OTEX": {
   "lastTime": "bmo",
@@ -6940,6 +7057,10 @@
  "OUST": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-03"
+ },
+ "OUT": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-05"
  },
  "OVV": {
   "checkedAt": "2026-10-09T08:18:34+00:00",
@@ -7229,6 +7350,10 @@
   "logoSource": "wikidata",
   "website": "https://us.pg.com"
  },
+ "PGNY": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
+ },
  "PGR": {
   "checkedAt": "2026-10-09T08:13:21+00:00",
   "label": "Progressive Corporation",
@@ -7241,6 +7366,8 @@
  "PH": {
   "checkedAt": "2026-10-09T08:20:34+00:00",
   "label": "Parker Hannifin",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-05",
   "logo": "PH.svg",
   "logoSource": "wikidata",
   "website": "https://www.parker.com"
@@ -7435,9 +7562,17 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-28"
  },
+ "PRGO": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04"
+ },
  "PRI": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
+ },
+ "PRIM": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03"
  },
  "PRLB": {
   "lastTime": "bmo",
@@ -7705,6 +7840,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-04"
  },
+ "REZI": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-10"
+ },
  "RF": {
   "checkedAt": "2026-10-09T08:13:00+00:00",
   "label": "Regions Financial Corporation",
@@ -7748,6 +7887,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-11-02"
  },
+ "RIOT": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04"
+ },
  "RITM": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-23"
@@ -7773,6 +7916,8 @@
  "RKLB": {
   "checkedAt": "2026-10-09T08:21:37+00:00",
   "label": "Rocket Lab Corporation",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09",
   "logo": "RKLB.png",
   "logoSource": "parqet",
   "website": "https://www.rocketlabusa.com"
@@ -7787,6 +7932,8 @@
  "RL": {
   "checkedAt": "2026-10-09T08:21:00+00:00",
   "label": "Ralph Lauren Corporation",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-05",
   "logo": "RL.svg",
   "logoSource": "wikidata",
   "website": "https://www.ralphlauren.com"
@@ -7837,6 +7984,8 @@
  "ROIV": {
   "checkedAt": "2026-10-09T08:21:42+00:00",
   "label": "Roivant",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-09",
   "logo": "ROIV.svg",
   "logoSource": "parqet",
   "website": "https://www.roivant.com"
@@ -8004,6 +8153,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
  },
+ "RYTM": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-03"
+ },
  "SAH": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-29"
@@ -8036,6 +8189,10 @@
   "logo": "SAP.svg",
   "logoSource": "wikidata",
   "website": "https://www.sap.com"
+ },
+ "SARO": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-05"
  },
  "SBAC": {
   "checkedAt": "2026-10-09T08:17:49+00:00",
@@ -8106,6 +8263,10 @@
   "logoSource": "parqet",
   "website": "https://www.sea.com"
  },
+ "SEDG": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04"
+ },
  "SEI": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
@@ -8148,6 +8309,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-15"
  },
+ "SGHC": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03"
+ },
  "SGI": {
   "checkedAt": "2026-10-09T08:21:14+00:00",
   "label": "Silicon Graphics International",
@@ -8160,6 +8325,10 @@
  "SHAK": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-05"
+ },
+ "SHC": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-03"
  },
  "SHEL": {
   "checkedAt": "2026-10-09T08:16:03+00:00",
@@ -8249,6 +8418,8 @@
  "SKYD": {
   "checkedAt": "2026-10-09T08:18:09+00:00",
   "label": "",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09",
   "logo": "SKYD.svg",
   "logoSource": "wikipedia",
   "website": "https://www.paramount.com"
@@ -8298,6 +8469,8 @@
  "SMCI": {
   "checkedAt": "2026-10-09T08:18:15+00:00",
   "label": "Supermicro",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03",
   "logo": "SMCI.svg",
   "logoSource": "wikidata",
   "website": "https://www.supermicro.com"
@@ -8431,6 +8604,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-21"
  },
+ "SONO": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-10"
+ },
  "SONY": {
   "checkedAt": "2026-10-09T08:21:46+00:00",
   "label": "Sony Group",
@@ -8542,6 +8719,8 @@
  "STE": {
   "checkedAt": "2026-10-09T08:19:36+00:00",
   "label": "Steris",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04",
   "logo": "STE.svg",
   "logoSource": "wikidata",
   "website": "https://www.steris.com"
@@ -8577,9 +8756,17 @@
   "logoSource": "wikidata",
   "website": "https://www.st.com"
  },
+ "STN": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-12"
+ },
  "STNE": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-12"
+ },
+ "STNG": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-28"
  },
  "STRL": {
   "checkedAt": "2026-10-09T08:17:44+00:00",
@@ -8602,6 +8789,10 @@
  "STUB": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-10"
+ },
+ "STVN": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-03"
  },
  "STWD": {
   "lastTime": "bmo",
@@ -8626,6 +8817,8 @@
  "SU": {
   "checkedAt": "2026-10-09T08:18:09+00:00",
   "label": "Suncor Energy",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03",
   "logo": "SU.svg",
   "logoSource": "parqet",
   "website": "https://www.suncor.com"
@@ -8657,6 +8850,8 @@
  "SW": {
   "checkedAt": "2026-10-09T08:19:35+00:00",
   "label": "Smurfit Westrock Group",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-28",
   "logo": "SW.svg",
   "logoSource": "wikidata",
   "website": "https://www.smurfitwestrock.com"
@@ -9003,6 +9198,8 @@
  "TOST": {
   "checkedAt": "2026-10-09T08:18:35+00:00",
   "label": "Toast, Inc.",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03",
   "logo": "TOST.png",
   "logoSource": "parqet",
   "website": "https://www.toasttab.com"
@@ -9061,6 +9258,8 @@
  "TRMB": {
   "checkedAt": "2026-10-09T08:20:06+00:00",
   "label": "Trimble",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04",
   "logo": "TRMB.png",
   "logoSource": "parqet",
   "website": "https://www.trimble.com"
@@ -9498,6 +9697,8 @@
  "UTHR": {
   "checkedAt": "2026-10-09T08:19:34+00:00",
   "label": "",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04",
   "logo": "UTHR.svg",
   "logoSource": "wikipedia",
   "website": "https://www.unither.com"
@@ -9532,7 +9733,15 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-22"
  },
+ "VCTR": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
+ },
  "VCYT": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
+ },
+ "VECO": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
  },
@@ -9621,9 +9830,15 @@
  "VIV": {
   "checkedAt": "2026-10-09T08:16:56+00:00",
   "label": "Telefônica Brasil",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-10",
   "logo": "VIV.svg",
   "logoSource": "wikidata",
   "website": "https://www.telefonica.com.br"
+ },
+ "VKTX": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-10-28"
  },
  "VLO": {
   "checkedAt": "2026-10-09T08:13:35+00:00",
@@ -9698,6 +9913,10 @@
  "VOYA": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-02"
+ },
+ "VRDN": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04"
  },
  "VRNS": {
   "lastTime": "amc",
@@ -9965,6 +10184,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-11-05"
  },
+ "WLK": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04"
+ },
  "WM": {
   "checkedAt": "2026-10-09T08:14:37+00:00",
   "label": "Waste Management, Inc",
@@ -9986,6 +10209,8 @@
  "WMG": {
   "checkedAt": "2026-10-09T08:22:35+00:00",
   "label": "Warner Music Group",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-19",
   "logo": "WMG.svg",
   "logoSource": "wikidata",
   "website": "https://www.wmg.com"
@@ -10191,6 +10416,10 @@
   "logoSource": "parqet",
   "website": "https://www.block.xyz"
  },
+ "YOU": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04"
+ },
  "YPF": {
   "checkedAt": "2026-10-09T08:21:24+00:00",
   "label": "YPF",
@@ -10253,6 +10482,10 @@
  "ZION": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-19"
+ },
+ "ZLAB": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-05"
  },
  "ZM": {
   "checkedAt": "2026-10-10T06:50:35+00:00",
