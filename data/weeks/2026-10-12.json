@@ -108,7 +108,7 @@
     "eps": "$12.47",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 628554530000,
+    "marketCap": 646225920000,
     "name": "ASML Holding N.V.",
     "symbol": "ASML",
     "time": "tbd"
@@ -117,7 +117,7 @@
     "eps": "$1.11",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 354112766000,
+    "marketCap": 355091775000,
     "name": "Bank of America Corporation",
     "symbol": "BAC",
     "time": "tbd"
@@ -126,7 +126,7 @@
     "eps": "$2.83",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 283330150000,
+    "marketCap": 293711610000,
     "name": "Morgan Stanley",
     "symbol": "MS",
     "time": "tbd"
@@ -135,7 +135,7 @@
     "eps": "$14.01",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 174797832000,
+    "marketCap": 178037703000,
     "name": "BlackRock, Inc.",
     "symbol": "BLK",
     "time": "tbd"
@@ -144,7 +144,7 @@
     "eps": "$4.46",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 129023836000,
+    "marketCap": 128686645000,
     "name": "Progressive Corporation (The)",
     "symbol": "PGR",
     "time": "tbd"
@@ -153,7 +153,7 @@
     "eps": "$0.34",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 59258122000,
+    "marketCap": 60221854000,
     "name": "Fastenal Company",
     "symbol": "FAST",
     "time": "tbd"
@@ -162,7 +162,7 @@
     "eps": "$3.65",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 45759820000,
+    "marketCap": 46410863000,
     "name": "State Street Corporation",
     "symbol": "STT",
     "time": "tbd"
@@ -171,7 +171,7 @@
     "eps": "$0.64",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 5879458800,
+    "marketCap": 5875457500,
     "name": "Home BancShares, Inc.",
     "symbol": "HOMB",
     "time": "tbd"
@@ -180,7 +180,7 @@
     "eps": "",
     "fq": "Aug/2026",
     "lastYearEps": "",
-    "marketCap": 2295246340,
+    "marketCap": 2420494340,
     "name": "ChronoScale Holdings Corporation",
     "symbol": "CHRN",
     "time": "tbd"
@@ -416,6 +416,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-22T11:59:51+00:00",
+ "updatedAt": "2026-10-22T22:44:08+00:00",
  "week": "2026-10-12"
 }

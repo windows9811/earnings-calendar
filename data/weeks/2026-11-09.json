@@ -430,7 +430,7 @@
     "eps": "$1.21",
     "fq": "Sep/2026",
     "lastYearEps": "$0.82",
-    "marketCap": 165620220000,
+    "marketCap": 165362434000,
     "name": "Petroleo Brasileiro S.A.- Petrobras",
     "symbol": "PBR",
     "time": "amc"
@@ -439,7 +439,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$0.82",
-    "marketCap": 165620220000,
+    "marketCap": 165362434000,
     "name": "Petroleo Brasileiro S.A.- Petrobras",
     "symbol": "PBR.A",
     "time": "amc"
@@ -448,7 +448,7 @@
     "eps": "$0.84",
     "fq": "Sep/2026",
     "lastYearEps": "$0.59",
-    "marketCap": 49262129000,
+    "marketCap": 47737045000,
     "name": "Sea Limited",
     "symbol": "SE",
     "time": "tbd"
@@ -457,7 +457,7 @@
     "eps": "($0.53)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.39)",
-    "marketCap": 46609576000,
+    "marketCap": 46642201000,
     "name": "Nebius Group N.V.",
     "symbol": "NBIS",
     "time": "tbd"
@@ -466,7 +466,7 @@
     "eps": "$1.84",
     "fq": "Sep/2026",
     "lastYearEps": "$1.32",
-    "marketCap": 45939020000,
+    "marketCap": 46272827000,
     "name": "AngloGold Ashanti PLC",
     "symbol": "AU",
     "time": "tbd"
@@ -475,7 +475,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "N/A",
-    "marketCap": 37147083000,
+    "marketCap": 36952789000,
     "name": "Vodafone Group Plc",
     "symbol": "VOD",
     "time": "bmo"
@@ -484,7 +484,7 @@
     "eps": "$0.56",
     "fq": "Sep/2026",
     "lastYearEps": "$0.31",
-    "marketCap": 36347159000,
+    "marketCap": 35442590000,
     "name": "Ecopetrol S.A.",
     "symbol": "EC",
     "time": "tbd"
@@ -493,7 +493,7 @@
     "eps": "$0.89",
     "fq": "Sep/2026",
     "lastYearEps": "$0.79",
-    "marketCap": 33894651900,
+    "marketCap": 33694771200,
     "name": "Alcon Inc.",
     "symbol": "ALC",
     "time": "amc"
@@ -502,7 +502,7 @@
     "eps": "$0.52",
     "fq": "Sep/2026",
     "lastYearEps": "$0.16",
-    "marketCap": 31526170600,
+    "marketCap": 32126193700,
     "name": "Venture Global, Inc.",
     "symbol": "VG",
     "time": "bmo"
@@ -511,7 +511,7 @@
     "eps": "$0.24",
     "fq": "Sep/2026",
     "lastYearEps": "$0.22",
-    "marketCap": 20483835900,
+    "marketCap": 20643616800,
     "name": "Telefonica Brasil S.A.",
     "symbol": "VIV",
     "time": "amc"
@@ -520,7 +520,7 @@
     "eps": "($1.17)",
     "fq": "Sep/2026",
     "lastYearEps": "N/A",
-    "marketCap": 9479378900,
+    "marketCap": 10268441600,
     "name": "Quantinuum Inc.",
     "symbol": "QNT",
     "time": "tbd"
@@ -529,7 +529,7 @@
     "eps": "$0.19",
     "fq": "Sep/2026",
     "lastYearEps": "$0.17",
-    "marketCap": 7794867200,
+    "marketCap": 7862468100,
     "name": "CAE Inc",
     "symbol": "CAE",
     "time": "tbd"
@@ -538,7 +538,7 @@
     "eps": "$1.78",
     "fq": "Sep/2026",
     "lastYearEps": "$1.62",
-    "marketCap": 6629181400,
+    "marketCap": 6649691600,
     "name": "Amdocs Limited",
     "symbol": "DOX",
     "time": "tbd"
@@ -547,34 +547,34 @@
     "eps": "($0.59)",
     "fq": "Sep/2026",
     "lastYearEps": "N/A",
-    "marketCap": 5310672900,
+    "marketCap": 5709673500,
     "name": "Veradermics, Incorporated",
     "symbol": "MANE",
-    "time": "tbd"
-   },
-   {
-    "eps": "($0.28)",
-    "fq": "Sep/2026",
-    "lastYearEps": "($0.20)",
-    "marketCap": 5111765000,
-    "name": "Oklo Inc.",
-    "symbol": "OKLO",
     "time": "tbd"
    },
    {
     "eps": "($0.87)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.90)",
-    "marketCap": 5037039100,
+    "marketCap": 5236767200,
     "name": "Scholar Rock Holding Corporation",
     "symbol": "SRRK",
     "time": "bmo"
    },
    {
+    "eps": "($0.28)",
+    "fq": "Sep/2026",
+    "lastYearEps": "($0.20)",
+    "marketCap": 5158269400,
+    "name": "Oklo Inc.",
+    "symbol": "OKLO",
+    "time": "tbd"
+   },
+   {
     "eps": "$0.10",
     "fq": "Sep/2026",
     "lastYearEps": "$0.05",
-    "marketCap": 4536162800,
+    "marketCap": 4594592300,
     "name": "Mercury Systems Inc",
     "symbol": "MRCY",
     "time": "amc"
@@ -583,7 +583,7 @@
     "eps": "$0.58",
     "fq": "Sep/2026",
     "lastYearEps": "$0.67",
-    "marketCap": 4370808300,
+    "marketCap": 4180679170,
     "name": "PLDT Inc.",
     "symbol": "PHI",
     "time": "tbd"
@@ -592,7 +592,7 @@
     "eps": "($0.60)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.33)",
-    "marketCap": 2730369790,
+    "marketCap": 2955528960,
     "name": "Firefly Aerospace Inc.",
     "symbol": "FLY",
     "time": "amc"
@@ -601,7 +601,7 @@
     "eps": "$0.40",
     "fq": "Sep/2026",
     "lastYearEps": "$0.82",
-    "marketCap": 2592034820,
+    "marketCap": 2654292220,
     "name": "Resideo Technologies, Inc.",
     "symbol": "REZI",
     "time": "amc"
@@ -610,7 +610,7 @@
     "eps": "$0.13",
     "fq": "Sep/2026",
     "lastYearEps": "($0.60)",
-    "marketCap": 2269614340,
+    "marketCap": 2258151680,
     "name": "StubHub Holdings, Inc.",
     "symbol": "STUB",
     "time": "amc"
@@ -618,29 +618,38 @@
    {
     "eps": "",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.25",
-    "marketCap": 2198419460,
-    "name": "Hesai Group",
-    "symbol": "HSAI",
-    "time": "bmo"
-   },
-   {
-    "eps": "",
-    "fq": "Sep/2026",
     "lastYearEps": "$0.33",
-    "marketCap": 2133198590,
+    "marketCap": 2181847300,
     "name": "ChipMOS TECHNOLOGIES INC.",
     "symbol": "IMOS",
     "time": "tbd"
    },
    {
+    "eps": "",
+    "fq": "Sep/2026",
+    "lastYearEps": "$0.25",
+    "marketCap": 2072705790,
+    "name": "Hesai Group",
+    "symbol": "HSAI",
+    "time": "bmo"
+   },
+   {
     "eps": "($0.16)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.20)",
-    "marketCap": 2054766460,
+    "marketCap": 2066595840,
     "name": "Sonos, Inc.",
     "symbol": "SONO",
     "time": "amc"
+   },
+   {
+    "eps": "($0.01)",
+    "fq": "Sep/2026",
+    "lastYearEps": "N/A",
+    "marketCap": 2064554750,
+    "name": "ERock, Inc.",
+    "symbol": "EROC",
+    "time": "tbd"
    }
   ],
   "2026-11-11": [
@@ -1442,6 +1451,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-22T12:00:39+00:00",
+ "updatedAt": "2026-10-22T22:45:01+00:00",
  "week": "2026-11-09"
 }

@@ -1543,15 +1543,6 @@
     "time": "bmo"
    },
    {
-    "eps": "$0.14",
-    "fq": "Sep/2026",
-    "lastYearEps": "$0.10",
-    "marketCap": 7272438300,
-    "name": "Kratos Defense & Security Solutions, Inc.",
-    "symbol": "KTOS",
-    "time": "tbd"
-   },
-   {
     "eps": "$1.57",
     "fq": "Sep/2026",
     "lastYearEps": "$1.36",
@@ -6941,6 +6932,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-22T12:00:26+00:00",
+ "updatedAt": "2026-10-22T22:44:48+00:00",
  "week": "2026-11-02"
 }
