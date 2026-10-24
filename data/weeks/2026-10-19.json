@@ -1893,61 +1893,61 @@
    {
     "eps": "$4.47",
     "fq": "Sep/2026",
-    "lastYearEps": "$4.14",
+    "lastYearEps": "",
     "marketCap": 219590492000,
     "name": "American Express Company",
     "symbol": "AXP",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.92",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.90",
+    "lastYearEps": "",
     "marketCap": 93663461000,
     "name": "ENI S.p.A.",
     "symbol": "E",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.62",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.69",
+    "lastYearEps": "",
     "marketCap": 73539297000,
     "name": "SLB Limited",
     "symbol": "SLB",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.21",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.20",
+    "lastYearEps": "",
     "marketCap": 53625082000,
     "name": "Infosys Limited",
     "symbol": "INFY",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$46.61",
     "fq": "Sep/2026",
-    "lastYearEps": "$44.62",
+    "lastYearEps": "",
     "marketCap": 24808273900,
     "name": "First Citizens BancShares, Inc.",
     "symbol": "FCNCA",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
-    "eps": "$0.85",
+    "eps": "$0.84",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.99",
+    "lastYearEps": "",
     "marketCap": 17872898000,
     "name": "Rogers Communication, Inc.",
     "symbol": "RCI",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.16",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.19",
+    "lastYearEps": "",
     "marketCap": 11042511900,
     "name": "Dr. Reddy's Laboratories Ltd",
     "symbol": "RDY",
@@ -1956,68 +1956,77 @@
    {
     "eps": "$1.44",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.49",
+    "lastYearEps": "",
     "marketCap": 9450789900,
     "name": "Booz Allen Hamilton Holding Corporation",
     "symbol": "BAH",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$2.21",
     "fq": "Sep/2026",
-    "lastYearEps": "$2.32",
+    "lastYearEps": "",
     "marketCap": 8706440200,
     "name": "Autoliv, Inc.",
     "symbol": "ALV",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
-    "eps": "$1.53",
+    "eps": "$1.95",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.35",
+    "lastYearEps": "",
+    "marketCap": 5794861600,
+    "name": "MarketAxess Holdings, Inc.",
+    "symbol": "MKTX",
+    "time": "tbd"
+   },
+   {
+    "eps": "$1.54",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
     "marketCap": 5522229800,
     "name": "Balchem Corporation",
     "symbol": "BCPC",
-    "time": "bmo"
-   },
-   {
-    "eps": "$0.50",
-    "fq": "Sep/2026",
-    "lastYearEps": "$0.54",
-    "marketCap": 4846972900,
-    "name": "Rithm Capital Corp.",
-    "symbol": "RITM",
-    "time": "bmo"
-   },
-   {
-    "eps": "$0.06",
-    "fq": "Sep/2026",
-    "lastYearEps": "($0.07)",
-    "marketCap": 4748662300,
-    "name": "Flagstar Bank, N.A.",
-    "symbol": "FLG",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.51",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.46",
+    "lastYearEps": "",
+    "marketCap": 4846972900,
+    "name": "Rithm Capital Corp.",
+    "symbol": "RITM",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.06",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 4748662300,
+    "name": "Flagstar Bank, N.A.",
+    "symbol": "FLG",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.51",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
     "marketCap": 4580255700,
     "name": "Gentex Corporation",
     "symbol": "GNTX",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.60",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.59",
+    "lastYearEps": "",
     "marketCap": 3179533820,
     "name": "First Hawaiian, Inc.",
     "symbol": "FHB",
-    "time": "bmo"
+    "time": "tbd"
    }
   ]
  },
- "updatedAt": "2026-10-23T22:44:29+00:00",
+ "updatedAt": "2026-10-24T22:42:23+00:00",
  "week": "2026-10-19"
 }

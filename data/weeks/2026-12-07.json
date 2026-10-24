@@ -1,0 +1,276 @@
+{
+ "days": {
+  "2026-12-07": [
+   {
+    "eps": "$1.03",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.44",
+    "marketCap": 30592933900,
+    "name": "Credo Technology Group Holding Ltd",
+    "symbol": "CRDO",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.07",
+    "fq": "Oct/2026",
+    "lastYearEps": "($0.08)",
+    "marketCap": 29180729300,
+    "name": "MongoDB, Inc.",
+    "symbol": "MDB",
+    "time": "tbd"
+   },
+   {
+    "eps": "",
+    "fq": "Sep/2026",
+    "lastYearEps": "$0.18",
+    "marketCap": 5529970700,
+    "name": "Hafnia Limited",
+    "symbol": "HAFN",
+    "time": "tbd"
+   }
+  ],
+  "2026-12-08": [
+   {
+    "eps": "$36.41",
+    "fq": "Nov/2026",
+    "lastYearEps": "$31.04",
+    "marketCap": 53395337000,
+    "name": "AutoZone, Inc.",
+    "symbol": "AZO",
+    "time": "tbd"
+   },
+   {
+    "eps": "$6.01",
+    "fq": "Oct/2026",
+    "lastYearEps": "$5.53",
+    "marketCap": 26376624100,
+    "name": "Caseys General Stores, Inc.",
+    "symbol": "CASY",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.20",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.24",
+    "marketCap": 12809280500,
+    "name": "GameStop Corporation",
+    "symbol": "GME",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.08",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.08",
+    "marketCap": 11452487700,
+    "name": "SailPoint, Inc.",
+    "symbol": "SAIL",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.89",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.72",
+    "marketCap": 8063612900,
+    "name": "Core & Main, Inc.",
+    "symbol": "CNM",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.44",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.77",
+    "marketCap": 6340469800,
+    "name": "The Campbell's Company",
+    "symbol": "CPB",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.37",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.44",
+    "marketCap": 5981596700,
+    "name": "AeroVironment, Inc.",
+    "symbol": "AVAV",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.76",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.75",
+    "marketCap": 5502444500,
+    "name": "Ollie's Bargain Outlet Holdings, Inc.",
+    "symbol": "OLLI",
+    "time": "tbd"
+   },
+   {
+    "eps": "($0.22)",
+    "fq": "Oct/2026",
+    "lastYearEps": "($0.29)",
+    "marketCap": 5208982000,
+    "name": "Braze, Inc.",
+    "symbol": "BRZE",
+    "time": "tbd"
+   },
+   {
+    "eps": "$1.36",
+    "fq": "Oct/2026",
+    "lastYearEps": "$1.33",
+    "marketCap": 4165568260,
+    "name": "Korn Ferry",
+    "symbol": "KFY",
+    "time": "tbd"
+   },
+   {
+    "eps": "$1.22",
+    "fq": "Oct/2026",
+    "lastYearEps": "$1.03",
+    "marketCap": 3804343810,
+    "name": "Academy Sports and Outdoors, Inc.",
+    "symbol": "ASO",
+    "time": "tbd"
+   }
+  ],
+  "2026-12-09": [
+   {
+    "eps": "$1.57",
+    "fq": "Nov/2026",
+    "lastYearEps": "$1.95",
+    "marketCap": 379599815000,
+    "name": "Oracle Corporation",
+    "symbol": "ORCL",
+    "time": "tbd"
+   },
+   {
+    "eps": "$5.11",
+    "fq": "Nov/2026",
+    "lastYearEps": "$4.55",
+    "marketCap": 105298059000,
+    "name": "Adobe Inc.",
+    "symbol": "ADBE",
+    "time": "tbd"
+   },
+   {
+    "eps": "$3.09",
+    "fq": "Oct/2026",
+    "lastYearEps": "$1.90",
+    "marketCap": 80962650000,
+    "name": "Synopsys, Inc.",
+    "symbol": "SNPS",
+    "time": "tbd"
+   },
+   {
+    "eps": "$3.46",
+    "fq": "Oct/2026",
+    "lastYearEps": "$3.03",
+    "marketCap": 17751945200,
+    "name": "Nordson Corporation",
+    "symbol": "NDSN",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.20",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.14",
+    "marketCap": 8975035400,
+    "name": "Chewy, Inc.",
+    "symbol": "CHWY",
+    "time": "tbd"
+   },
+   {
+    "eps": "($5.42)",
+    "fq": "Oct/2026",
+    "lastYearEps": "($5.20)",
+    "marketCap": 5282220000,
+    "name": "Vail Resorts, Inc.",
+    "symbol": "MTN",
+    "time": "tbd"
+   },
+   {
+    "eps": "($0.08)",
+    "fq": "Oct/2026",
+    "lastYearEps": "($0.19)",
+    "marketCap": 4759131600,
+    "name": "Planet Labs PBC",
+    "symbol": "PL",
+    "time": "tbd"
+   },
+   {
+    "eps": "($0.06)",
+    "fq": "Oct/2026",
+    "lastYearEps": "($0.02)",
+    "marketCap": 3706973180,
+    "name": "Uranium Energy Corp.",
+    "symbol": "UEC",
+    "time": "tbd"
+   }
+  ],
+  "2026-12-10": [
+   {
+    "eps": "$3.45",
+    "fq": "Oct/2026",
+    "lastYearEps": "$1.61",
+    "marketCap": 1543028080000,
+    "name": "Broadcom Inc.",
+    "symbol": "AVGO",
+    "time": "tbd"
+   },
+   {
+    "eps": "$4.87",
+    "fq": "Nov/2026",
+    "lastYearEps": "$4.34",
+    "marketCap": 451198747000,
+    "name": "Costco Wholesale Corporation",
+    "symbol": "COST",
+    "time": "tbd"
+   },
+   {
+    "eps": "$1.77",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.64",
+    "marketCap": 45753102000,
+    "name": "Ciena Corporation",
+    "symbol": "CIEN",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.97",
+    "fq": "Oct/2026",
+    "lastYearEps": "$2.59",
+    "marketCap": 10988118000,
+    "name": "lululemon athletica inc.",
+    "symbol": "LULU",
+    "time": "tbd"
+   },
+   {
+    "eps": "",
+    "fq": "Sep/2026",
+    "lastYearEps": "($0.02)",
+    "marketCap": 3584371200,
+    "name": "Manchester United Ltd.",
+    "symbol": "MANU",
+    "time": "tbd"
+   },
+   {
+    "eps": "",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.49",
+    "marketCap": 3470319360,
+    "name": "National Beverage Corp.",
+    "symbol": "FIZZ",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.67",
+    "fq": "Oct/2026",
+    "lastYearEps": "$1.71",
+    "marketCap": 2653482240,
+    "name": "RH",
+    "symbol": "RH",
+    "time": "tbd"
+   }
+  ],
+  "2026-12-11": []
+ },
+ "updatedAt": "2026-10-24T22:43:50+00:00",
+ "week": "2026-12-07"
+}

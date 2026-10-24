@@ -139,6 +139,13 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
  },
+ "ADBE": {
+  "checkedAt": "2026-10-24T22:43:55+00:00",
+  "label": "Adobe",
+  "logo": "ADBE.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.adobe.com"
+ },
  "ADC": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-20"
@@ -919,6 +926,13 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-12"
  },
+ "AVGO": {
+  "checkedAt": "2026-10-24T22:43:58+00:00",
+  "label": "Broadcom",
+  "logo": "AVGO.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.broadcom.com"
+ },
  "AVNT": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-04"
@@ -1014,6 +1028,13 @@
   "logo": "AZN.png",
   "logoSource": "parqet",
   "website": "https://www.astrazeneca.com"
+ },
+ "AZO": {
+  "checkedAt": "2026-10-24T22:43:54+00:00",
+  "label": "AutoZone",
+  "logo": "AZO.png",
+  "logoSource": "wikidata",
+  "website": "https://www.autozone.com"
  },
  "AZZ": {
   "lastTime": "amc",
@@ -1777,6 +1798,13 @@
   "logoSource": "parqet",
   "website": "https://www.instacart.com"
  },
+ "CASY": {
+  "checkedAt": "2026-10-24T22:43:54+00:00",
+  "label": "Casey's General Stores",
+  "logo": "CASY.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.caseys.com"
+ },
  "CAT": {
   "checkedAt": "2026-10-09T08:18:58+00:00",
   "label": "Caterpillar Inc.",
@@ -2057,6 +2085,13 @@
   "logo": "CIB.svg",
   "logoSource": "parqet",
   "website": "https://www.bancolombia.com/"
+ },
+ "CIEN": {
+  "checkedAt": "2026-10-24T22:43:58+00:00",
+  "label": "Ciena",
+  "logo": "CIEN.svg",
+  "logoSource": "wikipedia",
+  "website": "https://www.ciena.com"
  },
  "CIFR": {
   "lastTime": "bmo",
@@ -2363,6 +2398,13 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-05"
  },
+ "COST": {
+  "checkedAt": "2026-10-24T22:43:56+00:00",
+  "label": "Costco",
+  "logo": "COST.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.costco.com"
+ },
  "COTY": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
@@ -2453,6 +2495,13 @@
   "logo": "CRCL.png",
   "logoSource": "fmp",
   "website": "https://www.circle.com"
+ },
+ "CRDO": {
+  "checkedAt": "2026-10-24T22:43:53+00:00",
+  "label": "",
+  "logo": "CRDO.svg",
+  "logoSource": "parqet",
+  "website": "https://www.credosemi.com"
  },
  "CRGY": {
   "lastTime": "amc",
@@ -4307,6 +4356,13 @@
   "logoSource": "parqet",
   "website": "https://www.genmab.com"
  },
+ "GME": {
+  "checkedAt": "2026-10-24T22:43:54+00:00",
+  "label": "GameStop",
+  "logo": "GME.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.gamestop.com"
+ },
  "GMED": {
   "checkedAt": "2026-10-12T11:49:35+00:00",
   "label": "Globus Medical",
@@ -5891,6 +5947,13 @@
   "logoSource": "parqet",
   "website": "https://www.lifetime.life/"
  },
+ "LULU": {
+  "checkedAt": "2026-10-24T22:43:57+00:00",
+  "label": "Lululemon Athletica",
+  "logo": "LULU.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.lululemon.com"
+ },
  "LUMN": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
@@ -6087,6 +6150,13 @@
  "MDA": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-05"
+ },
+ "MDB": {
+  "checkedAt": "2026-10-24T22:43:54+00:00",
+  "label": "MongoDB Inc.",
+  "logo": "MDB.png",
+  "logoSource": "wikipedia",
+  "website": "https://www.mongodb.com"
  },
  "MDGL": {
   "checkedAt": "2026-10-09T08:18:50+00:00",
@@ -6644,6 +6714,13 @@
   "logoSource": "wikidata",
   "website": "https://www.nasdaq.com"
  },
+ "NDSN": {
+  "checkedAt": "2026-10-24T22:43:57+00:00",
+  "label": "Nordson Corporation",
+  "logo": "NDSN.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.nordson.com"
+ },
  "NE": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-26"
@@ -7181,6 +7258,13 @@
  "ORA": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
+ },
+ "ORCL": {
+  "checkedAt": "2026-10-24T22:43:57+00:00",
+  "label": "Oracle Corporation",
+  "logo": "ORCL.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.oracle.com"
  },
  "ORI": {
   "lastTime": "bmo",
@@ -8382,6 +8466,13 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-29"
  },
+ "SAIL": {
+  "checkedAt": "2026-10-24T22:43:56+00:00",
+  "label": "",
+  "logo": "SAIL.svg",
+  "logoSource": "parqet",
+  "website": "https://www.sailpoint.com"
+ },
  "SAN": {
   "checkedAt": "2026-10-09T08:19:00+00:00",
   "label": "Santander Group",
@@ -8777,6 +8868,13 @@
   "logo": "SNOW.svg",
   "logoSource": "wikidata",
   "website": "https://www.snowflake.com"
+ },
+ "SNPS": {
+  "checkedAt": "2026-10-24T22:43:56+00:00",
+  "label": "Synopsys",
+  "logo": "SNPS.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.synopsys.com"
  },
  "SNY": {
   "checkedAt": "2026-10-09T08:17:12+00:00",
