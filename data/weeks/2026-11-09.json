@@ -14,34 +14,34 @@
     "eps": "$1.41",
     "fq": "Sep/2026",
     "lastYearEps": "$1.22",
-    "marketCap": 83560899000,
+    "marketCap": 81990033000,
     "name": "KKR & Co. Inc.",
     "symbol": "KKR",
-    "time": "bmo"
-   },
-   {
-    "eps": "$0.80",
-    "fq": "Sep/2026",
-    "lastYearEps": "$0.58",
-    "marketCap": 63383712000,
-    "name": "Barrick Mining Corporation",
-    "symbol": "B",
     "time": "bmo"
    },
    {
     "eps": "$1.42",
     "fq": "Sep/2026",
     "lastYearEps": "$0.64",
-    "marketCap": 62477337000,
+    "marketCap": 64146731000,
     "name": "Occidental Petroleum Corporation",
     "symbol": "OXY",
     "time": "amc"
    },
    {
+    "eps": "$0.80",
+    "fq": "Sep/2026",
+    "lastYearEps": "$0.58",
+    "marketCap": 62709314000,
+    "name": "Barrick Mining Corporation",
+    "symbol": "B",
+    "time": "bmo"
+   },
+   {
     "eps": "$0.11",
     "fq": "Sep/2026",
     "lastYearEps": "N/A",
-    "marketCap": 39278567000,
+    "marketCap": 39177724000,
     "name": "Skydance Corporation",
     "symbol": "SKYD",
     "time": "amc"
@@ -77,7 +77,7 @@
     "eps": "$7.51",
     "fq": "Sep/2026",
     "lastYearEps": "$6.17",
-    "marketCap": 29468536800,
+    "marketCap": 29401825300,
     "name": "Credicorp Ltd.",
     "symbol": "BAP",
     "time": "amc"
@@ -95,7 +95,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$0.07",
-    "marketCap": 22098829300,
+    "marketCap": 22557018100,
     "name": "Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp",
     "symbol": "SBS",
     "time": "tbd"
@@ -104,7 +104,7 @@
     "eps": "$0.21",
     "fq": "Sep/2026",
     "lastYearEps": "$0.10",
-    "marketCap": 19478439900,
+    "marketCap": 19297665000,
     "name": "KE Holdings Inc",
     "symbol": "BEKE",
     "time": "tbd"
@@ -131,7 +131,7 @@
     "eps": "$0.93",
     "fq": "Sep/2026",
     "lastYearEps": "$0.43",
-    "marketCap": 15281284100,
+    "marketCap": 15278619600,
     "name": "RB Global, Inc.",
     "symbol": "RBA",
     "time": "bmo"
@@ -140,7 +140,7 @@
     "eps": "$1.06",
     "fq": "Sep/2026",
     "lastYearEps": "$0.95",
-    "marketCap": 15193484300,
+    "marketCap": 14891871200,
     "name": "Somnigroup International Inc.",
     "symbol": "SGI",
     "time": "bmo"
@@ -149,7 +149,7 @@
     "eps": "$0.10",
     "fq": "Sep/2026",
     "lastYearEps": "$0.08",
-    "marketCap": 14332866600,
+    "marketCap": 14221471700,
     "name": "CNH Industrial N.V.",
     "symbol": "CNH",
     "time": "bmo"
@@ -158,7 +158,7 @@
     "eps": "$0.28",
     "fq": "Sep/2026",
     "lastYearEps": "$0.52",
-    "marketCap": 13247393800,
+    "marketCap": 13300940800,
     "name": "JBS N.V.",
     "symbol": "JBS",
     "time": "amc"
@@ -176,7 +176,7 @@
     "eps": "$2.27",
     "fq": "Sep/2026",
     "lastYearEps": "$0.92",
-    "marketCap": 9749580800,
+    "marketCap": 9750071300,
     "name": "Onto Innovation Inc.",
     "symbol": "ONTO",
     "time": "amc"
@@ -185,7 +185,7 @@
     "eps": "$0.43",
     "fq": "Sep/2026",
     "lastYearEps": "$0.46",
-    "marketCap": 9310153700,
+    "marketCap": 9171410900,
     "name": "TIM S.A.",
     "symbol": "TIMB",
     "time": "amc"
@@ -212,7 +212,7 @@
     "eps": "$0.07",
     "fq": "Sep/2026",
     "lastYearEps": "$0.06",
-    "marketCap": 6796419600,
+    "marketCap": 6465114600,
     "name": "Hims & Hers Health, Inc.",
     "symbol": "HIMS",
     "time": "amc"
@@ -248,10 +248,19 @@
     "eps": "$1.46",
     "fq": "Sep/2026",
     "lastYearEps": "$1.12",
-    "marketCap": 5700937700,
+    "marketCap": 5720809000,
     "name": "Intercorp Financial Services Inc.",
     "symbol": "IFS",
     "time": "amc"
+   },
+   {
+    "eps": "$0.32",
+    "fq": "Sep/2026",
+    "lastYearEps": "($0.36)",
+    "marketCap": 5556514800,
+    "name": "Telecom Argentina Stet - France Telecom S.A.",
+    "symbol": "TEO",
+    "time": "tbd"
    },
    {
     "eps": "$0.21",
@@ -260,15 +269,6 @@
     "marketCap": 5535565300,
     "name": "RadNet, Inc.",
     "symbol": "RDNT",
-    "time": "tbd"
-   },
-   {
-    "eps": "$0.32",
-    "fq": "Sep/2026",
-    "lastYearEps": "($0.36)",
-    "marketCap": 5453137900,
-    "name": "Telecom Argentina Stet - France Telecom S.A.",
-    "symbol": "TEO",
     "time": "tbd"
    },
    {
@@ -284,7 +284,7 @@
     "eps": "$0.45",
     "fq": "Sep/2026",
     "lastYearEps": "$2",
-    "marketCap": 5151808000,
+    "marketCap": 5099355600,
     "name": "Clearway Energy, Inc.",
     "symbol": "CWEN",
     "time": "amc"
@@ -308,6 +308,15 @@
     "time": "bmo"
    },
    {
+    "eps": "$0.64",
+    "fq": "Sep/2026",
+    "lastYearEps": "$0.53",
+    "marketCap": 4282518780,
+    "name": "Tidewater Inc.",
+    "symbol": "TDW",
+    "time": "tbd"
+   },
+   {
     "eps": "$0.02",
     "fq": "Sep/2026",
     "lastYearEps": "N/A",
@@ -315,15 +324,6 @@
     "name": "EquipmentShare.com Inc",
     "symbol": "EQPT",
     "time": "amc"
-   },
-   {
-    "eps": "$0.64",
-    "fq": "Sep/2026",
-    "lastYearEps": "$0.53",
-    "marketCap": 3961093630,
-    "name": "Tidewater Inc.",
-    "symbol": "TDW",
-    "time": "tbd"
    },
    {
     "eps": "($0.07)",
@@ -365,7 +365,7 @@
     "eps": "$1.17",
     "fq": "Sep/2026",
     "lastYearEps": "$1.32",
-    "marketCap": 3288434690,
+    "marketCap": 3293345790,
     "name": "National Health Investors, Inc.",
     "symbol": "NHI",
     "time": "amc"
@@ -374,7 +374,7 @@
     "eps": "($0.23)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.69)",
-    "marketCap": 2910565380,
+    "marketCap": 2995331330,
     "name": "Via Transportation, Inc.",
     "symbol": "VIA",
     "time": "bmo"
@@ -401,7 +401,7 @@
     "eps": "($0.49)",
     "fq": "Sep/2026",
     "lastYearEps": "N/A",
-    "marketCap": 2482846460,
+    "marketCap": 2487845380,
     "name": "Csquare, Inc.",
     "symbol": "CSQR",
     "time": "amc"
@@ -419,7 +419,7 @@
     "eps": "($0.80)",
     "fq": "Sep/2026",
     "lastYearEps": "($1.64)",
-    "marketCap": 2218833150,
+    "marketCap": 2096487680,
     "name": "Biohaven Ltd.",
     "symbol": "BHVN",
     "time": "tbd"
@@ -1397,6 +1397,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-26T13:51:45+00:00",
+ "updatedAt": "2026-10-26T22:49:01+00:00",
  "week": "2026-11-09"
 }

@@ -1885,7 +1885,7 @@
     "eps": "$4.47",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 219590492000,
+    "marketCap": 211520553000,
     "name": "American Express Company",
     "symbol": "AXP",
     "time": "tbd"
@@ -1894,7 +1894,7 @@
     "eps": "$1.92",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 93663461000,
+    "marketCap": 97675592000,
     "name": "ENI S.p.A.",
     "symbol": "E",
     "time": "tbd"
@@ -1903,7 +1903,7 @@
     "eps": "$0.62",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 73539297000,
+    "marketCap": 78748639000,
     "name": "SLB Limited",
     "symbol": "SLB",
     "time": "tbd"
@@ -1912,7 +1912,7 @@
     "eps": "$0.21",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 53625082000,
+    "marketCap": 50096046000,
     "name": "Infosys Limited",
     "symbol": "INFY",
     "time": "tbd"
@@ -1930,7 +1930,7 @@
     "eps": "$0.84",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 17872898000,
+    "marketCap": 18160484400,
     "name": "Rogers Communication, Inc.",
     "symbol": "RCI",
     "time": "tbd"
@@ -1939,7 +1939,7 @@
     "eps": "$0.16",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 11042511900,
+    "marketCap": 11025818600,
     "name": "Dr. Reddy's Laboratories Ltd",
     "symbol": "RDY",
     "time": "tbd"
@@ -1948,7 +1948,7 @@
     "eps": "$1.44",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 9450789900,
+    "marketCap": 9420719100,
     "name": "Booz Allen Hamilton Holding Corporation",
     "symbol": "BAH",
     "time": "tbd"
@@ -1957,7 +1957,7 @@
     "eps": "$2.21",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 8706440200,
+    "marketCap": 8398111700,
     "name": "Autoliv, Inc.",
     "symbol": "ALV",
     "time": "tbd"
@@ -1984,18 +1984,9 @@
     "eps": "$0.51",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 4846972900,
+    "marketCap": 5243442200,
     "name": "Rithm Capital Corp.",
     "symbol": "RITM",
-    "time": "tbd"
-   },
-   {
-    "eps": "$0.06",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 4748662300,
-    "name": "Flagstar Bank, N.A.",
-    "symbol": "FLG",
     "time": "tbd"
    },
    {
@@ -2005,6 +1996,15 @@
     "marketCap": 4352717800,
     "name": "Gentex Corporation",
     "symbol": "GNTX",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.06",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 4308663800,
+    "name": "Flagstar Bank, N.A.",
+    "symbol": "FLG",
     "time": "tbd"
    },
    {
@@ -2018,6 +2018,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-26T13:51:09+00:00",
+ "updatedAt": "2026-10-26T22:48:26+00:00",
  "week": "2026-10-19"
 }
