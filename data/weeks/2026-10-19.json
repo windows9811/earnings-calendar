@@ -1682,15 +1682,6 @@
     "time": "tbd"
    },
    {
-    "eps": "$1.86",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 4755676700,
-    "name": "Grupo Aeroportuario del Centro Norte S.A.B. de C.V.",
-    "symbol": "OMAB",
-    "time": "tbd"
-   },
-   {
     "eps": "$0.47",
     "fq": "Sep/2026",
     "lastYearEps": "",
@@ -1715,15 +1706,6 @@
     "marketCap": 4334836200,
     "name": "Kilroy Realty Corporation",
     "symbol": "KRC",
-    "time": "tbd"
-   },
-   {
-    "eps": "$1.65",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 4301354000,
-    "name": "Integer Holdings Corporation",
-    "symbol": "ITGR",
     "time": "tbd"
    },
    {
@@ -1885,7 +1867,7 @@
     "eps": "$4.47",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 211520553000,
+    "marketCap": 211257410000,
     "name": "American Express Company",
     "symbol": "AXP",
     "time": "tbd"
@@ -1894,7 +1876,7 @@
     "eps": "$1.92",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 97675592000,
+    "marketCap": 95268315000,
     "name": "ENI S.p.A.",
     "symbol": "E",
     "time": "tbd"
@@ -1903,7 +1885,7 @@
     "eps": "$0.62",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 78748639000,
+    "marketCap": 78778319000,
     "name": "SLB Limited",
     "symbol": "SLB",
     "time": "tbd"
@@ -1912,7 +1894,7 @@
     "eps": "$0.21",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 50096046000,
+    "marketCap": 50420556000,
     "name": "Infosys Limited",
     "symbol": "INFY",
     "time": "tbd"
@@ -1921,7 +1903,7 @@
     "eps": "$46.61",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 26830645200,
+    "marketCap": 26489255900,
     "name": "First Citizens BancShares, Inc.",
     "symbol": "FCNCA",
     "time": "tbd"
@@ -1930,7 +1912,7 @@
     "eps": "$0.84",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 18160484400,
+    "marketCap": 17733095400,
     "name": "Rogers Communication, Inc.",
     "symbol": "RCI",
     "time": "tbd"
@@ -1939,7 +1921,7 @@
     "eps": "$0.16",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 11025818600,
+    "marketCap": 11476533200,
     "name": "Dr. Reddy's Laboratories Ltd",
     "symbol": "RDY",
     "time": "tbd"
@@ -1948,7 +1930,7 @@
     "eps": "$1.44",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 9420719100,
+    "marketCap": 9886715900,
     "name": "Booz Allen Hamilton Holding Corporation",
     "symbol": "BAH",
     "time": "tbd"
@@ -1957,7 +1939,7 @@
     "eps": "$2.21",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 8398111700,
+    "marketCap": 8303812100,
     "name": "Autoliv, Inc.",
     "symbol": "ALV",
     "time": "tbd"
@@ -1966,7 +1948,7 @@
     "eps": "$1.95",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 5795213300,
+    "marketCap": 5807531000,
     "name": "MarketAxess Holdings, Inc.",
     "symbol": "MKTX",
     "time": "tbd"
@@ -1975,7 +1957,7 @@
     "eps": "$1.54",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 5642409500,
+    "marketCap": 5421847000,
     "name": "Balchem Corporation",
     "symbol": "BCPC",
     "time": "tbd"
@@ -1984,7 +1966,7 @@
     "eps": "$0.51",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 5243442200,
+    "marketCap": 5148512800,
     "name": "Rithm Capital Corp.",
     "symbol": "RITM",
     "time": "tbd"
@@ -1993,7 +1975,7 @@
     "eps": "$0.51",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 4352717800,
+    "marketCap": 4348504100,
     "name": "Gentex Corporation",
     "symbol": "GNTX",
     "time": "tbd"
@@ -2002,7 +1984,7 @@
     "eps": "$0.06",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 4308663800,
+    "marketCap": 4242248700,
     "name": "Flagstar Bank, N.A.",
     "symbol": "FLG",
     "time": "tbd"
@@ -2018,6 +2000,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-26T22:48:26+00:00",
+ "updatedAt": "2026-10-27T12:02:29+00:00",
  "week": "2026-10-19"
 }
