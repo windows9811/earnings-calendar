@@ -5228,15 +5228,6 @@
     "time": "amc"
    },
    {
-    "eps": "$0.15",
-    "fq": "Sep/2026",
-    "lastYearEps": "$0.10",
-    "marketCap": 7755828200,
-    "name": "Kratos Defense & Security Solutions, Inc.",
-    "symbol": "KTOS",
-    "time": "amc"
-   },
-   {
     "eps": "$1.96",
     "fq": "Sep/2026",
     "lastYearEps": "$2.04",
@@ -7013,6 +7004,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-28T12:09:53+00:00",
+ "updatedAt": "2026-10-28T22:52:53+00:00",
  "week": "2026-11-02"
 }

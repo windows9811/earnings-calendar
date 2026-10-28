@@ -5,7 +5,7 @@
     "eps": "$3.09",
     "fq": "Oct/2026",
     "lastYearEps": "$1.65",
-    "marketCap": 55506596000,
+    "marketCap": 57219260000,
     "name": "Keysight Technologies Inc.",
     "symbol": "KEYS",
     "time": "tbd"
@@ -14,7 +14,7 @@
     "eps": "$1.72",
     "fq": "Oct/2026",
     "lastYearEps": "$1.59",
-    "marketCap": 49608200000,
+    "marketCap": 50039554000,
     "name": "Agilent Technologies, Inc.",
     "symbol": "A",
     "time": "tbd"
@@ -23,7 +23,7 @@
     "eps": "$1",
     "fq": "Oct/2026",
     "lastYearEps": "$0.89",
-    "marketCap": 28606474200,
+    "marketCap": 28419733500,
     "name": "Zoom Communications, Inc.",
     "symbol": "ZM",
     "time": "tbd"
@@ -32,7 +32,7 @@
     "eps": "$0.08",
     "fq": "Sep/2026",
     "lastYearEps": "($0.03)",
-    "marketCap": 22921984000,
+    "marketCap": 23575171100,
     "name": "Symbotic Inc.",
     "symbol": "SYM",
     "time": "tbd"
@@ -41,7 +41,7 @@
     "eps": "$2.50",
     "fq": "Sep/2026",
     "lastYearEps": "$2.09",
-    "marketCap": 18047944700,
+    "marketCap": 17949929500,
     "name": "Woodward, Inc.",
     "symbol": "WWD",
     "time": "tbd"
@@ -50,7 +50,7 @@
     "eps": "$2.14",
     "fq": "Sep/2026",
     "lastYearEps": "$1.75",
-    "marketCap": 17221060600,
+    "marketCap": 17361508400,
     "name": "Jacobs Solutions Inc.",
     "symbol": "J",
     "time": "amc"
@@ -59,7 +59,7 @@
     "eps": "$0.92",
     "fq": "Oct/2026",
     "lastYearEps": "$0.29",
-    "marketCap": 12760413200,
+    "marketCap": 13471554600,
     "name": "Semtech Corporation",
     "symbol": "SMTC",
     "time": "tbd"
@@ -68,7 +68,7 @@
     "eps": "$0.86",
     "fq": "Sep/2026",
     "lastYearEps": "$0.70",
-    "marketCap": 6724382700,
+    "marketCap": 6770217500,
     "name": "StoneX Group Inc.",
     "symbol": "SNEX",
     "time": "tbd"
@@ -77,7 +77,7 @@
     "eps": "$0.63",
     "fq": "Sep/2026",
     "lastYearEps": "$0.60",
-    "marketCap": 5396256800,
+    "marketCap": 5318014500,
     "name": "Amentum Holdings, Inc.",
     "symbol": "AMTM",
     "time": "amc"
@@ -86,7 +86,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$0.38",
-    "marketCap": 4149296130,
+    "marketCap": 4061690880,
     "name": "BW LPG Limited",
     "symbol": "BWLP",
     "time": "bmo"
@@ -95,7 +95,7 @@
     "eps": "$0.61",
     "fq": "Sep/2026",
     "lastYearEps": "$0.34",
-    "marketCap": 3938824450,
+    "marketCap": 3867780100,
     "name": "Corporacion America Airports SA",
     "symbol": "CAAP",
     "time": "tbd"
@@ -104,7 +104,7 @@
     "eps": "($0.06)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.09)",
-    "marketCap": 2834192900,
+    "marketCap": 2821674240,
     "name": "Central Garden & Pet Company",
     "symbol": "CENT",
     "time": "tbd"
@@ -113,7 +113,7 @@
     "eps": "($0.06)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.09)",
-    "marketCap": 2834192900,
+    "marketCap": 2821674240,
     "name": "Central Garden & Pet Company",
     "symbol": "CENTA",
     "time": "tbd"
@@ -370,6 +370,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-28T12:10:26+00:00",
+ "updatedAt": "2026-10-28T22:53:26+00:00",
  "week": "2026-11-23"
 }
