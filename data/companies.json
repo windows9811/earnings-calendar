@@ -435,6 +435,14 @@
   "logoSource": "wikidata",
   "website": "https://www.aligntech.com"
  },
+ "ALGT": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
+ },
+ "ALH": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-10"
+ },
  "ALK": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-20"
@@ -620,6 +628,10 @@
   "logo": "AMT.svg",
   "logoSource": "wikidata",
   "website": "https://www.americantower.com"
+ },
+ "AMTM": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-23"
  },
  "AMX": {
   "checkedAt": "2026-10-09T08:13:08+00:00",
@@ -879,6 +891,8 @@
  "ASTS": {
   "checkedAt": "2026-10-09T08:21:43+00:00",
   "label": "AST SpaceMobile",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09",
   "logo": "ASTS.svg",
   "logoSource": "parqet",
   "website": "https://www.ast-science.com"
@@ -891,6 +905,10 @@
   "logo": "ASX.png",
   "logoSource": "parqet",
   "website": "https://www.aseglobal.com"
+ },
+ "ATAT": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-10"
  },
  "ATEN": {
   "lastTime": "amc",
@@ -1397,6 +1415,8 @@
  "BIDU": {
   "checkedAt": "2026-10-09T08:22:23+00:00",
   "label": "Baidu",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-16",
   "logo": "BIDU.svg",
   "logoSource": "parqet",
   "website": "https://ir.baidu.com"
@@ -1415,12 +1435,22 @@
   "lastTimeDate": "2026-11-05"
  },
  "BIO": {
+  "checkedAt": "2026-10-28T12:10:58+00:00",
+  "label": "Bio-Rad Laboratories",
   "lastTime": "amc",
-  "lastTimeDate": "2026-11-04"
+  "lastTimeDate": "2026-11-04",
+  "logo": "BIO.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.bio-rad.com"
  },
  "BIO.B": {
+  "checkedAt": "2026-10-28T12:10:58+00:00",
+  "label": "",
   "lastTime": "amc",
-  "lastTimeDate": "2026-11-04"
+  "lastTimeDate": "2026-11-04",
+  "logo": "BIO-B.svg",
+  "logoSource": "wikipedia",
+  "website": ""
  },
  "BIP": {
   "checkedAt": "2026-10-09T08:21:24+00:00",
@@ -1931,6 +1961,10 @@
  "CBU": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-27"
+ },
+ "CC": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-02"
  },
  "CCI": {
   "checkedAt": "2026-10-09T08:13:27+00:00",
@@ -2970,6 +3004,10 @@
   "logoSource": "wikidata",
   "website": "https://www.danaher.com"
  },
+ "DHT": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
+ },
  "DINO": {
   "checkedAt": "2026-10-09T08:15:42+00:00",
   "label": "",
@@ -3043,6 +3081,10 @@
  "DNLI": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-03"
+ },
+ "DNOW": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-05"
  },
  "DOC": {
   "checkedAt": "2026-10-09T08:17:54+00:00",
@@ -3978,6 +4020,10 @@
   "logoSource": "wikidata",
   "website": "https://www.fivebelow.com"
  },
+ "FIVN": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-05"
+ },
  "FIX": {
   "checkedAt": "2026-10-09T08:13:43+00:00",
   "label": "Comfort Systems USA",
@@ -4804,6 +4850,8 @@
  "HL": {
   "checkedAt": "2026-10-09T08:20:27+00:00",
   "label": "Hecla Mining",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03",
   "logo": "HL.svg",
   "logoSource": "parqet",
   "website": "https://www.hecla.com"
@@ -4909,6 +4957,10 @@
  "HR": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-29"
+ },
+ "HRB": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
  },
  "HRI": {
   "lastTime": "bmo",
@@ -5318,6 +5370,10 @@
   "logo": "IOT.svg",
   "logoSource": "wikipedia",
   "website": "https://www.samsara.com"
+ },
+ "IOVA": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-05"
  },
  "IP": {
   "checkedAt": "2026-10-09T08:15:43+00:00",
@@ -5735,8 +5791,13 @@
   "website": "https://www.coca-colacompany.com"
  },
  "KOF": {
+  "checkedAt": "2026-10-28T12:10:58+00:00",
+  "label": "Coca-Cola FEMSA",
   "lastTime": "bmo",
-  "lastTimeDate": "2026-10-27"
+  "lastTimeDate": "2026-10-27",
+  "logo": "KOF.png",
+  "logoSource": "wikidata",
+  "website": "https://www.coca-colafemsa.com"
  },
  "KR": {
   "checkedAt": "2026-10-17T22:41:07+00:00",
@@ -5882,6 +5943,10 @@
   "logo": "LECO.png",
   "logoSource": "parqet",
   "website": "https://www.lincolnelectric.com"
+ },
+ "LEGN": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-10"
  },
  "LEU": {
   "lastTime": "amc",
@@ -6661,6 +6726,10 @@
   "logoSource": "fmp",
   "website": "https://www.corporate.marsh.com"
  },
+ "MRVI": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
+ },
  "MRVL": {
   "checkedAt": "2026-10-17T22:41:00+00:00",
   "label": "Marvell Technology",
@@ -6946,6 +7015,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-08"
  },
+ "NGL": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-05"
+ },
  "NGVT": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
@@ -7058,6 +7131,8 @@
  "NRG": {
   "checkedAt": "2026-10-09T08:20:57+00:00",
   "label": "NRG Energy",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-09",
   "logo": "NRG.svg",
   "logoSource": "parqet",
   "website": "https://www.nrg.com"
@@ -7421,6 +7496,10 @@
   "logo": "ONTO.png",
   "logoSource": "parqet",
   "website": "https://www.ontoinnovation.com"
+ },
+ "OPCH": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04"
  },
  "OPEN": {
   "lastTime": "amc",
@@ -8169,6 +8248,10 @@
   "logoSource": "wikidata",
   "website": "https://www.qnityelectronics.com"
  },
+ "QBTS": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-10"
+ },
  "QCOM": {
   "checkedAt": "2026-10-09T08:19:02+00:00",
   "label": "Qualcomm",
@@ -8491,6 +8574,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-27"
  },
+ "RNW": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-02"
+ },
  "ROG": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-27"
@@ -8786,6 +8873,8 @@
  "SE": {
   "checkedAt": "2026-10-09T08:21:50+00:00",
   "label": "Sea Ltd",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-10",
   "logo": "SE.svg",
   "logoSource": "parqet",
   "website": "https://www.sea.com"
@@ -9476,6 +9565,13 @@
   "logoSource": "wikidata",
   "website": "https://www.symbotic.com"
  },
+ "SYRE": {
+  "checkedAt": "2026-10-28T12:10:58+00:00",
+  "label": "",
+  "logo": "SYRE.png",
+  "logoSource": "parqet",
+  "website": "https://www.spyre.com"
+ },
  "SYY": {
   "checkedAt": "2026-10-09T08:14:48+00:00",
   "label": "Sysco",
@@ -10009,6 +10105,10 @@
   "logo": "TU.svg",
   "logoSource": "parqet",
   "website": "https://www.telus.com"
+ },
+ "TVTX": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-02"
  },
  "TW": {
   "checkedAt": "2026-10-09T08:16:52+00:00",
@@ -11114,6 +11214,10 @@
  "ZD": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-05"
+ },
+ "ZETA": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
  },
  "ZG": {
   "lastTime": "amc",

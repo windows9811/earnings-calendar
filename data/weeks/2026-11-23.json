@@ -80,7 +80,7 @@
     "marketCap": 5396256800,
     "name": "Amentum Holdings, Inc.",
     "symbol": "AMTM",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "",
@@ -124,7 +124,7 @@
     "eps": "$6.41",
     "fq": "Oct/2026",
     "lastYearEps": "$2.35",
-    "marketCap": 296981791000,
+    "marketCap": 319152554000,
     "name": "Dell Technologies Inc.",
     "symbol": "DELL",
     "time": "tbd"
@@ -133,7 +133,7 @@
     "eps": "$1.31",
     "fq": "Sep/2026",
     "lastYearEps": "$0.44",
-    "marketCap": 242854216000,
+    "marketCap": 242830000000,
     "name": "Alibaba Group Holding Limited",
     "symbol": "BABA",
     "time": "tbd"
@@ -142,7 +142,7 @@
     "eps": "$3.89",
     "fq": "Oct/2026",
     "lastYearEps": "$2.26",
-    "marketCap": 197668782000,
+    "marketCap": 206109917000,
     "name": "Analog Devices, Inc.",
     "symbol": "ADI",
     "time": "bmo"
@@ -151,7 +151,7 @@
     "eps": "$2.27",
     "fq": "Oct/2026",
     "lastYearEps": "$1.80",
-    "marketCap": 52135051000,
+    "marketCap": 50598900000,
     "name": "Autodesk, Inc.",
     "symbol": "ADSK",
     "time": "tbd"
@@ -160,7 +160,7 @@
     "eps": "$1.28",
     "fq": "Oct/2026",
     "lastYearEps": "$1.09",
-    "marketCap": 50248499000,
+    "marketCap": 49515860000,
     "name": "Workday, Inc.",
     "symbol": "WDAY",
     "time": "tbd"
@@ -169,7 +169,7 @@
     "eps": "$0.12",
     "fq": "Oct/2026",
     "lastYearEps": "($0.01)",
-    "marketCap": 42467594000,
+    "marketCap": 42418680000,
     "name": "Zscaler, Inc.",
     "symbol": "ZS",
     "time": "tbd"
@@ -178,7 +178,7 @@
     "eps": "$0.75",
     "fq": "Oct/2026",
     "lastYearEps": "$0.93",
-    "marketCap": 30742054900,
+    "marketCap": 30282141700,
     "name": "HP Inc.",
     "symbol": "HPQ",
     "time": "tbd"
@@ -187,7 +187,7 @@
     "eps": "$1.48",
     "fq": "Oct/2026",
     "lastYearEps": "$1.40",
-    "marketCap": 20542828500,
+    "marketCap": 20658178000,
     "name": "Best Buy Co., Inc.",
     "symbol": "BBY",
     "time": "bmo"
@@ -196,7 +196,7 @@
     "eps": "$0.29",
     "fq": "Oct/2026",
     "lastYearEps": "$0.23",
-    "marketCap": 19830364200,
+    "marketCap": 19838545900,
     "name": "Nutanix, Inc.",
     "symbol": "NTNX",
     "time": "tbd"
@@ -205,7 +205,7 @@
     "eps": "$1.71",
     "fq": "Oct/2026",
     "lastYearEps": "$1.80",
-    "marketCap": 15154793500,
+    "marketCap": 14770993200,
     "name": "Burlington Stores, Inc.",
     "symbol": "BURL",
     "time": "tbd"
@@ -214,7 +214,7 @@
     "eps": "$2.50",
     "fq": "Oct/2026",
     "lastYearEps": "$2.10",
-    "marketCap": 13741733900,
+    "marketCap": 13610341400,
     "name": "The J.M. Smucker Company",
     "symbol": "SJM",
     "time": "tbd"
@@ -223,7 +223,7 @@
     "eps": "$1.39",
     "fq": "Oct/2026",
     "lastYearEps": "$2.07",
-    "marketCap": 12848108500,
+    "marketCap": 12583107600,
     "name": "Dick's Sporting Goods Inc",
     "symbol": "DKS",
     "time": "tbd"
@@ -232,7 +232,7 @@
     "eps": "($1.59)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.18)",
-    "marketCap": 8331188200,
+    "marketCap": 8338251300,
     "name": "Arrowhead Pharmaceuticals, Inc.",
     "symbol": "ARWR",
     "time": "tbd"
@@ -241,7 +241,7 @@
     "eps": "($0.03)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.21)",
-    "marketCap": 8168474600,
+    "marketCap": 8243644400,
     "name": "NIO Inc.",
     "symbol": "NIO",
     "time": "tbd"
@@ -250,7 +250,7 @@
     "eps": "$1.54",
     "fq": "Oct/2026",
     "lastYearEps": "$1.28",
-    "marketCap": 7759956000,
+    "marketCap": 7771948000,
     "name": "Urban Outfitters, Inc.",
     "symbol": "URBN",
     "time": "tbd"
@@ -259,7 +259,7 @@
     "eps": "$3.01",
     "fq": "Oct/2026",
     "lastYearEps": "$2.36",
-    "marketCap": 6990215200,
+    "marketCap": 7017797100,
     "name": "Abercrombie & Fitch Company",
     "symbol": "ANF",
     "time": "tbd"
@@ -268,25 +268,16 @@
     "eps": "$1.17",
     "fq": "Sep/2026",
     "lastYearEps": "$0.08",
-    "marketCap": 5678107100,
+    "marketCap": 5644375600,
     "name": "Grupo Financiero Galicia S.A.",
     "symbol": "GGAL",
-    "time": "tbd"
-   },
-   {
-    "eps": "$0.54",
-    "fq": "Sep/2026",
-    "lastYearEps": "$0.48",
-    "marketCap": 4441810400,
-    "name": "Atour Lifestyle Holdings Limited",
-    "symbol": "ATAT",
     "time": "tbd"
    },
    {
     "eps": "($0.17)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.33)",
-    "marketCap": 2949499650,
+    "marketCap": 2962742020,
     "name": "Ambarella, Inc.",
     "symbol": "AMBA",
     "time": "tbd"
@@ -295,7 +286,7 @@
     "eps": "($0.01)",
     "fq": "Oct/2026",
     "lastYearEps": "$0.10",
-    "marketCap": 2681352960,
+    "marketCap": 2696091900,
     "name": "Kohl's Corporation",
     "symbol": "KSS",
     "time": "tbd"
@@ -304,9 +295,18 @@
     "eps": "$0.41",
     "fq": "Sep/2026",
     "lastYearEps": "$0.13",
-    "marketCap": 2475348740,
+    "marketCap": 2491687680,
     "name": "Banco BBVA Argentina S.A.",
     "symbol": "BBAR",
+    "time": "tbd"
+   },
+   {
+    "eps": "($0.36)",
+    "fq": "Sep/2026",
+    "lastYearEps": "($0.01)",
+    "marketCap": 2103331840,
+    "name": "CleanSpark, Inc.",
+    "symbol": "CLSK",
     "time": "tbd"
    }
   ],
@@ -315,7 +315,7 @@
     "eps": "$4.07",
     "fq": "Oct/2026",
     "lastYearEps": "$3.93",
-    "marketCap": 172897288000,
+    "marketCap": 172447023000,
     "name": "Deere & Company",
     "symbol": "DE",
     "time": "bmo"
@@ -324,7 +324,7 @@
     "eps": "($0.08)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.09)",
-    "marketCap": 11092065300,
+    "marketCap": 11004110800,
     "name": "Li Auto Inc.",
     "symbol": "LI",
     "time": "tbd"
@@ -333,7 +333,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$0.07",
-    "marketCap": 5327517200,
+    "marketCap": 5283991600,
     "name": "CMB.TECH NV",
     "symbol": "CMBT",
     "time": "tbd"
@@ -342,9 +342,18 @@
     "eps": "$1.94",
     "fq": "Sep/2026",
     "lastYearEps": "($0.39)",
-    "marketCap": 3956547070,
+    "marketCap": 3947595780,
     "name": "Macro Bank Inc.",
     "symbol": "BMA",
+    "time": "tbd"
+   },
+   {
+    "eps": "($0.13)",
+    "fq": "Sep/2026",
+    "lastYearEps": "N/A",
+    "marketCap": 2027332220,
+    "name": "Standard Nuclear, Inc.",
+    "symbol": "STDN",
     "time": "tbd"
    }
   ],
@@ -354,13 +363,13 @@
     "eps": "$0.34",
     "fq": "Sep/2026",
     "lastYearEps": "$0.29",
-    "marketCap": 2367372800,
+    "marketCap": 2336850690,
     "name": "Chagee Holdings Limited",
     "symbol": "CHA",
     "time": "tbd"
    }
   ]
  },
- "updatedAt": "2026-10-27T22:49:04+00:00",
+ "updatedAt": "2026-10-28T12:10:26+00:00",
  "week": "2026-11-23"
 }
