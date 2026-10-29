@@ -144,7 +144,7 @@
     "eps": "$1.57",
     "fq": "Nov/2026",
     "lastYearEps": "$1.95",
-    "marketCap": 394688266000,
+    "marketCap": 437050802000,
     "name": "Oracle Corporation",
     "symbol": "ORCL",
     "time": "tbd"
@@ -153,7 +153,7 @@
     "eps": "$5.11",
     "fq": "Nov/2026",
     "lastYearEps": "$4.55",
-    "marketCap": 96661709000,
+    "marketCap": 97206591000,
     "name": "Adobe Inc.",
     "symbol": "ADBE",
     "time": "tbd"
@@ -162,7 +162,7 @@
     "eps": "$3.09",
     "fq": "Oct/2026",
     "lastYearEps": "$1.90",
-    "marketCap": 90916258000,
+    "marketCap": 92347785000,
     "name": "Synopsys, Inc.",
     "symbol": "SNPS",
     "time": "tbd"
@@ -171,7 +171,7 @@
     "eps": "$3.46",
     "fq": "Oct/2026",
     "lastYearEps": "$3.03",
-    "marketCap": 18063304700,
+    "marketCap": 18159108100,
     "name": "Nordson Corporation",
     "symbol": "NDSN",
     "time": "tbd"
@@ -180,7 +180,7 @@
     "eps": "$0.20",
     "fq": "Oct/2026",
     "lastYearEps": "$0.14",
-    "marketCap": 8649474000,
+    "marketCap": 8295778300,
     "name": "Chewy, Inc.",
     "symbol": "CHWY",
     "time": "tbd"
@@ -189,7 +189,7 @@
     "eps": "($5.42)",
     "fq": "Oct/2026",
     "lastYearEps": "($5.20)",
-    "marketCap": 5397322200,
+    "marketCap": 5414783500,
     "name": "Vail Resorts, Inc.",
     "symbol": "MTN",
     "time": "tbd"
@@ -198,7 +198,7 @@
     "eps": "($0.08)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.19)",
-    "marketCap": 5272157200,
+    "marketCap": 5213941800,
     "name": "Planet Labs PBC",
     "symbol": "PL",
     "time": "tbd"
@@ -207,7 +207,7 @@
     "eps": "($0.06)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.02)",
-    "marketCap": 3984500740,
+    "marketCap": 4133176060,
     "name": "Uranium Energy Corp.",
     "symbol": "UEC",
     "time": "tbd"
@@ -280,6 +280,6 @@
   ],
   "2026-12-11": []
  },
- "updatedAt": "2026-10-29T12:11:15+00:00",
+ "updatedAt": "2026-10-29T22:55:00+00:00",
  "week": "2026-12-07"
 }

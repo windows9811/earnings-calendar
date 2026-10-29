@@ -1875,8 +1875,13 @@
   "website": "https://www.cardinalhealth.com"
  },
  "CAI": {
+  "checkedAt": "2026-10-29T22:55:03+00:00",
+  "label": "Caris Life Sciences (United States)",
   "lastTime": "amc",
-  "lastTimeDate": "2026-11-04"
+  "lastTimeDate": "2026-11-04",
+  "logo": "CAI.png",
+  "logoSource": "parqet",
+  "website": "https://www.carislifesciences.com"
  },
  "CAKE": {
   "lastTime": "amc",
@@ -3692,6 +3697,10 @@
   "logo": "ESS.png",
   "logoSource": "parqet",
   "website": "https://www.essexapartmenthomes.com"
+ },
+ "ESTA": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-10-29"
  },
  "ESTC": {
   "checkedAt": "2026-10-09T12:42:23+00:00",
@@ -5909,8 +5918,13 @@
   "lastTimeDate": "2026-11-06"
  },
  "KYMR": {
+  "checkedAt": "2026-10-29T22:55:03+00:00",
+  "label": "Kymera Therapeutics",
   "lastTime": "bmo",
-  "lastTimeDate": "2026-10-29"
+  "lastTimeDate": "2026-10-29",
+  "logo": "KYMR.png",
+  "logoSource": "parqet",
+  "website": "https://www.kymeratx.com"
  },
  "L": {
   "checkedAt": "2026-10-09T08:17:42+00:00",
@@ -8114,8 +8128,13 @@
   "website": "https://www.pnfp.com"
  },
  "PNR": {
+  "checkedAt": "2026-10-29T22:55:05+00:00",
+  "label": "Pentair",
   "lastTime": "bmo",
-  "lastTimeDate": "2026-10-27"
+  "lastTimeDate": "2026-10-27",
+  "logo": "PNR.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.pentair.com"
  },
  "PNW": {
   "checkedAt": "2026-10-09T08:18:48+00:00",
@@ -8540,8 +8559,13 @@
   "website": "https://www.rgare.com"
  },
  "RGEN": {
+  "checkedAt": "2026-10-29T22:55:04+00:00",
+  "label": "Repligen",
   "lastTime": "bmo",
-  "lastTimeDate": "2026-10-27"
+  "lastTimeDate": "2026-10-27",
+  "logo": "RGEN.svg",
+  "logoSource": "wikipedia",
+  "website": "https://www.repligen.com"
  },
  "RGLD": {
   "checkedAt": "2026-10-09T08:19:45+00:00",
@@ -8957,6 +8981,10 @@
   "logo": "SCI.svg",
   "logoSource": "parqet",
   "website": "https://www.sci-corp.com"
+ },
+ "SDGR": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
  },
  "SDRL": {
   "lastTime": "amc",
@@ -10653,6 +10681,10 @@
   "logoSource": "parqet",
   "website": "https://www.viking.com"
  },
+ "VIR": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
+ },
  "VIRT": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-05"
@@ -10791,6 +10823,13 @@
   "logo": "VRTX.png",
   "logoSource": "wikidata",
   "website": "https://www.vrtx.com"
+ },
+ "VSAT": {
+  "checkedAt": "2026-10-29T22:55:03+00:00",
+  "label": "Viasat",
+  "logo": "VSAT.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.viasat.com"
  },
  "VSEC": {
   "lastTime": "amc",

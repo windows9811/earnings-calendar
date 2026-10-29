@@ -315,7 +315,7 @@
     "eps": "$4.07",
     "fq": "Oct/2026",
     "lastYearEps": "$3.93",
-    "marketCap": 172447023000,
+    "marketCap": 172740919000,
     "name": "Deere & Company",
     "symbol": "DE",
     "time": "bmo"
@@ -324,7 +324,7 @@
     "eps": "($0.08)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.09)",
-    "marketCap": 11004110800,
+    "marketCap": 11131156500,
     "name": "Li Auto Inc.",
     "symbol": "LI",
     "time": "tbd"
@@ -333,7 +333,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$0.07",
-    "marketCap": 5283991600,
+    "marketCap": 5362337300,
     "name": "CMB.TECH NV",
     "symbol": "CMBT",
     "time": "tbd"
@@ -342,18 +342,9 @@
     "eps": "$1.94",
     "fq": "Sep/2026",
     "lastYearEps": "($0.39)",
-    "marketCap": 3947595780,
+    "marketCap": 3849768960,
     "name": "Macro Bank Inc.",
     "symbol": "BMA",
-    "time": "tbd"
-   },
-   {
-    "eps": "($0.13)",
-    "fq": "Sep/2026",
-    "lastYearEps": "N/A",
-    "marketCap": 2027332220,
-    "name": "Standard Nuclear, Inc.",
-    "symbol": "STDN",
     "time": "tbd"
    }
   ],
@@ -370,6 +361,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-29T12:10:49+00:00",
+ "updatedAt": "2026-10-29T22:54:35+00:00",
  "week": "2026-11-23"
 }
