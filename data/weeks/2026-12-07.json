@@ -43,7 +43,7 @@
     "eps": "$36.06",
     "fq": "Nov/2026",
     "lastYearEps": "$31.04",
-    "marketCap": 50805973000,
+    "marketCap": 50488590000,
     "name": "AutoZone, Inc.",
     "symbol": "AZO",
     "time": "tbd"
@@ -52,7 +52,7 @@
     "eps": "$6.01",
     "fq": "Oct/2026",
     "lastYearEps": "$5.53",
-    "marketCap": 24764051500,
+    "marketCap": 25049382900,
     "name": "Caseys General Stores, Inc.",
     "symbol": "CASY",
     "time": "tbd"
@@ -61,7 +61,7 @@
     "eps": "$0.08",
     "fq": "Oct/2026",
     "lastYearEps": "$0.08",
-    "marketCap": 12719910900,
+    "marketCap": 12560056300,
     "name": "SailPoint, Inc.",
     "symbol": "SAIL",
     "time": "tbd"
@@ -70,7 +70,7 @@
     "eps": "$0.20",
     "fq": "Oct/2026",
     "lastYearEps": "$0.24",
-    "marketCap": 11770008600,
+    "marketCap": 12108023800,
     "name": "GameStop Corporation",
     "symbol": "GME",
     "time": "tbd"
@@ -79,7 +79,7 @@
     "eps": "$0.89",
     "fq": "Oct/2026",
     "lastYearEps": "$0.72",
-    "marketCap": 8014084600,
+    "marketCap": 8408407600,
     "name": "Core & Main, Inc.",
     "symbol": "CNM",
     "time": "tbd"
@@ -88,7 +88,7 @@
     "eps": "$0.46",
     "fq": "Oct/2026",
     "lastYearEps": "$0.44",
-    "marketCap": 6400867300,
+    "marketCap": 6854696400,
     "name": "AeroVironment, Inc.",
     "symbol": "AVAV",
     "time": "tbd"
@@ -97,34 +97,34 @@
     "eps": "$0.44",
     "fq": "Oct/2026",
     "lastYearEps": "$0.77",
-    "marketCap": 6140652500,
+    "marketCap": 6262928400,
     "name": "The Campbell's Company",
     "symbol": "CPB",
-    "time": "tbd"
-   },
-   {
-    "eps": "($0.22)",
-    "fq": "Oct/2026",
-    "lastYearEps": "($0.29)",
-    "marketCap": 5199895000,
-    "name": "Braze, Inc.",
-    "symbol": "BRZE",
     "time": "tbd"
    },
    {
     "eps": "$0.76",
     "fq": "Oct/2026",
     "lastYearEps": "$0.75",
-    "marketCap": 5122863100,
+    "marketCap": 5489970200,
     "name": "Ollie's Bargain Outlet Holdings, Inc.",
     "symbol": "OLLI",
+    "time": "tbd"
+   },
+   {
+    "eps": "($0.22)",
+    "fq": "Oct/2026",
+    "lastYearEps": "($0.29)",
+    "marketCap": 5202166800,
+    "name": "Braze, Inc.",
+    "symbol": "BRZE",
     "time": "tbd"
    },
    {
     "eps": "$1.36",
     "fq": "Oct/2026",
     "lastYearEps": "$1.33",
-    "marketCap": 4101734400,
+    "marketCap": 4142107900,
     "name": "Korn Ferry",
     "symbol": "KFY",
     "time": "tbd"
@@ -133,7 +133,7 @@
     "eps": "$1.21",
     "fq": "Oct/2026",
     "lastYearEps": "$1.03",
-    "marketCap": 3610986240,
+    "marketCap": 3716285950,
     "name": "Academy Sports and Outdoors, Inc.",
     "symbol": "ASO",
     "time": "tbd"
@@ -144,7 +144,7 @@
     "eps": "$1.57",
     "fq": "Nov/2026",
     "lastYearEps": "$1.95",
-    "marketCap": 437050802000,
+    "marketCap": 421992595000,
     "name": "Oracle Corporation",
     "symbol": "ORCL",
     "time": "tbd"
@@ -153,7 +153,7 @@
     "eps": "$5.11",
     "fq": "Nov/2026",
     "lastYearEps": "$4.55",
-    "marketCap": 97206591000,
+    "marketCap": 96568304000,
     "name": "Adobe Inc.",
     "symbol": "ADBE",
     "time": "tbd"
@@ -162,7 +162,7 @@
     "eps": "$3.09",
     "fq": "Oct/2026",
     "lastYearEps": "$1.90",
-    "marketCap": 92347785000,
+    "marketCap": 93938369000,
     "name": "Synopsys, Inc.",
     "symbol": "SNPS",
     "time": "tbd"
@@ -171,7 +171,7 @@
     "eps": "$3.46",
     "fq": "Oct/2026",
     "lastYearEps": "$3.03",
-    "marketCap": 18159108100,
+    "marketCap": 18330660900,
     "name": "Nordson Corporation",
     "symbol": "NDSN",
     "time": "tbd"
@@ -180,7 +180,7 @@
     "eps": "$0.20",
     "fq": "Oct/2026",
     "lastYearEps": "$0.14",
-    "marketCap": 8295778300,
+    "marketCap": 8372144600,
     "name": "Chewy, Inc.",
     "symbol": "CHWY",
     "time": "tbd"
@@ -189,7 +189,7 @@
     "eps": "($5.42)",
     "fq": "Oct/2026",
     "lastYearEps": "($5.20)",
-    "marketCap": 5414783500,
+    "marketCap": 5506722800,
     "name": "Vail Resorts, Inc.",
     "symbol": "MTN",
     "time": "tbd"
@@ -198,16 +198,16 @@
     "eps": "($0.08)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.19)",
-    "marketCap": 5213941800,
+    "marketCap": 5206664700,
     "name": "Planet Labs PBC",
     "symbol": "PL",
     "time": "tbd"
    },
    {
-    "eps": "($0.06)",
+    "eps": "($0.09)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.02)",
-    "marketCap": 4133176060,
+    "marketCap": 4039014910,
     "name": "Uranium Energy Corp.",
     "symbol": "UEC",
     "time": "tbd"
@@ -218,7 +218,7 @@
     "eps": "$3.45",
     "fq": "Oct/2026",
     "lastYearEps": "$1.61",
-    "marketCap": 1679410720000,
+    "marketCap": 1646902250000,
     "name": "Broadcom Inc.",
     "symbol": "AVGO",
     "time": "tbd"
@@ -227,7 +227,7 @@
     "eps": "$4.87",
     "fq": "Nov/2026",
     "lastYearEps": "$4.34",
-    "marketCap": 435476496000,
+    "marketCap": 441392267000,
     "name": "Costco Wholesale Corporation",
     "symbol": "COST",
     "time": "tbd"
@@ -236,7 +236,7 @@
     "eps": "$1.77",
     "fq": "Oct/2026",
     "lastYearEps": "$0.64",
-    "marketCap": 51506274000,
+    "marketCap": 49554989000,
     "name": "Ciena Corporation",
     "symbol": "CIEN",
     "time": "tbd"
@@ -245,7 +245,7 @@
     "eps": "$0.97",
     "fq": "Oct/2026",
     "lastYearEps": "$2.59",
-    "marketCap": 11110607900,
+    "marketCap": 11596340200,
     "name": "lululemon athletica inc.",
     "symbol": "LULU",
     "time": "tbd"
@@ -254,7 +254,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "($0.02)",
-    "marketCap": 3582646270,
+    "marketCap": 3618869500,
     "name": "Manchester United Ltd.",
     "symbol": "MANU",
     "time": "tbd"
@@ -263,7 +263,7 @@
     "eps": "",
     "fq": "Oct/2026",
     "lastYearEps": "$0.49",
-    "marketCap": 3208196350,
+    "marketCap": 3278407940,
     "name": "National Beverage Corp.",
     "symbol": "FIZZ",
     "time": "tbd"
@@ -272,7 +272,7 @@
     "eps": "$0.67",
     "fq": "Oct/2026",
     "lastYearEps": "$1.71",
-    "marketCap": 2746444030,
+    "marketCap": 2854930940,
     "name": "RH",
     "symbol": "RH",
     "time": "tbd"
@@ -280,6 +280,6 @@
   ],
   "2026-12-11": []
  },
- "updatedAt": "2026-10-29T22:55:00+00:00",
+ "updatedAt": "2026-10-30T12:09:37+00:00",
  "week": "2026-12-07"
 }
