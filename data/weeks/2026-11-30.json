@@ -6,7 +6,7 @@
     "eps": "$0",
     "fq": "Oct/2026",
     "lastYearEps": "N/A",
-    "marketCap": 273042473000,
+    "marketCap": 267400577000,
     "name": "CrowdStrike Holdings, Inc.",
     "symbol": "CRWD",
     "time": "tbd"
@@ -15,7 +15,7 @@
     "eps": "$0.79",
     "fq": "Oct/2026",
     "lastYearEps": "$0.62",
-    "marketCap": 220671885000,
+    "marketCap": 191462343000,
     "name": "Marvell Technology, Inc.",
     "symbol": "MRVL",
     "time": "tbd"
@@ -24,7 +24,7 @@
     "eps": "$1.59",
     "fq": "Oct/2026",
     "lastYearEps": "$1.39",
-    "marketCap": 115485655000,
+    "marketCap": 117038612000,
     "name": "Bank of Nova Scotia (The)",
     "symbol": "BNS",
     "time": "tbd"
@@ -33,7 +33,7 @@
     "eps": "$2.13",
     "fq": "Oct/2026",
     "lastYearEps": "$1.63",
-    "marketCap": 43931075000,
+    "marketCap": 42901840000,
     "name": "NetApp, Inc.",
     "symbol": "NTAP",
     "time": "amc"
@@ -42,7 +42,7 @@
     "eps": "$0.43",
     "fq": "Oct/2026",
     "lastYearEps": "$0.31",
-    "marketCap": 38925627000,
+    "marketCap": 38785769000,
     "name": "Okta, Inc.",
     "symbol": "OKTA",
     "time": "tbd"
@@ -51,7 +51,7 @@
     "eps": "($0.09)",
     "fq": "Oct/2026",
     "lastYearEps": "N/A",
-    "marketCap": 9657801700,
+    "marketCap": 9437889500,
     "name": "GitLab Inc.",
     "symbol": "GTLB",
     "time": "tbd"
@@ -60,7 +60,7 @@
     "eps": "$0.09",
     "fq": "Oct/2026",
     "lastYearEps": "$0.02",
-    "marketCap": 5872193000,
+    "marketCap": 5946281500,
     "name": "Box, Inc.",
     "symbol": "BOX",
     "time": "tbd"
@@ -69,7 +69,7 @@
     "eps": "$0.87",
     "fq": "Oct/2026",
     "lastYearEps": "$0.63",
-    "marketCap": 4414912500,
+    "marketCap": 4556686300,
     "name": "Signet Jewelers Limited",
     "symbol": "SIG",
     "time": "tbd"
@@ -78,7 +78,7 @@
     "eps": "$0.49",
     "fq": "Oct/2026",
     "lastYearEps": "$0.53",
-    "marketCap": 3260977150,
+    "marketCap": 3371575550,
     "name": "American Eagle Outfitters, Inc.",
     "symbol": "AEO",
     "time": "tbd"
@@ -87,7 +87,7 @@
     "eps": "$0.67",
     "fq": "Oct/2026",
     "lastYearEps": "$0.56",
-    "marketCap": 2874281730,
+    "marketCap": 2780804350,
     "name": "United Natural Foods, Inc.",
     "symbol": "UNFI",
     "time": "tbd"
@@ -96,7 +96,7 @@
     "eps": "($0.17)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.16)",
-    "marketCap": 2690398980,
+    "marketCap": 2578203390,
     "name": "Asana, Inc.",
     "symbol": "ASAN",
     "time": "tbd"
@@ -451,6 +451,6 @@
    }
   ]
  },
- "updatedAt": "2026-10-30T12:09:22+00:00",
+ "updatedAt": "2026-10-30T22:51:28+00:00",
  "week": "2026-11-30"
 }

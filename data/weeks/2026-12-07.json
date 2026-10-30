@@ -5,7 +5,7 @@
     "eps": "$1.03",
     "fq": "Oct/2026",
     "lastYearEps": "$0.44",
-    "marketCap": 32645367800,
+    "marketCap": 31066572800,
     "name": "Credo Technology Group Holding Ltd",
     "symbol": "CRDO",
     "time": "tbd"
@@ -14,7 +14,7 @@
     "eps": "$0.08",
     "fq": "Oct/2026",
     "lastYearEps": "($0.08)",
-    "marketCap": 31694086100,
+    "marketCap": 31010162700,
     "name": "MongoDB, Inc.",
     "symbol": "MDB",
     "time": "tbd"
@@ -23,7 +23,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$0.18",
-    "marketCap": 5802989600,
+    "marketCap": 5920762400,
     "name": "Hafnia Limited",
     "symbol": "HAFN",
     "time": "tbd"
@@ -32,7 +32,7 @@
     "eps": "$0.17",
     "fq": "Sep/2026",
     "lastYearEps": "$0.03",
-    "marketCap": 2015441660,
+    "marketCap": 2010155140,
     "name": "Vestis Corporation",
     "symbol": "VSTS",
     "time": "tbd"
@@ -280,6 +280,6 @@
   ],
   "2026-12-11": []
  },
- "updatedAt": "2026-10-30T12:09:37+00:00",
+ "updatedAt": "2026-10-30T22:51:42+00:00",
  "week": "2026-12-07"
 }

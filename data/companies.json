@@ -3215,8 +3215,13 @@
   "lastTimeDate": "2026-11-03"
  },
  "DRS": {
+  "checkedAt": "2026-10-30T22:51:48+00:00",
+  "label": "Leonardo DRS",
   "lastTime": "bmo",
-  "lastTimeDate": "2026-10-29"
+  "lastTimeDate": "2026-10-29",
+  "logo": "DRS.png",
+  "logoSource": "wikidata",
+  "website": "https://www.leonardodrs.com"
  },
  "DT": {
   "checkedAt": "2026-10-09T08:19:50+00:00",
@@ -4123,8 +4128,13 @@
   "lastTimeDate": "2026-11-06"
  },
  "FLS": {
+  "checkedAt": "2026-10-30T22:51:46+00:00",
+  "label": "Flowserve",
   "lastTime": "amc",
-  "lastTimeDate": "2026-10-28"
+  "lastTimeDate": "2026-10-28",
+  "logo": "FLS.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.flowserve.com"
  },
  "FLUT": {
   "checkedAt": "2026-10-09T08:22:08+00:00",
@@ -6272,8 +6282,13 @@
   "lastTimeDate": "2026-11-03"
  },
  "LTH": {
+  "checkedAt": "2026-10-30T22:51:47+00:00",
+  "label": "",
   "lastTime": "bmo",
-  "lastTimeDate": "2026-10-29"
+  "lastTimeDate": "2026-10-29",
+  "logo": "LTH.png",
+  "logoSource": "wikipedia",
+  "website": "https://www.lifetime.life"
  },
  "LTM": {
   "checkedAt": "2026-10-09T08:22:20+00:00",
@@ -11121,6 +11136,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-20"
  },
+ "WGS": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
+ },
  "WH": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-21"
@@ -11182,8 +11201,13 @@
   "website": "https://www.wmg.com"
  },
  "WMS": {
+  "checkedAt": "2026-10-30T22:51:47+00:00",
+  "label": "Advanced Drainage Systems",
   "lastTime": "bmo",
-  "lastTimeDate": "2026-11-05"
+  "lastTimeDate": "2026-11-05",
+  "logo": "WMS.svg",
+  "logoSource": "wikipedia",
+  "website": "https://www.adspipe.com"
  },
  "WMT": {
   "checkedAt": "2026-10-09T08:22:31+00:00",
