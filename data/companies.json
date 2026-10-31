@@ -2771,6 +2771,13 @@
   "logoSource": "parqet",
   "website": "https://www.csx.com"
  },
+ "CTAS": {
+  "checkedAt": "2026-10-31T22:48:19+00:00",
+  "label": "Cintas",
+  "logo": "CTAS.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.cintas.com"
+ },
  "CTOS": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-26"
@@ -3213,6 +3220,13 @@
  "DRH": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-03"
+ },
+ "DRI": {
+  "checkedAt": "2026-10-31T22:48:23+00:00",
+  "label": "Darden Restaurants",
+  "logo": "DRI.svg",
+  "logoSource": "wikipedia",
+  "website": "https://www.darden.com"
  },
  "DRS": {
   "checkedAt": "2026-10-30T22:51:48+00:00",
@@ -4551,6 +4565,13 @@
   "logoSource": "wikipedia",
   "website": "https://www.gilead.com"
  },
+ "GIS": {
+  "checkedAt": "2026-10-31T22:48:19+00:00",
+  "label": "General Mills",
+  "logo": "GIS.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.generalmills.com"
+ },
  "GKOS": {
   "checkedAt": "2026-10-09T08:15:54+00:00",
   "label": "",
@@ -4886,6 +4907,20 @@
   "logo": "HDB.svg",
   "logoSource": "wikidata",
   "website": "https://www.hdfcbank.com"
+ },
+ "HEI": {
+  "checkedAt": "2026-10-31T22:48:21+00:00",
+  "label": "HEICO",
+  "logo": "HEI.svg",
+  "logoSource": "wikipedia",
+  "website": "https://www.heico.com"
+ },
+ "HEI.A": {
+  "checkedAt": "2026-10-31T22:48:23+00:00",
+  "label": "",
+  "logo": "HEI-A.svg",
+  "logoSource": "wikipedia",
+  "website": ""
  },
  "HESM": {
   "lastTime": "bmo",
@@ -5761,6 +5796,13 @@
   "logoSource": "wikidata",
   "website": "https://www.keurigdrpepper.com"
  },
+ "KEP": {
+  "checkedAt": "2026-10-31T22:48:23+00:00",
+  "label": "Korea Electric Power Corporation",
+  "logo": "KEP.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.kepco.co.kr"
+ },
  "KEX": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-28"
@@ -6062,6 +6104,20 @@
  "LEGN": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-10"
+ },
+ "LEN": {
+  "checkedAt": "2026-10-31T22:48:20+00:00",
+  "label": "Lennar Corporation",
+  "logo": "LEN.png",
+  "logoSource": "wikidata",
+  "website": "https://www.lennar.com"
+ },
+ "LEN.B": {
+  "checkedAt": "2026-10-31T22:48:20+00:00",
+  "label": "",
+  "logo": "LEN-B.svg",
+  "logoSource": "wikipedia",
+  "website": "https://www.lennar.com"
  },
  "LEU": {
   "lastTime": "amc",
@@ -7875,6 +7931,13 @@
   "logo": "PAYP.png",
   "logoSource": "fmp",
   "website": "https://www.paypay.ne.jp"
+ },
+ "PAYX": {
+  "checkedAt": "2026-10-31T22:48:22+00:00",
+  "label": "Paychex",
+  "logo": "PAYX.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.paychex.com"
  },
  "PB": {
   "lastTime": "bmo",
@@ -10101,6 +10164,13 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-27"
  },
+ "TOL": {
+  "checkedAt": "2026-10-31T22:48:20+00:00",
+  "label": "Toll Brothers",
+  "logo": "TOL.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.tollbrothers.com"
+ },
  "TOST": {
   "checkedAt": "2026-10-09T08:18:35+00:00",
   "label": "Toast, Inc.",
@@ -10294,6 +10364,13 @@
  "TTAM": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
+ },
+ "TTC": {
+  "checkedAt": "2026-10-31T22:48:20+00:00",
+  "label": "Toro",
+  "logo": "TTC.jpg",
+  "logoSource": "wikidata",
+  "website": "https://www.thetorocompany.com"
  },
  "TTD": {
   "lastTime": "amc",
