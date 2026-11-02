@@ -2,6 +2,8 @@
  "A": {
   "checkedAt": "2026-10-10T06:50:35+00:00",
   "label": "Agilent Technologies",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-23",
   "logo": "A.svg",
   "logoSource": "wikidata",
   "website": "https://www.agilent.com"
@@ -35,6 +37,10 @@
   "logo": "AAOI.svg",
   "logoSource": "parqet",
   "website": "https://www.ao-inc.com"
+ },
+ "AAON": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
  },
  "AAP": {
   "lastTime": "bmo",
@@ -154,6 +160,10 @@
  "ACT": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
+ },
+ "AD": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-06"
  },
  "ADBE": {
   "checkedAt": "2026-10-24T22:43:55+00:00",
@@ -684,6 +694,10 @@
   "logoSource": "parqet",
   "website": "https://www.arista.com"
  },
+ "ANF": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-24"
+ },
  "AON": {
   "checkedAt": "2026-10-09T08:17:21+00:00",
   "label": "Aon plc",
@@ -770,6 +784,10 @@
  "APTV": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-03"
+ },
+ "AQN": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-06"
  },
  "AR": {
   "checkedAt": "2026-10-09T08:20:27+00:00",
@@ -1902,6 +1920,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-11-02"
  },
+ "CALY": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-05"
+ },
  "CAMT": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-04"
@@ -2096,6 +2118,10 @@
  },
  "CELC": {
   "lastTime": "amc",
+  "lastTimeDate": "2026-11-05"
+ },
+ "CELH": {
+  "lastTime": "bmo",
   "lastTimeDate": "2026-11-05"
  },
  "CENX": {
@@ -3033,6 +3059,10 @@
   "logoSource": "wikidata",
   "website": "https://www.dell.com"
  },
+ "DFTX": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
+ },
  "DG": {
   "checkedAt": "2026-10-17T22:41:07+00:00",
   "label": "Dollar General",
@@ -3311,6 +3341,10 @@
   "logo": "DXCM.svg",
   "logoSource": "parqet",
   "website": "https://www.dexcom.com"
+ },
+ "DXPE": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-05"
  },
  "E": {
   "checkedAt": "2026-10-09T08:14:09+00:00",
@@ -4297,6 +4331,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-30"
  },
+ "FRVO": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-09"
+ },
  "FSK": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-05"
@@ -4411,6 +4449,10 @@
  "G": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-05"
+ },
+ "GAP": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-19"
  },
  "GATX": {
   "lastTime": "bmo",
@@ -5387,6 +5429,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-29"
  },
+ "INFQ": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-16"
+ },
  "INFY": {
   "checkedAt": "2026-10-09T08:12:54+00:00",
   "label": "Infosys limited",
@@ -5459,6 +5505,8 @@
  "INTU": {
   "checkedAt": "2026-10-09T08:22:33+00:00",
   "label": "Intuit",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-19",
   "logo": "INTU.svg",
   "logoSource": "wikidata",
   "website": "https://www.intuit.com"
@@ -5761,6 +5809,10 @@
   "website": "https://www.jpmorganchase.com"
  },
  "JXN": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03"
+ },
+ "KAI": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-03"
  },
@@ -6294,6 +6346,10 @@
   "logoSource": "wikidata",
   "website": "https://www.lowes.com"
  },
+ "LPG": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-05"
+ },
  "LPLA": {
   "checkedAt": "2026-10-09T08:14:56+00:00",
   "label": "LPL Financial",
@@ -6363,6 +6419,10 @@
  "LUMN": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
+ },
+ "LUNR": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-12"
  },
  "LUV": {
   "checkedAt": "2026-10-09T08:13:28+00:00",
@@ -7114,6 +7174,8 @@
  "NBIS": {
   "checkedAt": "2026-10-09T08:21:49+00:00",
   "label": "Nebius Group",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-12",
   "logo": "NBIS.svg",
   "logoSource": "parqet",
   "website": "https://www.group.nebius.com"
@@ -8243,6 +8305,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-11-09"
  },
+ "PLUS": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-05"
+ },
  "PLXS": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-28"
@@ -8653,6 +8719,10 @@
  "RDNT": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-09"
+ },
+ "RDW": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
  },
  "RDY": {
   "checkedAt": "2026-10-09T08:14:15+00:00",
@@ -9559,6 +9629,10 @@
   "logoSource": "wikidata",
   "website": "https://www.spglobal.com"
  },
+ "SPHR": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-05"
+ },
  "SPNT": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-05"
@@ -9649,6 +9723,10 @@
  "STAG": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-27"
+ },
+ "STDN": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-12"
  },
  "STE": {
   "checkedAt": "2026-10-09T08:19:36+00:00",
@@ -9847,6 +9925,8 @@
  "SYM": {
   "checkedAt": "2026-10-10T06:50:35+00:00",
   "label": "Symbotic",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-23",
   "logo": "SYM.jpg",
   "logoSource": "wikidata",
   "website": "https://www.symbotic.com"
@@ -9905,6 +9985,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-05"
  },
+ "TARS": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03"
+ },
  "TBBB": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-02"
@@ -9937,6 +10021,10 @@
   "logo": "TDG.png",
   "logoSource": "parqet",
   "website": "https://www.transdigm.com"
+ },
+ "TDS": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-06"
  },
  "TDY": {
   "checkedAt": "2026-10-09T08:15:27+00:00",
@@ -10568,6 +10656,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-28"
  },
+ "UFPT": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-03"
+ },
  "UGI": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-18"
@@ -11004,6 +11096,8 @@
  "VSAT": {
   "checkedAt": "2026-10-29T22:55:03+00:00",
   "label": "Viasat",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-05",
   "logo": "VSAT.svg",
   "logoSource": "wikidata",
   "website": "https://www.viasat.com"
@@ -11588,6 +11682,8 @@
  "ZM": {
   "checkedAt": "2026-10-10T06:50:35+00:00",
   "label": "Zoom Communications",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-23",
   "logo": "ZM.svg",
   "logoSource": "wikidata",
   "website": "https://www.zoom.com"

@@ -8,7 +8,7 @@
     "marketCap": 51071410000,
     "name": "Agilent Technologies, Inc.",
     "symbol": "A",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$1",
@@ -17,7 +17,7 @@
     "marketCap": 28495597600,
     "name": "Zoom Communications, Inc.",
     "symbol": "ZM",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$0.08",
@@ -26,7 +26,7 @@
     "marketCap": 22619584500,
     "name": "Symbotic Inc.",
     "symbol": "SYM",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$2.14",
@@ -244,7 +244,7 @@
     "marketCap": 7034346500,
     "name": "Abercrombie & Fitch Company",
     "symbol": "ANF",
-    "time": "tbd"
+    "time": "bmo"
    },
    {
     "eps": "$1.17",
@@ -265,7 +265,7 @@
     "time": "tbd"
    },
    {
-    "eps": "($0.01)",
+    "eps": "$0.01",
     "fq": "Oct/2026",
     "lastYearEps": "$0.10",
     "marketCap": 2777722880,
@@ -306,7 +306,7 @@
     "eps": "$4.07",
     "fq": "Oct/2026",
     "lastYearEps": "$3.93",
-    "marketCap": 177952768000,
+    "marketCap": 182126576000,
     "name": "Deere & Company",
     "symbol": "DE",
     "time": "bmo"
@@ -315,7 +315,7 @@
     "eps": "($0.08)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.09)",
-    "marketCap": 10886837200,
+    "marketCap": 10779337700,
     "name": "Li Auto Inc.",
     "symbol": "LI",
     "time": "tbd"
@@ -324,7 +324,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$0.07",
-    "marketCap": 5440683000,
+    "marketCap": 5344927200,
     "name": "CMB.TECH NV",
     "symbol": "CMBT",
     "time": "tbd"
@@ -333,18 +333,9 @@
     "eps": "$1.94",
     "fq": "Sep/2026",
     "lastYearEps": "($0.39)",
-    "marketCap": 3917544450,
+    "marketCap": 3845932540,
     "name": "Macro Bank Inc.",
     "symbol": "BMA",
-    "time": "tbd"
-   },
-   {
-    "eps": "($0.13)",
-    "fq": "Sep/2026",
-    "lastYearEps": "N/A",
-    "marketCap": 2013242750,
-    "name": "Standard Nuclear, Inc.",
-    "symbol": "STDN",
     "time": "tbd"
    }
   ],
@@ -354,13 +345,13 @@
     "eps": "$0.34",
     "fq": "Sep/2026",
     "lastYearEps": "$0.29",
-    "marketCap": 2292975100,
+    "marketCap": 2298697980,
     "name": "Chagee Holdings Limited",
     "symbol": "CHA",
     "time": "tbd"
    }
   ]
  },
- "updatedAt": "2026-11-01T22:48:13+00:00",
+ "updatedAt": "2026-11-02T12:20:42+00:00",
  "week": "2026-11-23"
 }
