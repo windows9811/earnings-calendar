@@ -5,7 +5,7 @@
     "eps": "$0.57",
     "fq": "Sep/2026",
     "lastYearEps": "$1.23",
-    "marketCap": 26760871900,
+    "marketCap": 25995302900,
     "name": "Baidu, Inc.",
     "symbol": "BIDU",
     "time": "bmo"
@@ -14,7 +14,7 @@
     "eps": "$1.02",
     "fq": "Sep/2026",
     "lastYearEps": "$3.76",
-    "marketCap": 24281434100,
+    "marketCap": 24930029600,
     "name": "Trip.com Group Limited",
     "symbol": "TCOM",
     "time": "tbd"
@@ -23,7 +23,7 @@
     "eps": "$0.65",
     "fq": "Sep/2026",
     "lastYearEps": "$1.15",
-    "marketCap": 19788834800,
+    "marketCap": 20066758700,
     "name": "Tyson Foods, Inc.",
     "symbol": "TSN",
     "time": "bmo"
@@ -31,26 +31,26 @@
    {
     "eps": "$0.75",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.64",
-    "marketCap": 14768275500,
-    "name": "Aramark",
-    "symbol": "ARMK",
-    "time": "bmo"
-   },
-   {
-    "eps": "$0.75",
-    "fq": "Sep/2026",
     "lastYearEps": "$0.63",
-    "marketCap": 14419791900,
+    "marketCap": 14659660800,
     "name": "H World Group Limited",
     "symbol": "HTHT",
     "time": "tbd"
    },
    {
+    "eps": "$0.75",
+    "fq": "Sep/2026",
+    "lastYearEps": "$0.64",
+    "marketCap": 14225207300,
+    "name": "Aramark",
+    "symbol": "ARMK",
+    "time": "bmo"
+   },
+   {
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "($0.06)",
-    "marketCap": 8795083800,
+    "marketCap": 8660954100,
     "name": "XPeng Inc.",
     "symbol": "XPEV",
     "time": "tbd"
@@ -59,7 +59,7 @@
     "eps": "$1.57",
     "fq": "Sep/2026",
     "lastYearEps": "$1.36",
-    "marketCap": 8173510100,
+    "marketCap": 8151631400,
     "name": "AECOM",
     "symbol": "ACM",
     "time": "amc"
@@ -68,7 +68,7 @@
     "eps": "$0.53",
     "fq": "Sep/2026",
     "lastYearEps": "$0.45",
-    "marketCap": 7800594400,
+    "marketCap": 7406677500,
     "name": "XP Inc.",
     "symbol": "XP",
     "time": "tbd"
@@ -77,7 +77,7 @@
     "eps": "",
     "fq": "Oct/2026",
     "lastYearEps": "$1.21",
-    "marketCap": 3893572860,
+    "marketCap": 3881848060,
     "name": "Brady Corporation",
     "symbol": "BRC",
     "time": "tbd"
@@ -86,7 +86,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$6.75",
-    "marketCap": 2891804160,
+    "marketCap": 2858309630,
     "name": "Danaos Corporation",
     "symbol": "DAC",
     "time": "tbd"
@@ -95,7 +95,7 @@
     "eps": "$0.41",
     "fq": "Sep/2026",
     "lastYearEps": "$0.36",
-    "marketCap": 2345769220,
+    "marketCap": 2307981060,
     "name": "PagSeguro Digital Ltd.",
     "symbol": "PAGS",
     "time": "amc"
@@ -104,7 +104,7 @@
     "eps": "($0.05)",
     "fq": "Sep/2026",
     "lastYearEps": "N/A",
-    "marketCap": 2125117060,
+    "marketCap": 2001170560,
     "name": "Infleqtion, Inc.",
     "symbol": "INFQ",
     "time": "amc"
@@ -758,6 +758,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-02T12:20:30+00:00",
+ "updatedAt": "2026-11-02T22:53:57+00:00",
  "week": "2026-11-16"
 }
