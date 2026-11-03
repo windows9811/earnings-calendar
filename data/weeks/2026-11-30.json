@@ -107,7 +107,7 @@
     "eps": "$2.41",
     "fq": "Oct/2026",
     "lastYearEps": "$2.66",
-    "marketCap": 188606906000,
+    "marketCap": 186146144000,
     "name": "Salesforce, Inc.",
     "symbol": "CRM",
     "time": "tbd"
@@ -116,7 +116,7 @@
     "eps": "($0.32)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.84)",
-    "marketCap": 107985027000,
+    "marketCap": 102551904000,
     "name": "Snowflake Inc.",
     "symbol": "SNOW",
     "time": "amc"
@@ -125,7 +125,7 @@
     "eps": "$0.88",
     "fq": "Oct/2026",
     "lastYearEps": "$1.21",
-    "marketCap": 25118068700,
+    "marketCap": 26005559300,
     "name": "Dollar Tree, Inc.",
     "symbol": "DLTR",
     "time": "tbd"
@@ -134,7 +134,7 @@
     "eps": "$0.36",
     "fq": "Oct/2026",
     "lastYearEps": "$0.38",
-    "marketCap": 13435006000,
+    "marketCap": 13421785100,
     "name": "Guidewire Software, Inc.",
     "symbol": "GWRE",
     "time": "tbd"
@@ -143,7 +143,7 @@
     "eps": "$1.12",
     "fq": "Oct/2026",
     "lastYearEps": "$0.68",
-    "marketCap": 13265545200,
+    "marketCap": 13156262900,
     "name": "Five Below, Inc.",
     "symbol": "FIVE",
     "time": "tbd"
@@ -152,7 +152,7 @@
     "eps": "$0.96",
     "fq": "Oct/2026",
     "lastYearEps": "$0.82",
-    "marketCap": 8475836400,
+    "marketCap": 8575094800,
     "name": "HealthEquity, Inc.",
     "symbol": "HQY",
     "time": "tbd"
@@ -161,7 +161,7 @@
     "eps": "$0.61",
     "fq": "Oct/2026",
     "lastYearEps": "$0.50",
-    "marketCap": 7759724000,
+    "marketCap": 7816045100,
     "name": "The Descartes Systems Group Inc.",
     "symbol": "DSGX",
     "time": "amc"
@@ -170,7 +170,7 @@
     "eps": "$0.10",
     "fq": "Oct/2026",
     "lastYearEps": "$0.03",
-    "marketCap": 7155463700,
+    "marketCap": 6952213000,
     "name": "UiPath, Inc.",
     "symbol": "PATH",
     "time": "tbd"
@@ -179,7 +179,7 @@
     "eps": "($0.19)",
     "fq": "Oct/2026",
     "lastYearEps": "$0.09",
-    "marketCap": 6296968700,
+    "marketCap": 6354427900,
     "name": "Macy's Inc",
     "symbol": "M",
     "time": "tbd"
@@ -188,7 +188,7 @@
     "eps": "$2.63",
     "fq": "Oct/2026",
     "lastYearEps": "$2.83",
-    "marketCap": 4161171200,
+    "marketCap": 4287127550,
     "name": "PVH Corp.",
     "symbol": "PVH",
     "time": "tbd"
@@ -197,7 +197,7 @@
     "eps": "$0.17",
     "fq": "Oct/2026",
     "lastYearEps": "$0.41",
-    "marketCap": 3814301180,
+    "marketCap": 4102825470,
     "name": "Thor Industries, Inc.",
     "symbol": "THO",
     "time": "tbd"
@@ -206,7 +206,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$0.45",
-    "marketCap": 3340669440,
+    "marketCap": 3392256770,
     "name": "Kenon Holdings Ltd.",
     "symbol": "KEN",
     "time": "tbd"
@@ -215,7 +215,7 @@
     "eps": "$0.16",
     "fq": "Oct/2026",
     "lastYearEps": "$0.17",
-    "marketCap": 2398096380,
+    "marketCap": 2448849660,
     "name": "nCino, Inc.",
     "symbol": "NCNO",
     "time": "tbd"
@@ -442,6 +442,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-03T12:14:02+00:00",
+ "updatedAt": "2026-11-03T22:58:08+00:00",
  "week": "2026-11-30"
 }

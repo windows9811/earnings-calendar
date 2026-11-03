@@ -55,6 +55,10 @@
   "logoSource": "wikidata",
   "website": "https://www.apple.com"
  },
+ "AAUC": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
+ },
  "AB": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-27"
@@ -613,6 +617,10 @@
   "logo": "AMKR.png",
   "logoSource": "parqet",
   "website": "https://www.amkor.com"
+ },
+ "AMLX": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-05"
  },
  "AMP": {
   "checkedAt": "2026-10-09T08:16:30+00:00",
@@ -2228,6 +2236,8 @@
  "CHT": {
   "checkedAt": "2026-10-09T08:20:56+00:00",
   "label": "Chunghwa Telecom",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04",
   "logo": "CHT.png",
   "logoSource": "parqet",
   "website": "http://www.cht.com.tw"
@@ -2262,6 +2272,8 @@
  "CIB": {
   "checkedAt": "2026-10-09T08:21:01+00:00",
   "label": "Bancolombia",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09",
   "logo": "CIB.svg",
   "logoSource": "parqet",
   "website": "https://www.bancolombia.com/"
@@ -5967,6 +5979,10 @@
   "logoSource": "wikipedia",
   "website": "https://www.kindermorgan.com"
  },
+ "KMPR": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
+ },
  "KMT": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-04"
@@ -6053,6 +6069,10 @@
  "KSS": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-24"
+ },
+ "KTB": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-05"
  },
  "KTOS": {
   "lastTime": "amc",
@@ -6548,6 +6568,10 @@
   "logo": "MAR.svg",
   "logoSource": "wikidata",
   "website": "https://www.marriott.com"
+ },
+ "MARA": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
  },
  "MAS": {
   "checkedAt": "2026-10-09T08:15:43+00:00",
@@ -7266,6 +7290,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-28"
  },
+ "NESR": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-09"
+ },
  "NET": {
   "checkedAt": "2026-10-09T08:16:01+00:00",
   "label": "Cloudflare",
@@ -7348,6 +7376,10 @@
  "NMIH": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-05"
+ },
+ "NMM": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04"
  },
  "NMR": {
   "checkedAt": "2026-10-09T08:15:35+00:00",
@@ -9368,6 +9400,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-22"
  },
+ "SII": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-04"
+ },
  "SIMO": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-28"
@@ -10055,6 +10091,8 @@
  "TDG": {
   "checkedAt": "2026-10-09T08:21:58+00:00",
   "label": "TransDigm Group Inc.",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-10",
   "logo": "TDG.png",
   "logoSource": "parqet",
   "website": "https://www.transdigm.com"
@@ -10162,6 +10200,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-05"
  },
+ "TGB": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
+ },
  "TGT": {
   "checkedAt": "2026-10-09T08:22:29+00:00",
   "label": "Target Corporation",
@@ -10170,6 +10212,10 @@
   "logo": "TGT.svg",
   "logoSource": "wikidata",
   "website": "https://corporate.target.com"
+ },
+ "TGTX": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-09"
  },
  "THC": {
   "checkedAt": "2026-10-09T08:16:53+00:00",

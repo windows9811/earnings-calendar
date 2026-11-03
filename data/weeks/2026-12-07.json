@@ -34,7 +34,7 @@
     "eps": "$36.06",
     "fq": "Nov/2026",
     "lastYearEps": "$31.04",
-    "marketCap": 51016163000,
+    "marketCap": 52355052000,
     "name": "AutoZone, Inc.",
     "symbol": "AZO",
     "time": "tbd"
@@ -43,7 +43,7 @@
     "eps": "$6.01",
     "fq": "Oct/2026",
     "lastYearEps": "$5.53",
-    "marketCap": 25139935200,
+    "marketCap": 24695674900,
     "name": "Caseys General Stores, Inc.",
     "symbol": "CASY",
     "time": "tbd"
@@ -52,7 +52,7 @@
     "eps": "$0.20",
     "fq": "Oct/2026",
     "lastYearEps": "$0.24",
-    "marketCap": 12224059400,
+    "marketCap": 12203879400,
     "name": "GameStop Corporation",
     "symbol": "GME",
     "time": "tbd"
@@ -61,7 +61,7 @@
     "eps": "$0.08",
     "fq": "Oct/2026",
     "lastYearEps": "$0.08",
-    "marketCap": 12023399400,
+    "marketCap": 10955794400,
     "name": "SailPoint, Inc.",
     "symbol": "SAIL",
     "time": "tbd"
@@ -70,34 +70,34 @@
     "eps": "$0.89",
     "fq": "Oct/2026",
     "lastYearEps": "$0.72",
-    "marketCap": 8429361700,
+    "marketCap": 8600806400,
     "name": "Core & Main, Inc.",
     "symbol": "CNM",
-    "time": "tbd"
-   },
-   {
-    "eps": "$0.46",
-    "fq": "Oct/2026",
-    "lastYearEps": "$0.44",
-    "marketCap": 6408998900,
-    "name": "AeroVironment, Inc.",
-    "symbol": "AVAV",
     "time": "tbd"
    },
    {
     "eps": "$0.44",
     "fq": "Oct/2026",
     "lastYearEps": "$0.77",
-    "marketCap": 6388187100,
+    "marketCap": 6602916400,
     "name": "The Campbell's Company",
     "symbol": "CPB",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.46",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.44",
+    "marketCap": 6255011800,
+    "name": "AeroVironment, Inc.",
+    "symbol": "AVAV",
     "time": "tbd"
    },
    {
     "eps": "$0.76",
     "fq": "Oct/2026",
     "lastYearEps": "$0.75",
-    "marketCap": 5361660900,
+    "marketCap": 5283249700,
     "name": "Ollie's Bargain Outlet Holdings, Inc.",
     "symbol": "OLLI",
     "time": "tbd"
@@ -106,7 +106,7 @@
     "eps": "($0.22)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.29)",
-    "marketCap": 5196487700,
+    "marketCap": 5187400700,
     "name": "Braze, Inc.",
     "symbol": "BRZE",
     "time": "tbd"
@@ -115,7 +115,7 @@
     "eps": "$1.36",
     "fq": "Oct/2026",
     "lastYearEps": "$1.33",
-    "marketCap": 4176480000,
+    "marketCap": 4253953540,
     "name": "Korn Ferry",
     "symbol": "KFY",
     "time": "tbd"
@@ -124,7 +124,7 @@
     "eps": "$1.21",
     "fq": "Oct/2026",
     "lastYearEps": "$1.03",
-    "marketCap": 3645470460,
+    "marketCap": 3808038660,
     "name": "Academy Sports and Outdoors, Inc.",
     "symbol": "ASO",
     "time": "tbd"
@@ -209,7 +209,7 @@
     "eps": "$3.45",
     "fq": "Oct/2026",
     "lastYearEps": "$1.61",
-    "marketCap": 1556585250000,
+    "marketCap": 1538206730000,
     "name": "Broadcom Inc.",
     "symbol": "AVGO",
     "time": "tbd"
@@ -218,7 +218,7 @@
     "eps": "$4.87",
     "fq": "Nov/2026",
     "lastYearEps": "$4.34",
-    "marketCap": 448570982000,
+    "marketCap": 461098254000,
     "name": "Costco Wholesale Corporation",
     "symbol": "COST",
     "time": "tbd"
@@ -227,7 +227,7 @@
     "eps": "$1.77",
     "fq": "Oct/2026",
     "lastYearEps": "$0.64",
-    "marketCap": 45480829000,
+    "marketCap": 40321835000,
     "name": "Ciena Corporation",
     "symbol": "CIEN",
     "time": "tbd"
@@ -236,7 +236,7 @@
     "eps": "$0.97",
     "fq": "Oct/2026",
     "lastYearEps": "$2.59",
-    "marketCap": 11323907100,
+    "marketCap": 11386208300,
     "name": "lululemon athletica inc.",
     "symbol": "LULU",
     "time": "tbd"
@@ -245,7 +245,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "($0.02)",
-    "marketCap": 3632668670,
+    "marketCap": 3693040640,
     "name": "Manchester United Ltd.",
     "symbol": "MANU",
     "time": "tbd"
@@ -254,7 +254,7 @@
     "eps": "",
     "fq": "Oct/2026",
     "lastYearEps": "$0.49",
-    "marketCap": 3304620290,
+    "marketCap": 3422575360,
     "name": "National Beverage Corp.",
     "symbol": "FIZZ",
     "time": "tbd"
@@ -263,7 +263,7 @@
     "eps": "$0.67",
     "fq": "Oct/2026",
     "lastYearEps": "$1.71",
-    "marketCap": 2776737020,
+    "marketCap": 2774086400,
     "name": "RH",
     "symbol": "RH",
     "time": "tbd"
@@ -271,6 +271,6 @@
   ],
   "2026-12-11": []
  },
- "updatedAt": "2026-11-03T12:14:15+00:00",
+ "updatedAt": "2026-11-03T22:58:23+00:00",
  "week": "2026-12-07"
 }
