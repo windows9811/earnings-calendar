@@ -2,6 +2,15 @@
  "days": {
   "2026-11-23": [
    {
+    "eps": "$1.17",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.54",
+    "marketCap": 73130033000,
+    "name": "Hewlett Packard Enterprise Company",
+    "symbol": "HPE",
+    "time": "amc"
+   },
+   {
     "eps": "$1.72",
     "fq": "Oct/2026",
     "lastYearEps": "$1.59",
@@ -136,7 +145,7 @@
     "marketCap": 52168491000,
     "name": "Autodesk, Inc.",
     "symbol": "ADSK",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$1.28",
@@ -145,7 +154,7 @@
     "marketCap": 47674622000,
     "name": "Workday, Inc.",
     "symbol": "WDAY",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$0.12",
@@ -202,13 +211,13 @@
     "time": "tbd"
    },
    {
-    "eps": "$1.39",
+    "eps": "$1.38",
     "fq": "Oct/2026",
     "lastYearEps": "$2.07",
     "marketCap": 12791195600,
     "name": "Dick's Sporting Goods Inc",
     "symbol": "DKS",
-    "time": "tbd"
+    "time": "bmo"
    },
    {
     "eps": "($1.59)",
@@ -265,7 +274,7 @@
     "time": "tbd"
    },
    {
-    "eps": "$0.01",
+    "eps": "($0.01)",
     "fq": "Oct/2026",
     "lastYearEps": "$0.10",
     "marketCap": 2756181500,
@@ -297,7 +306,7 @@
     "eps": "$4.07",
     "fq": "Oct/2026",
     "lastYearEps": "$3.93",
-    "marketCap": 182126576000,
+    "marketCap": 180001931000,
     "name": "Deere & Company",
     "symbol": "DE",
     "time": "bmo"
@@ -306,7 +315,7 @@
     "eps": "($0.08)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.09)",
-    "marketCap": 10779337700,
+    "marketCap": 10925928400,
     "name": "Li Auto Inc.",
     "symbol": "LI",
     "time": "tbd"
@@ -315,7 +324,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$0.07",
-    "marketCap": 5344927200,
+    "marketCap": 5043150300,
     "name": "CMB.TECH NV",
     "symbol": "CMBT",
     "time": "tbd"
@@ -324,7 +333,7 @@
     "eps": "$1.94",
     "fq": "Sep/2026",
     "lastYearEps": "($0.39)",
-    "marketCap": 3845932540,
+    "marketCap": 3772402690,
     "name": "Macro Bank Inc.",
     "symbol": "BMA",
     "time": "tbd"
@@ -343,6 +352,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-02T22:54:12+00:00",
+ "updatedAt": "2026-11-03T12:13:53+00:00",
  "week": "2026-11-23"
 }

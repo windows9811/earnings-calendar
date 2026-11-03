@@ -218,6 +218,8 @@
  "ADSK": {
   "checkedAt": "2026-10-10T06:50:38+00:00",
   "label": "Autodesk",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-24",
   "logo": "ADSK.svg",
   "logoSource": "wikidata",
   "website": "https://www.autodesk.com"
@@ -1670,6 +1672,10 @@
  "BOOT": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-28"
+ },
+ "BOX": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-01"
  },
  "BP": {
   "checkedAt": "2026-10-09T08:17:18+00:00",
@@ -3147,6 +3153,8 @@
  "DKS": {
   "checkedAt": "2026-10-10T06:50:40+00:00",
   "label": "Dick's Sporting Goods",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-24",
   "logo": "DKS.svg",
   "logoSource": "wikipedia",
   "website": "https://www.dicks.com"
@@ -3266,6 +3274,10 @@
   "logo": "DRS.png",
   "logoSource": "wikidata",
   "website": "https://www.leonardodrs.com"
+ },
+ "DSGX": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-02"
  },
  "DT": {
   "checkedAt": "2026-10-09T08:19:50+00:00",
@@ -5024,8 +5036,13 @@
   "website": "https://www.hecla.com"
  },
  "HLI": {
+  "checkedAt": "2026-11-03T12:14:33+00:00",
+  "label": "Houlihan Lokey",
   "lastTime": "amc",
-  "lastTimeDate": "2026-10-28"
+  "lastTimeDate": "2026-10-28",
+  "logo": "HLI.svg",
+  "logoSource": "wikipedia",
+  "website": "https://www.hl.com"
  },
  "HLIO": {
   "lastTime": "amc",
@@ -5110,6 +5127,8 @@
  "HPE": {
   "checkedAt": "2026-10-17T22:41:05+00:00",
   "label": "Hewlett Packard Enterprise",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-23",
   "logo": "HPE.svg",
   "logoSource": "wikidata",
   "website": "https://www.hpe.com"
@@ -7024,6 +7043,14 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-04"
  },
+ "MSGK": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-06"
+ },
+ "MSGR": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-06"
+ },
  "MSI": {
   "checkedAt": "2026-10-09T08:16:17+00:00",
   "label": "Motorola Solutions",
@@ -7708,6 +7735,8 @@
  "OKTA": {
   "checkedAt": "2026-10-17T22:41:03+00:00",
   "label": "Okta",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-01",
   "logo": "OKTA.svg",
   "logoSource": "wikidata",
   "website": "https://www.okta.com"
@@ -9071,6 +9100,8 @@
  "RY": {
   "checkedAt": "2026-10-17T22:41:04+00:00",
   "label": "Royal Bank of Canada",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-03",
   "logo": "RY.jpg",
   "logoSource": "wikidata",
   "website": "https://www.rbc.com"
@@ -9527,6 +9558,8 @@
  "SNOW": {
   "checkedAt": "2026-10-17T22:41:04+00:00",
   "label": "Snowflake Inc.",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-02",
   "logo": "SNOW.svg",
   "logoSource": "wikidata",
   "website": "https://www.snowflake.com"
@@ -10252,6 +10285,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-29"
  },
+ "TNK": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-11"
+ },
  "TNL": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-27"
@@ -10478,8 +10515,13 @@
   "website": "https://www.totalenergies.com"
  },
  "TTEK": {
+  "checkedAt": "2026-11-03T12:14:31+00:00",
+  "label": "Tetra Tech",
   "lastTime": "amc",
-  "lastTimeDate": "2026-11-11"
+  "lastTimeDate": "2026-11-11",
+  "logo": "TTEK.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.tetratech.com"
  },
  "TTMI": {
   "checkedAt": "2026-10-09T08:20:04+00:00",
@@ -11235,6 +11277,8 @@
  "WDAY": {
   "checkedAt": "2026-10-10T06:50:38+00:00",
   "label": "Workday, Inc.",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-24",
   "logo": "WDAY.svg",
   "logoSource": "wikidata",
   "website": "https://www.workday.com"
@@ -11544,6 +11588,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-11-05"
  },
+ "XE": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-12"
+ },
  "XEL": {
   "checkedAt": "2026-10-09T08:16:28+00:00",
   "label": "Xcel Energy",
@@ -11572,6 +11620,10 @@
   "logo": "XP.svg",
   "logoSource": "wikidata",
   "website": "https://www.xpinc.com"
+ },
+ "XPEV": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-16"
  },
  "XPO": {
   "checkedAt": "2026-10-09T08:16:52+00:00",
@@ -11674,6 +11726,10 @@
  "ZGN": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-22"
+ },
+ "ZIM": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-18"
  },
  "ZION": {
   "lastTime": "amc",
