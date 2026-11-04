@@ -2506,6 +2506,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-28"
  },
+ "COAG": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-10"
+ },
  "COCO": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-22"
@@ -6426,6 +6430,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-03"
  },
+ "LQDA": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-10"
+ },
  "LRCX": {
   "checkedAt": "2026-10-09T08:13:18+00:00",
   "label": "Lam Research",
@@ -6912,6 +6920,10 @@
  "MNDY": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-09"
+ },
+ "MNSO": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-17"
  },
  "MNST": {
   "checkedAt": "2026-10-09T08:20:38+00:00",
@@ -8957,6 +8969,10 @@
   "logoSource": "wikidata",
   "website": "https://www.ralphlauren.com"
  },
+ "RLAY": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
+ },
  "RLI": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-19"
@@ -9128,6 +9144,10 @@
  "RUM": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-11"
+ },
+ "RUN": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-04"
  },
  "RUSHA": {
   "lastTime": "amc",
@@ -9435,8 +9455,13 @@
   "lastTimeDate": "2026-10-28"
  },
  "SIRI": {
+  "checkedAt": "2026-11-04T23:00:21+00:00",
+  "label": "Sirius XM Rad",
   "lastTime": "bmo",
-  "lastTimeDate": "2026-10-29"
+  "lastTimeDate": "2026-10-29",
+  "logo": "SIRI.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.siriusxm.com"
  },
  "SITE": {
   "lastTime": "bmo",
