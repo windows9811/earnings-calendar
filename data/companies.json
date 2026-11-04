@@ -587,6 +587,8 @@
  "AMG": {
   "checkedAt": "2026-10-09T12:42:21+00:00",
   "label": "Affiliated Managers Group",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-09",
   "logo": "AMG.svg",
   "logoSource": "wikipedia",
   "website": "https://www.amg.com"
@@ -886,6 +888,10 @@
   "logoSource": "wikidata",
   "website": "https://investor.arrow.com"
  },
+ "ARX": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-12"
+ },
  "ARXS": {
   "checkedAt": "2026-10-09T08:19:39+00:00",
   "label": "",
@@ -903,6 +909,10 @@
   "logo": "AS.png",
   "logoSource": "parqet",
   "website": "https://www.amersports.com/"
+ },
+ "ASAN": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-01"
  },
  "ASB": {
   "lastTime": "amc",
@@ -1479,6 +1489,10 @@
   "logo": "BIIB.png",
   "logoSource": "parqet",
   "website": "https://www.biogen.com"
+ },
+ "BILI": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-24"
  },
  "BILL": {
   "lastTime": "amc",
@@ -4656,6 +4670,10 @@
   "logoSource": "parqet",
   "website": "https://www.globelifeinsurance.com"
  },
+ "GLBE": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-18"
+ },
  "GLNG": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-18"
@@ -5568,6 +5586,10 @@
   "logoSource": "wikidata",
   "website": "https://www.ionq.com"
  },
+ "IONS": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-09"
+ },
  "IOSP": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-03"
@@ -5575,6 +5597,8 @@
  "IOT": {
   "checkedAt": "2026-10-17T22:41:07+00:00",
   "label": "Samsara",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-03",
   "logo": "IOT.svg",
   "logoSource": "wikipedia",
   "website": "https://www.samsara.com"
@@ -8017,6 +8041,8 @@
  "PANW": {
   "checkedAt": "2026-10-09T08:22:28+00:00",
   "label": "Palo Alto Networks",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-18",
   "logo": "PANW.svg",
   "logoSource": "wikidata",
   "website": "https://www.paloaltonetworks.com"
@@ -9428,6 +9454,8 @@
  "SJM": {
   "checkedAt": "2026-10-10T06:50:41+00:00",
   "label": "The J.M. Smucker Company",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-24",
   "logo": "SJM.svg",
   "logoSource": "wikidata",
   "website": "https://www.jmsmucker.com"
@@ -10260,6 +10288,10 @@
   "logoSource": "wikidata",
   "website": "https://www.tjx.com"
  },
+ "TKC": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-09"
+ },
  "TKO": {
   "checkedAt": "2026-10-09T08:19:31+00:00",
   "label": "TKO Group Holdings",
@@ -10590,6 +10622,8 @@
  "TU": {
   "checkedAt": "2026-10-09T08:21:33+00:00",
   "label": "Telus Communications",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-06",
   "logo": "TU.svg",
   "logoSource": "parqet",
   "website": "https://www.telus.com"
@@ -10878,6 +10912,10 @@
   "logo": "URI.svg",
   "logoSource": "wikidata",
   "website": "https://www.unitedrentals.com"
+ },
+ "USAR": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
  },
  "USB": {
   "checkedAt": "2026-10-09T08:12:54+00:00",
@@ -11647,6 +11685,10 @@
   "logoSource": "parqet",
   "website": "https://www.xcelenergy.com"
  },
+ "XENE": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
+ },
  "XMTR": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-03"
@@ -11822,5 +11864,9 @@
  "ZWS": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-27"
+ },
+ "ZYME": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
  }
 }

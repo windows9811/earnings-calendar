@@ -6,7 +6,7 @@
     "eps": "$0",
     "fq": "Oct/2026",
     "lastYearEps": "N/A",
-    "marketCap": 247597679000,
+    "marketCap": 250536378000,
     "name": "CrowdStrike Holdings, Inc.",
     "symbol": "CRWD",
     "time": "tbd"
@@ -15,7 +15,7 @@
     "eps": "$0.79",
     "fq": "Oct/2026",
     "lastYearEps": "$0.62",
-    "marketCap": 150309421000,
+    "marketCap": 150800499000,
     "name": "Marvell Technology, Inc.",
     "symbol": "MRVL",
     "time": "tbd"
@@ -33,7 +33,7 @@
     "eps": "$2.13",
     "fq": "Oct/2026",
     "lastYearEps": "$1.63",
-    "marketCap": 36388585000,
+    "marketCap": 37472817000,
     "name": "NetApp, Inc.",
     "symbol": "NTAP",
     "time": "amc"
@@ -42,7 +42,7 @@
     "eps": "$0.43",
     "fq": "Oct/2026",
     "lastYearEps": "$0.31",
-    "marketCap": 32319143900,
+    "marketCap": 33160034300,
     "name": "Okta, Inc.",
     "symbol": "OKTA",
     "time": "amc"
@@ -51,7 +51,7 @@
     "eps": "($0.09)",
     "fq": "Oct/2026",
     "lastYearEps": "N/A",
-    "marketCap": 8681526300,
+    "marketCap": 8724842500,
     "name": "GitLab Inc.",
     "symbol": "GTLB",
     "time": "tbd"
@@ -99,7 +99,7 @@
     "marketCap": 2532409600,
     "name": "Asana, Inc.",
     "symbol": "ASAN",
-    "time": "tbd"
+    "time": "amc"
    }
   ],
   "2026-12-02": [
@@ -280,7 +280,7 @@
     "eps": "$5.60",
     "fq": "Oct/2026",
     "lastYearEps": "$5.14",
-    "marketCap": 27260880900,
+    "marketCap": 27146291200,
     "name": "Ulta Beauty, Inc.",
     "symbol": "ULTA",
     "time": "amc"
@@ -292,7 +292,7 @@
     "marketCap": 24536858600,
     "name": "Samsara Inc.",
     "symbol": "IOT",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "($0.38)",
@@ -307,7 +307,7 @@
     "eps": "$0.53",
     "fq": "Oct/2026",
     "lastYearEps": "$0.42",
-    "marketCap": 15260585000,
+    "marketCap": 15019481100,
     "name": "DocuSign, Inc.",
     "symbol": "DOCU",
     "time": "tbd"
@@ -343,7 +343,7 @@
     "eps": "$1.07",
     "fq": "Oct/2026",
     "lastYearEps": "$1.15",
-    "marketCap": 11656519700,
+    "marketCap": 11567147000,
     "name": "The Cooper Companies, Inc.",
     "symbol": "COO",
     "time": "tbd"
@@ -370,7 +370,7 @@
     "eps": "($0.20)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.31)",
-    "marketCap": 7998153700,
+    "marketCap": 8023235600,
     "name": "ServiceTitan, Inc.",
     "symbol": "TTAN",
     "time": "tbd"
@@ -379,7 +379,7 @@
     "eps": "$2.33",
     "fq": "Oct/2026",
     "lastYearEps": "$2.58",
-    "marketCap": 6406567400,
+    "marketCap": 6351262700,
     "name": "Science Applications International Corporation",
     "symbol": "SAIC",
     "time": "tbd"
@@ -397,7 +397,7 @@
     "eps": "$0.56",
     "fq": "Oct/2026",
     "lastYearEps": "$1.15",
-    "marketCap": 4493815800,
+    "marketCap": 4424223700,
     "name": "BRP Inc.",
     "symbol": "DOO",
     "time": "tbd"
@@ -442,6 +442,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-03T22:58:08+00:00",
+ "updatedAt": "2026-11-04T12:12:56+00:00",
  "week": "2026-11-30"
 }

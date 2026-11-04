@@ -2,7 +2,7 @@
  "days": {
   "2026-12-14": [
    {
-    "eps": "$4.89",
+    "eps": "$4.87",
     "fq": "Oct/2026",
     "lastYearEps": "$4.58",
     "marketCap": 14130742300,
@@ -220,7 +220,7 @@
     "eps": "$1.30",
     "fq": "Nov/2026",
     "lastYearEps": "$1.26",
-    "marketCap": 41112183000,
+    "marketCap": 41169142000,
     "name": "Paychex, Inc.",
     "symbol": "PAYX",
     "time": "tbd"
@@ -229,7 +229,7 @@
     "eps": "$0.22",
     "fq": "Nov/2026",
     "lastYearEps": "$0.34",
-    "marketCap": 40405533000,
+    "marketCap": 39262618000,
     "name": "Carnival Corporation Ltd.",
     "symbol": "CCL",
     "time": "tbd"
@@ -238,7 +238,7 @@
     "eps": "$0.87",
     "fq": "Nov/2026",
     "lastYearEps": "$0.69",
-    "marketCap": 7795617800,
+    "marketCap": 7566902300,
     "name": "Lamb Weston Holdings, Inc.",
     "symbol": "LW",
     "time": "tbd"
@@ -247,13 +247,13 @@
     "eps": "$0.34",
     "fq": "Nov/2026",
     "lastYearEps": "$0.45",
-    "marketCap": 7060916200,
+    "marketCap": 6879499800,
     "name": "ConAgra Brands, Inc.",
     "symbol": "CAG",
     "time": "tbd"
    }
   ]
  },
- "updatedAt": "2026-11-03T22:58:37+00:00",
+ "updatedAt": "2026-11-04T12:13:21+00:00",
  "week": "2026-12-14"
 }
