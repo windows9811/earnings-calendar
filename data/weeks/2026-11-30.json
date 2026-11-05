@@ -9,7 +9,7 @@
     "marketCap": 250536378000,
     "name": "CrowdStrike Holdings, Inc.",
     "symbol": "CRWD",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$0.79",
@@ -18,15 +18,6 @@
     "marketCap": 150800499000,
     "name": "Marvell Technology, Inc.",
     "symbol": "MRVL",
-    "time": "tbd"
-   },
-   {
-    "eps": "$1.59",
-    "fq": "Oct/2026",
-    "lastYearEps": "$1.39",
-    "marketCap": 114893611000,
-    "name": "Bank of Nova Scotia (The)",
-    "symbol": "BNS",
     "time": "tbd"
    },
    {
@@ -57,6 +48,15 @@
     "time": "tbd"
    },
    {
+    "eps": "$0.96",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.82",
+    "marketCap": 8439441400,
+    "name": "HealthEquity, Inc.",
+    "symbol": "HQY",
+    "time": "amc"
+   },
+   {
     "eps": "$0.09",
     "fq": "Oct/2026",
     "lastYearEps": "$0.02",
@@ -64,15 +64,6 @@
     "name": "Box, Inc.",
     "symbol": "BOX",
     "time": "amc"
-   },
-   {
-    "eps": "$0.87",
-    "fq": "Oct/2026",
-    "lastYearEps": "$0.63",
-    "marketCap": 4555920400,
-    "name": "Signet Jewelers Limited",
-    "symbol": "SIG",
-    "time": "tbd"
    },
    {
     "eps": "$0.49",
@@ -442,6 +433,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-04T22:59:51+00:00",
+ "updatedAt": "2026-11-05T12:21:33+00:00",
  "week": "2026-11-30"
 }

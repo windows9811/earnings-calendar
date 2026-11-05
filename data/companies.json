@@ -888,6 +888,10 @@
   "logoSource": "wikidata",
   "website": "https://investor.arrow.com"
  },
+ "ARWR": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-12"
+ },
  "ARX": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-12"
@@ -1371,6 +1375,8 @@
  "BEKE": {
   "checkedAt": "2026-10-09T08:21:43+00:00",
   "label": "Beike",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-16",
   "logo": "BEKE.svg",
   "logoSource": "parqet",
   "website": "https://investors.ke.com"
@@ -2774,6 +2780,8 @@
  "CRWD": {
   "checkedAt": "2026-10-17T22:41:01+00:00",
   "label": "CrowdStrike",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-01",
   "logo": "CRWD.svg",
   "logoSource": "wikidata",
   "website": "https://www.crowdstrike.com"
@@ -2790,6 +2798,8 @@
  "CSCO": {
   "checkedAt": "2026-10-09T08:21:53+00:00",
   "label": "Cisco",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-12",
   "logo": "CSCO.svg",
   "logoSource": "wikidata",
   "website": "https://www.cisco.com"
@@ -5174,6 +5184,10 @@
   "logoSource": "wikidata",
   "website": "https://www.hp.com"
  },
+ "HQY": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-01"
+ },
  "HR": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-29"
@@ -5245,6 +5259,8 @@
  "HTHT": {
   "checkedAt": "2026-10-09T08:22:18+00:00",
   "label": "H World Group Limited",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-16",
   "logo": "HTHT.png",
   "logoSource": "parqet",
   "website": "https://www.hworld.com"
@@ -8485,6 +8501,10 @@
  "POWI": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
+ },
+ "POWL": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-16"
  },
  "PPC": {
   "lastTime": "amc",

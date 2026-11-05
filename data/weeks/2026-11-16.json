@@ -29,13 +29,22 @@
     "time": "bmo"
    },
    {
+    "eps": "$0.21",
+    "fq": "Sep/2026",
+    "lastYearEps": "$0.10",
+    "marketCap": 19885183000,
+    "name": "KE Holdings Inc",
+    "symbol": "BEKE",
+    "time": "bmo"
+   },
+   {
     "eps": "$0.75",
     "fq": "Sep/2026",
     "lastYearEps": "$0.63",
     "marketCap": 15040990200,
     "name": "H World Group Limited",
     "symbol": "HTHT",
-    "time": "tbd"
+    "time": "bmo"
    },
    {
     "eps": "$0.75",
@@ -72,6 +81,15 @@
     "name": "XP Inc.",
     "symbol": "XP",
     "time": "tbd"
+   },
+   {
+    "eps": "$1.52",
+    "fq": "Sep/2026",
+    "lastYearEps": "$1.41",
+    "marketCap": 5950895100,
+    "name": "Powell Industries, Inc.",
+    "symbol": "POWL",
+    "time": "amc"
    },
    {
     "eps": "",
@@ -731,6 +749,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-04T22:59:27+00:00",
+ "updatedAt": "2026-11-05T12:21:06+00:00",
  "week": "2026-11-16"
 }

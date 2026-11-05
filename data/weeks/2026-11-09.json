@@ -1106,6 +1106,15 @@
   ],
   "2026-11-12": [
    {
+    "eps": "$1.15",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.81",
+    "marketCap": 405968159000,
+    "name": "Cisco Systems, Inc.",
+    "symbol": "CSCO",
+    "time": "amc"
+   },
+   {
     "eps": "$4.06",
     "fq": "Oct/2026",
     "lastYearEps": "$2.17",
@@ -1140,15 +1149,6 @@
     "name": "Nebius Group N.V.",
     "symbol": "NBIS",
     "time": "bmo"
-   },
-   {
-    "eps": "$0.95",
-    "fq": "Sep/2026",
-    "lastYearEps": "$0.44",
-    "marketCap": 36167041000,
-    "name": "JD.com, Inc.",
-    "symbol": "JD",
-    "time": "tbd"
    },
    {
     "eps": "$0.26",
@@ -1202,6 +1202,15 @@
     "marketCap": 8733049900,
     "name": "Stantec Inc",
     "symbol": "STN",
+    "time": "amc"
+   },
+   {
+    "eps": "($1.59)",
+    "fq": "Sep/2026",
+    "lastYearEps": "($0.18)",
+    "marketCap": 8408878600,
+    "name": "Arrowhead Pharmaceuticals, Inc.",
+    "symbol": "ARWR",
     "time": "amc"
    },
    {
@@ -1477,15 +1486,6 @@
     "time": "tbd"
    },
    {
-    "eps": "$1.07",
-    "fq": "Sep/2026",
-    "lastYearEps": "$1.30",
-    "marketCap": 12658591700,
-    "name": "LATAM Airlines Group S.A.",
-    "symbol": "LTM",
-    "time": "tbd"
-   },
-   {
     "eps": "($0.86)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.57)",
@@ -1532,6 +1532,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-04T22:59:13+00:00",
+ "updatedAt": "2026-11-05T12:20:58+00:00",
  "week": "2026-11-09"
 }
