@@ -1423,6 +1423,8 @@
  "BF.A": {
   "checkedAt": "2026-10-17T22:41:08+00:00",
   "label": "",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-03",
   "logo": "BF-A.svg",
   "logoSource": "wikipedia",
   "website": ""
@@ -1430,6 +1432,8 @@
  "BF.B": {
   "checkedAt": "2026-10-17T22:41:09+00:00",
   "label": "Brown-Forman",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-03",
   "logo": "BF-B.svg",
   "logoSource": "wikipedia",
   "website": "http://www.brown-forman.com"
@@ -1656,6 +1660,8 @@
  "BNS": {
   "checkedAt": "2026-10-17T22:41:01+00:00",
   "label": "Scotiabank",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-02",
   "logo": "BNS.svg",
   "logoSource": "wikidata",
   "website": "https://www.scotiabank.com"
@@ -1766,6 +1772,10 @@
  "BRX": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-26"
+ },
+ "BRZE": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-08"
  },
  "BSAC": {
   "checkedAt": "2026-10-09T08:17:33+00:00",
@@ -2876,8 +2886,13 @@
   "lastTimeDate": "2026-11-11"
  },
  "CUBE": {
+  "checkedAt": "2026-11-05T22:59:40+00:00",
+  "label": "CubeSmart",
   "lastTime": "amc",
-  "lastTimeDate": "2026-10-29"
+  "lastTimeDate": "2026-10-29",
+  "logo": "CUBE.svg",
+  "logoSource": "wikipedia",
+  "website": "https://www.cubesmart.com"
  },
  "CUBI": {
   "lastTime": "amc",
@@ -3219,6 +3234,8 @@
  "DLTR": {
   "checkedAt": "2026-10-17T22:41:05+00:00",
   "label": "Dollar Tree",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-24",
   "logo": "DLTR.svg",
   "logoSource": "wikidata",
   "website": "https://www.dollartree.com"
@@ -3440,6 +3457,8 @@
  "ECHO": {
   "checkedAt": "2026-10-09T08:20:50+00:00",
   "label": "",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-06",
   "logo": "ECHO.svg",
   "logoSource": "wikidata",
   "website": "https://www.echostar.com"
@@ -4866,6 +4885,10 @@
   "logoSource": "parqet",
   "website": "https://www.globalstar.com"
  },
+ "GSHD": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
+ },
  "GSK": {
   "checkedAt": "2026-10-09T08:15:19+00:00",
   "label": "GSK",
@@ -5180,6 +5203,8 @@
  "HPQ": {
   "checkedAt": "2026-10-10T06:50:39+00:00",
   "label": "HP Inc.",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-24",
   "logo": "HPQ.svg",
   "logoSource": "wikidata",
   "website": "https://www.hp.com"
@@ -5203,6 +5228,8 @@
  "HRL": {
   "checkedAt": "2026-10-17T22:41:10+00:00",
   "label": "Hormel",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-03",
   "logo": "HRL.png",
   "logoSource": "wikidata",
   "website": "https://www.hormelfoods.com"
@@ -5822,6 +5849,8 @@
  "JD": {
   "checkedAt": "2026-10-09T08:22:08+00:00",
   "label": "JD.com",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-17",
   "logo": "JD.png",
   "logoSource": "wikipedia",
   "website": "https://www.jd.com"
@@ -7589,6 +7618,10 @@
   "logoSource": "wikipedia",
   "website": "https://www.northerntrust.com"
  },
+ "NTSK": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-02"
+ },
  "NU": {
   "checkedAt": "2026-10-09T08:22:08+00:00",
   "label": "Nu Holdings Ltd.",
@@ -7753,8 +7786,13 @@
   "lastTimeDate": "2026-11-04"
  },
  "OC": {
+  "checkedAt": "2026-11-05T22:59:42+00:00",
+  "label": "Owens Corning",
   "lastTime": "bmo",
-  "lastTimeDate": "2026-11-04"
+  "lastTimeDate": "2026-11-04",
+  "logo": "OC.jpg",
+  "logoSource": "wikidata",
+  "website": "https://www.owenscorning.com"
  },
  "OCTV": {
   "lastTime": "bmo",
@@ -8183,8 +8221,13 @@
   "website": "https://www.pgecorp.com"
  },
  "PCOR": {
+  "checkedAt": "2026-11-05T22:59:40+00:00",
+  "label": "Procore",
   "lastTime": "amc",
-  "lastTimeDate": "2026-11-03"
+  "lastTimeDate": "2026-11-03",
+  "logo": "PCOR.jpg",
+  "logoSource": "wikidata",
+  "website": "https://www.procore.com"
  },
  "PCTY": {
   "lastTime": "amc",
@@ -9462,6 +9505,10 @@
   "logoSource": "parqet",
   "website": "https://www.sherwin-williams.com"
  },
+ "SIG": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-02"
+ },
  "SIGI": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-22"
@@ -9749,6 +9796,10 @@
  "SOUN": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-05"
+ },
+ "SPB": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-12"
  },
  "SPCX": {
   "checkedAt": "2026-10-09T08:17:58+00:00",
@@ -10173,6 +10224,10 @@
  "TDS": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-06"
+ },
+ "TDW": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
  },
  "TDY": {
   "checkedAt": "2026-10-09T08:15:27+00:00",
@@ -11121,6 +11176,8 @@
  "VIK": {
   "checkedAt": "2026-10-09T08:22:31+00:00",
   "label": "",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-17",
   "logo": "VIK.png",
   "logoSource": "parqet",
   "website": "https://www.viking.com"
@@ -11766,6 +11823,10 @@
   "logo": "XPO.svg",
   "logoSource": "wikidata",
   "website": "https://www.xpo.com"
+ },
+ "XRAY": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-05"
  },
  "XYL": {
   "checkedAt": "2026-10-09T08:14:56+00:00",
