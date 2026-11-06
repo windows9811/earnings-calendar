@@ -1630,6 +1630,8 @@
  "BMO": {
   "checkedAt": "2026-10-17T22:41:06+00:00",
   "label": "Bank of Montreal",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-02",
   "logo": "BMO.svg",
   "logoSource": "wikidata",
   "website": "https://www.bmo.com"
@@ -3087,6 +3089,8 @@
  "DCI": {
   "checkedAt": "2026-10-17T22:41:12+00:00",
   "label": "Donaldson Company",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-02",
   "logo": "DCI.svg",
   "logoSource": "wikipedia",
   "website": "https://www.donaldson.com"
@@ -11985,6 +11989,8 @@
  "ZS": {
   "checkedAt": "2026-10-10T06:50:39+00:00",
   "label": "Zscaler",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-02",
   "logo": "ZS.svg",
   "logoSource": "wikipedia",
   "website": "https://www.zscaler.com"
