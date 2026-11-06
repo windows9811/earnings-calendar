@@ -45,7 +45,7 @@
     "eps": "$37.93",
     "fq": "Nov/2026",
     "lastYearEps": "$4.61",
-    "marketCap": 967479980000,
+    "marketCap": 899741710000,
     "name": "Micron Technology, Inc.",
     "symbol": "MU",
     "time": "tbd"
@@ -54,7 +54,7 @@
     "eps": "$3.64",
     "fq": "Nov/2026",
     "lastYearEps": "$2.30",
-    "marketCap": 27978164200,
+    "marketCap": 26625079300,
     "name": "Jabil Inc.",
     "symbol": "JBL",
     "time": "tbd"
@@ -63,7 +63,7 @@
     "eps": "$0.96",
     "fq": "Nov/2026",
     "lastYearEps": "$1.10",
-    "marketCap": 18222137300,
+    "marketCap": 19168534500,
     "name": "General Mills, Inc.",
     "symbol": "GIS",
     "time": "tbd"
@@ -72,7 +72,7 @@
     "eps": "$0.97",
     "fq": "Oct/2026",
     "lastYearEps": "$0.91",
-    "marketCap": 10153593900,
+    "marketCap": 10175366100,
     "name": "Toro Company (The)",
     "symbol": "TTC",
     "time": "tbd"
@@ -81,7 +81,7 @@
     "eps": "$1.24",
     "fq": "Oct/2026",
     "lastYearEps": "$0.88",
-    "marketCap": 3142914300,
+    "marketCap": 3207976700,
     "name": "ABM Industries Incorporated",
     "symbol": "ABM",
     "time": "tbd"
@@ -99,7 +99,7 @@
     "eps": "$0.99",
     "fq": "Nov/2026",
     "lastYearEps": "$0.38",
-    "marketCap": 2060469380,
+    "marketCap": 2073273600,
     "name": "Worthington Steel, Inc.",
     "symbol": "WS",
     "time": "tbd"
@@ -179,7 +179,7 @@
     "time": "tbd"
    },
    {
-    "eps": "$0.44",
+    "eps": "$0.42",
     "fq": "Nov/2026",
     "lastYearEps": "$0.51",
     "marketCap": 7826726400,
@@ -254,6 +254,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-05T22:59:37+00:00",
+ "updatedAt": "2026-11-06T12:19:01+00:00",
  "week": "2026-12-14"
 }

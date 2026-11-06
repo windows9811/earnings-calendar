@@ -20,7 +20,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$0.78",
+    "eps": "$0.74",
     "fq": "Sep/2026",
     "lastYearEps": "$0.58",
     "marketCap": 66043859000,
@@ -173,7 +173,7 @@
     "time": "amc"
    },
    {
-    "eps": "$0.25",
+    "eps": "$0.17",
     "fq": "Sep/2026",
     "lastYearEps": "$0.19",
     "marketCap": 13175775200,
@@ -319,15 +319,6 @@
    {
     "eps": "($0.73)",
     "fq": "Sep/2026",
-    "lastYearEps": "($0.65)",
-    "marketCap": 6202312700,
-    "name": "Belite Bio, Inc",
-    "symbol": "BLTE",
-    "time": "tbd"
-   },
-   {
-    "eps": "($0.73)",
-    "fq": "Sep/2026",
     "lastYearEps": "($0.73)",
     "marketCap": 6175925200,
     "name": "Immunovant, Inc.",
@@ -350,6 +341,15 @@
     "marketCap": 5492274700,
     "name": "Novanta Inc.",
     "symbol": "NOVT",
+    "time": "amc"
+   },
+   {
+    "eps": "($0.02)",
+    "fq": "Sep/2026",
+    "lastYearEps": "($0.03)",
+    "marketCap": 5355123200,
+    "name": "Nexgen Energy Ltd.",
+    "symbol": "NXE",
     "time": "amc"
    },
    {
@@ -569,15 +569,6 @@
     "time": "amc"
    },
    {
-    "eps": "($1.02)",
-    "fq": "Sep/2026",
-    "lastYearEps": "($1.01)",
-    "marketCap": 2350388990,
-    "name": "Celldex Therapeutics, Inc.",
-    "symbol": "CLDX",
-    "time": "tbd"
-   },
-   {
     "eps": "($0.55)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.09)",
@@ -643,7 +634,7 @@
   ],
   "2026-11-10": [
    {
-    "eps": "$1.23",
+    "eps": "$1.38",
     "fq": "Sep/2026",
     "lastYearEps": "$0.82",
     "marketCap": 126374027000,
@@ -742,6 +733,33 @@
     "time": "amc"
    },
    {
+    "eps": "$0.87",
+    "fq": "Sep/2026",
+    "lastYearEps": "$0.30",
+    "marketCap": 14187898900,
+    "name": "Embraer S.A.",
+    "symbol": "EMBJ",
+    "time": "tbd"
+   },
+   {
+    "eps": "($0.08)",
+    "fq": "Sep/2026",
+    "lastYearEps": "($0.07)",
+    "marketCap": 9464337400,
+    "name": "ImmunityBio, Inc.",
+    "symbol": "IBRX",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.25",
+    "fq": "Sep/2026",
+    "lastYearEps": "($0.22)",
+    "marketCap": 7407420900,
+    "name": "Silicon Laboratories, Inc.",
+    "symbol": "SLAB",
+    "time": "tbd"
+   },
+   {
     "eps": "($0.59)",
     "fq": "Sep/2026",
     "lastYearEps": "N/A",
@@ -776,6 +794,15 @@
     "name": "Alliance Laundry Holdings Inc.",
     "symbol": "ALH",
     "time": "bmo"
+   },
+   {
+    "eps": "$0.26",
+    "fq": "Sep/2026",
+    "lastYearEps": "$0.16",
+    "marketCap": 4483476500,
+    "name": "The Baldwin Insurance Group, Inc.",
+    "symbol": "BWIN",
+    "time": "tbd"
    },
    {
     "eps": "$0.01",
@@ -823,7 +850,16 @@
     "time": "tbd"
    },
    {
-    "eps": "($0.07)",
+    "eps": "($0.34)",
+    "fq": "Sep/2026",
+    "lastYearEps": "$0.13",
+    "marketCap": 3908388350,
+    "name": "Tango Therapeutics, Inc.",
+    "symbol": "TNGX",
+    "time": "tbd"
+   },
+   {
+    "eps": "($0.08)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.03)",
     "marketCap": 3741547780,
@@ -1030,15 +1066,6 @@
     "name": "Aya Gold & Silver Inc.",
     "symbol": "AYA",
     "time": "bmo"
-   },
-   {
-    "eps": "($0.48)",
-    "fq": "Sep/2026",
-    "lastYearEps": "($0.32)",
-    "marketCap": 3462043390,
-    "name": "Enliven Therapeutics, Inc.",
-    "symbol": "ELVN",
-    "time": "tbd"
    },
    {
     "eps": "$3.69",
@@ -1268,6 +1295,15 @@
     "time": "bmo"
    },
    {
+    "eps": "($0.73)",
+    "fq": "Sep/2026",
+    "lastYearEps": "($0.65)",
+    "marketCap": 6202312700,
+    "name": "Belite Bio, Inc",
+    "symbol": "BLTE",
+    "time": "amc"
+   },
+   {
     "eps": "$1",
     "fq": "Sep/2026",
     "lastYearEps": "($1.16)",
@@ -1466,7 +1502,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$0.92",
+    "eps": "$0.83",
     "fq": "Sep/2026",
     "lastYearEps": "$2.61",
     "marketCap": 2105706750,
@@ -1586,6 +1622,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-05T22:58:36+00:00",
+ "updatedAt": "2026-11-06T12:17:59+00:00",
  "week": "2026-11-09"
 }

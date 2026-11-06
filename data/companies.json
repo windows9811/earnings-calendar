@@ -1294,6 +1294,10 @@
   "logoSource": "wikidata",
   "website": "https://www.bbva.com"
  },
+ "BBWI": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-19"
+ },
  "BBY": {
   "checkedAt": "2026-10-10T06:50:40+00:00",
   "label": "Best Buy",
@@ -1611,6 +1615,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-18"
  },
+ "BLTE": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-12"
+ },
  "BLX": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-26"
@@ -1848,6 +1856,10 @@
   "logo": "BUD.svg",
   "logoSource": "parqet",
   "website": "https://www.ab-inbev.com"
+ },
+ "BULL": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-19"
  },
  "BURL": {
   "checkedAt": "2026-10-10T06:50:40+00:00",
@@ -2387,6 +2399,8 @@
  "CM": {
   "checkedAt": "2026-10-17T22:41:08+00:00",
   "label": "Canadian Imperial Bank of Commerce",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-03",
   "logo": "CM.svg",
   "logoSource": "parqet",
   "website": "https://www.cibc.com"
@@ -3034,6 +3048,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-28"
  },
+ "DAO": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-19"
+ },
  "DAR": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-28"
@@ -3127,6 +3145,8 @@
  "DG": {
   "checkedAt": "2026-10-17T22:41:07+00:00",
   "label": "Dollar General",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-03",
   "logo": "DG.png",
   "logoSource": "wikidata",
   "website": "https://www.dollargeneral.com"
@@ -4495,6 +4515,8 @@
  "FUTU": {
   "checkedAt": "2026-10-09T08:22:26+00:00",
   "label": "Futu Holdings",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-19",
   "logo": "FUTU.svg",
   "logoSource": "wikipedia",
   "website": "https://www.futuholdings.com"
@@ -6742,6 +6764,8 @@
  "MDB": {
   "checkedAt": "2026-10-24T22:43:54+00:00",
   "label": "MongoDB Inc.",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-01",
   "logo": "MDB.png",
   "logoSource": "wikipedia",
   "website": "https://www.mongodb.com"
@@ -6776,6 +6800,8 @@
  "MDT": {
   "checkedAt": "2026-10-09T08:22:26+00:00",
   "label": "Medtronic plc",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-24",
   "logo": "MDT.svg",
   "logoSource": "parqet",
   "website": "https://www.medtronic.com"
@@ -6940,6 +6966,10 @@
   "logo": "MLM.svg",
   "logoSource": "parqet",
   "website": "https://www.martinmarietta.com"
+ },
+ "MMED": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-24"
  },
  "MMM": {
   "checkedAt": "2026-10-09T08:13:05+00:00",
@@ -7580,6 +7610,8 @@
  "NTES": {
   "checkedAt": "2026-10-09T08:22:38+00:00",
   "label": "NetEase",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-19",
   "logo": "NTES.svg",
   "logoSource": "parqet",
   "website": "https://ir.netease.com"
@@ -7740,6 +7772,10 @@
   "logo": "NWSA.svg",
   "logoSource": "wikidata",
   "website": "https://www.newscorp.com"
+ },
+ "NXE": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
  },
  "NXPI": {
   "checkedAt": "2026-10-09T08:14:39+00:00",
@@ -10671,6 +10707,10 @@
  "TTAM": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
+ },
+ "TTAN": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-03"
  },
  "TTC": {
   "checkedAt": "2026-10-31T22:48:20+00:00",
