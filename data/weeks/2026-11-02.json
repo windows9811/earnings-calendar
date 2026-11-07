@@ -5,7 +5,7 @@
     "eps": "$1.98",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 5079142800000,
+    "marketCap": 5001541300000,
     "name": "Apple Inc.",
     "symbol": "AAPL",
     "time": "tbd"
@@ -14,7 +14,7 @@
     "eps": "$0.32",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 413710713000,
+    "marketCap": 373448016000,
     "name": "Palantir Technologies Inc.",
     "symbol": "PLTR",
     "time": "tbd"
@@ -23,7 +23,7 @@
     "eps": "$0.55",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 172347638000,
+    "marketCap": 163179135000,
     "name": "Williams Companies, Inc. (The)",
     "symbol": "WMB",
     "time": "tbd"
@@ -32,7 +32,7 @@
     "eps": "$4.36",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 139202331000,
+    "marketCap": 137544188000,
     "name": "Vertex Pharmaceuticals Incorporated",
     "symbol": "VRTX",
     "time": "tbd"
@@ -41,25 +41,16 @@
     "eps": "$2.86",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 109405897000,
+    "marketCap": 107451433000,
     "name": "Marriott International",
     "symbol": "MAR",
-    "time": "tbd"
-   },
-   {
-    "eps": "$3.82",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 56846225000,
-    "name": "Lumentum Holdings Inc.",
-    "symbol": "LITE",
     "time": "tbd"
    },
    {
     "eps": "$1.11",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 56318046000,
+    "marketCap": 56584323000,
     "name": "Realty Income Corporation",
     "symbol": "O",
     "time": "tbd"
@@ -68,7 +59,7 @@
     "eps": "$3.71",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 55036146000,
+    "marketCap": 52842738000,
     "name": "IDEXX Laboratories, Inc.",
     "symbol": "IDXX",
     "time": "tbd"
@@ -77,7 +68,7 @@
     "eps": "$1.71",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 53468856000,
+    "marketCap": 52704330000,
     "name": "Entergy Corporation",
     "symbol": "ETR",
     "time": "tbd"
@@ -86,16 +77,25 @@
     "eps": "$4.92",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 51210854000,
+    "marketCap": 50132959000,
     "name": "Diamondback Energy, Inc.",
     "symbol": "FANG",
+    "time": "tbd"
+   },
+   {
+    "eps": "$3.82",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 46229791000,
+    "name": "Lumentum Holdings Inc.",
+    "symbol": "LITE",
     "time": "tbd"
    },
    {
     "eps": "$0.52",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 40595505000,
+    "marketCap": 39004873000,
     "name": "Estee Lauder Companies, Inc. (The)",
     "symbol": "EL",
     "time": "tbd"
@@ -104,7 +104,7 @@
     "eps": "$1.21",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 36501299000,
+    "marketCap": 36441477000,
     "name": "Public Service Enterprise Group Incorporated",
     "symbol": "PEG",
     "time": "tbd"
@@ -113,25 +113,16 @@
     "eps": "$3.49",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 28297396200,
+    "marketCap": 28253407200,
     "name": "Ryanair Holdings plc",
     "symbol": "RYAAY",
-    "time": "tbd"
-   },
-   {
-    "eps": "$0.88",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 27732627500,
-    "name": "ON Semiconductor Corporation",
-    "symbol": "ON",
     "time": "tbd"
    },
    {
     "eps": "$2.12",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 25991403500,
+    "marketCap": 25303867400,
     "name": "Fox Corporation",
     "symbol": "FOX",
     "time": "tbd"
@@ -140,16 +131,25 @@
     "eps": "$1.99",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 25991403500,
+    "marketCap": 25303867400,
     "name": "Fox Corporation",
     "symbol": "FOXA",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.88",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 24528816100,
+    "name": "ON Semiconductor Corporation",
+    "symbol": "ON",
     "time": "tbd"
    },
    {
     "eps": "$0.55",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 24269221900,
+    "marketCap": 23911378900,
     "name": "Roku, Inc.",
     "symbol": "ROKU",
     "time": "tbd"
@@ -158,43 +158,34 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 22582491100,
+    "marketCap": 22473289700,
     "name": "Loews Corporation",
     "symbol": "L",
-    "time": "tbd"
-   },
-   {
-    "eps": "$0.13",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 21127999500,
-    "name": "Pershing Square Inc.",
-    "symbol": "PS",
     "time": "tbd"
    },
    {
     "eps": "$2.89",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 20738103300,
+    "marketCap": 20483491800,
     "name": "SBA Communications Corporation",
     "symbol": "SBAC",
     "time": "tbd"
    },
    {
-    "eps": "$0.98",
+    "eps": "$0.13",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 16819012600,
-    "name": "Tower Semiconductor Ltd.",
-    "symbol": "TSEM",
+    "marketCap": 20135999500,
+    "name": "Pershing Square Inc.",
+    "symbol": "PS",
     "time": "tbd"
    },
    {
     "eps": "$1.95",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 16807355400,
+    "marketCap": 16170690600,
     "name": "Neurocrine Biosciences, Inc.",
     "symbol": "NBIX",
     "time": "tbd"
@@ -203,106 +194,106 @@
     "eps": "$1.29",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 16704561200,
+    "marketCap": 15733365800,
     "name": "POSCO HOLDINGS INC.",
     "symbol": "PKX",
-    "time": "tbd"
-   },
-   {
-    "eps": "$1.22",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 15890367500,
-    "name": "Corebridge Financial Inc.",
-    "symbol": "CRBG",
-    "time": "tbd"
-   },
-   {
-    "eps": "$1.87",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 15322732500,
-    "name": "Equitable Holdings, Inc.",
-    "symbol": "EQH",
-    "time": "tbd"
-   },
-   {
-    "eps": "$0.27",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 15253705700,
-    "name": "Lattice Semiconductor Corporation",
-    "symbol": "LSCC",
-    "time": "tbd"
-   },
-   {
-    "eps": "($5.18)",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 15062602800,
-    "name": "Jazz Pharmaceuticals plc",
-    "symbol": "JAZZ",
     "time": "tbd"
    },
    {
     "eps": "$1.99",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 15050654700,
+    "marketCap": 15129272300,
     "name": "Check Point Software Technologies Ltd.",
     "symbol": "CHKP",
+    "time": "tbd"
+   },
+   {
+    "eps": "$1.22",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 15013414900,
+    "name": "Corebridge Financial Inc.",
+    "symbol": "CRBG",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.98",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 14805931000,
+    "name": "Tower Semiconductor Ltd.",
+    "symbol": "TSEM",
+    "time": "tbd"
+   },
+   {
+    "eps": "($5.18)",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 14591455200,
+    "name": "Jazz Pharmaceuticals plc",
+    "symbol": "JAZZ",
+    "time": "tbd"
+   },
+   {
+    "eps": "$1.87",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 14446289900,
+    "name": "Equitable Holdings, Inc.",
+    "symbol": "EQH",
     "time": "tbd"
    },
    {
     "eps": "$0.59",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 14748542000,
+    "marketCap": 14340422700,
     "name": "Viper Energy, Inc.",
     "symbol": "VNOM",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.27",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 13942384600,
+    "name": "Lattice Semiconductor Corporation",
+    "symbol": "LSCC",
     "time": "tbd"
    },
    {
     "eps": "$0.43",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 13908097000,
+    "marketCap": 13873620000,
     "name": "Healthpeak Properties, Inc.",
     "symbol": "DOC",
-    "time": "tbd"
-   },
-   {
-    "eps": "($0.32)",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 13791387600,
-    "name": "Tempus AI, Inc.",
-    "symbol": "TEM",
     "time": "tbd"
    },
    {
     "eps": "$1.16",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 12994903000,
+    "marketCap": 13021964300,
     "name": "CNA Financial Corporation",
     "symbol": "CNA",
     "time": "tbd"
    },
    {
-    "eps": "$3.88",
+    "eps": "($0.32)",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 12202531800,
-    "name": "Fabrinet",
-    "symbol": "FN",
+    "marketCap": 12846546900,
+    "name": "Tempus AI, Inc.",
+    "symbol": "TEM",
     "time": "tbd"
    },
    {
     "eps": "$0.97",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 12012976100,
+    "marketCap": 12078395400,
     "name": "Clorox Company (The)",
     "symbol": "CLX",
     "time": "tbd"
@@ -311,160 +302,160 @@
     "eps": "$0.64",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 11794599900,
+    "marketCap": 11728053200,
     "name": "UDR, Inc.",
     "symbol": "UDR",
-    "time": "tbd"
-   },
-   {
-    "eps": "$1.19",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 11132461100,
-    "name": "BWX Technologies, Inc.",
-    "symbol": "BWXT",
     "time": "tbd"
    },
    {
     "eps": "($0.30)",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 11065780200,
+    "marketCap": 10870148100,
     "name": "BioMarin Pharmaceutical Inc.",
     "symbol": "BMRN",
+    "time": "tbd"
+   },
+   {
+    "eps": "$1.19",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 10533232600,
+    "name": "BWX Technologies, Inc.",
+    "symbol": "BWXT",
+    "time": "tbd"
+   },
+   {
+    "eps": "$3.88",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 10464160800,
+    "name": "Fabrinet",
+    "symbol": "FN",
     "time": "tbd"
    },
    {
     "eps": "$2.47",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 9952305200,
+    "marketCap": 9564496900,
     "name": "Allison Transmission Holdings, Inc.",
     "symbol": "ALSN",
-    "time": "tbd"
-   },
-   {
-    "eps": "$0.27",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 9753534500,
-    "name": "Hinge Health, Inc.",
-    "symbol": "HNGE",
-    "time": "tbd"
-   },
-   {
-    "eps": "$2.61",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 9479096300,
-    "name": "Voya Financial, Inc.",
-    "symbol": "VOYA",
-    "time": "tbd"
-   },
-   {
-    "eps": "$1.62",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 9408140300,
-    "name": "Ryman Hospitality Properties, Inc.",
-    "symbol": "RHP",
     "time": "tbd"
    },
    {
     "eps": "$0.24",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 9330443300,
+    "marketCap": 9541441500,
     "name": "Janus Living, Inc.",
     "symbol": "JAN",
     "time": "tbd"
    },
    {
-    "eps": "$1.84",
+    "eps": "$0.27",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 9211268100,
-    "name": "Krystal Biotech, Inc.",
-    "symbol": "KRYS",
+    "marketCap": 9358938100,
+    "name": "Hinge Health, Inc.",
+    "symbol": "HNGE",
+    "time": "tbd"
+   },
+   {
+    "eps": "$1.62",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 9083887600,
+    "name": "Ryman Hospitality Properties, Inc.",
+    "symbol": "RHP",
     "time": "tbd"
    },
    {
     "eps": "$0.84",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 9148959700,
+    "marketCap": 8910053400,
     "name": "Match Group, Inc.",
     "symbol": "MTCH",
     "time": "tbd"
    },
    {
-    "eps": "$2.68",
+    "eps": "$1.84",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 8564369900,
-    "name": "Advanced Energy Industries, Inc.",
-    "symbol": "AEIS",
+    "marketCap": 8897450000,
+    "name": "Krystal Biotech, Inc.",
+    "symbol": "KRYS",
+    "time": "tbd"
+   },
+   {
+    "eps": "$2.61",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 8789077000,
+    "name": "Voya Financial, Inc.",
+    "symbol": "VOYA",
     "time": "tbd"
    },
    {
     "eps": "($0.15)",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 7668964900,
+    "marketCap": 7567607300,
     "name": "BBB Foods Inc.",
     "symbol": "TBBB",
+    "time": "tbd"
+   },
+   {
+    "eps": "$2.68",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 7515886600,
+    "name": "Advanced Energy Industries, Inc.",
+    "symbol": "AEIS",
     "time": "tbd"
    },
    {
     "eps": "($0.69)",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 7206197800,
+    "marketCap": 6827478000,
     "name": "Axsome Therapeutics, Inc.",
     "symbol": "AXSM",
-    "time": "tbd"
-   },
-   {
-    "eps": "$2.11",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 6841431600,
-    "name": "MSA Safety Incorporporated",
-    "symbol": "MSA",
     "time": "tbd"
    },
    {
     "eps": "$0.64",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 6786475000,
+    "marketCap": 6707932200,
     "name": "Vornado Realty Trust",
     "symbol": "VNO",
+    "time": "tbd"
+   },
+   {
+    "eps": "$2.11",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 6548282400,
+    "name": "MSA Safety Incorporporated",
+    "symbol": "MSA",
     "time": "tbd"
    },
    {
     "eps": "$0.03",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 6087224800,
+    "marketCap": 5696302100,
     "name": "Transocean Ltd.",
     "symbol": "RIG",
-    "time": "tbd"
-   },
-   {
-    "eps": "$1",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 5747802100,
-    "name": "Valaris Limited",
-    "symbol": "VAL",
     "time": "tbd"
    },
    {
     "eps": "$0.36",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 5712108500,
+    "marketCap": 5556271100,
     "name": "Waystar Holding Corp.",
     "symbol": "WAY",
     "time": "tbd"
@@ -473,16 +464,25 @@
     "eps": "$0.39",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 5524767200,
+    "marketCap": 5472374800,
     "name": "Sabra Health Care REIT, Inc.",
     "symbol": "SBRA",
+    "time": "tbd"
+   },
+   {
+    "eps": "$1",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 5369337300,
+    "name": "Valaris Limited",
+    "symbol": "VAL",
     "time": "tbd"
    },
    {
     "eps": "$1.52",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 5460199400,
+    "marketCap": 5250571800,
     "name": "Celanese Corporation",
     "symbol": "CE",
     "time": "tbd"
@@ -491,7 +491,7 @@
     "eps": "$2.27",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 5355713500,
+    "marketCap": 5244887000,
     "name": "Choice Hotels International, Inc.",
     "symbol": "CHH",
     "time": "tbd"
@@ -500,70 +500,70 @@
     "eps": "$0.48",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 5168115200,
+    "marketCap": 5144857600,
     "name": "ONE Gas, Inc.",
     "symbol": "OGS",
-    "time": "tbd"
-   },
-   {
-    "eps": "($0.25)",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 5031908900,
-    "name": "Travere Therapeutics, Inc.",
-    "symbol": "TVTX",
     "time": "tbd"
    },
    {
     "eps": "($1.06)",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 5022217200,
+    "marketCap": 4710359600,
     "name": "CRISPR Therapeutics AG",
     "symbol": "CRSP",
-    "time": "tbd"
-   },
-   {
-    "eps": "$0.46",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 5016879100,
-    "name": "Archrock, Inc.",
-    "symbol": "AROC",
     "time": "tbd"
    },
    {
     "eps": "$0.53",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 4955417100,
+    "marketCap": 4706167800,
     "name": "Crescent Energy Company",
     "symbol": "CRGY",
     "time": "tbd"
    },
    {
-    "eps": "$0.94",
+    "eps": "($0.25)",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 4267251200,
-    "name": "California Resources Corporation",
-    "symbol": "CRC",
+    "marketCap": 4691136500,
+    "name": "Travere Therapeutics, Inc.",
+    "symbol": "TVTX",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.46",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 4664417300,
+    "name": "Archrock, Inc.",
+    "symbol": "AROC",
     "time": "tbd"
    },
    {
     "eps": "$0.18",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 4223462400,
+    "marketCap": 4209590020,
     "name": "Paymentus Holdings, Inc.",
     "symbol": "PAY",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.94",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 4025375490,
+    "name": "California Resources Corporation",
+    "symbol": "CRC",
     "time": "tbd"
    },
    {
     "eps": "$1.55",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 3877488640,
+    "marketCap": 3767514620,
     "name": "Cabot Corporation",
     "symbol": "CBT",
     "time": "tbd"
@@ -572,7 +572,7 @@
     "eps": "$0.29",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 3644187390,
+    "marketCap": 3613524220,
     "name": "Independence Realty Trust, Inc.",
     "symbol": "IRT",
     "time": "tbd"
@@ -581,7 +581,7 @@
     "eps": "$2.29",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 3536426500,
+    "marketCap": 3494429950,
     "name": "Pampa Energia S.A.",
     "symbol": "PAM",
     "time": "tbd"
@@ -590,25 +590,16 @@
     "eps": "$1.57",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 3519231230,
+    "marketCap": 3358846460,
     "name": "Otter Tail Corporation",
     "symbol": "OTTR",
-    "time": "tbd"
-   },
-   {
-    "eps": "$1.05",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 3264275710,
-    "name": "Ero Copper Corp.",
-    "symbol": "ERO",
     "time": "tbd"
    },
    {
     "eps": "($0.23)",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 3151104510,
+    "marketCap": 3077561090,
     "name": "People Incorporated",
     "symbol": "PPLI",
     "time": "tbd"
@@ -617,25 +608,25 @@
     "eps": "$0.20",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 3088624900,
+    "marketCap": 3054566910,
     "name": "Black Stone Minerals, L.P.",
     "symbol": "BSM",
     "time": "tbd"
    },
    {
-    "eps": "($0.31)",
+    "eps": "$1.05",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 2966373120,
-    "name": "Cipher Digital Inc.",
-    "symbol": "CIFR",
+    "marketCap": 2971119360,
+    "name": "Ero Copper Corp.",
+    "symbol": "ERO",
     "time": "tbd"
    },
    {
     "eps": "$0.31",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 2744876290,
+    "marketCap": 2720010750,
     "name": "Acadia Realty Trust",
     "symbol": "AKR",
     "time": "tbd"
@@ -644,9 +635,18 @@
     "eps": "$1.11",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 2713920770,
+    "marketCap": 2566705150,
     "name": "Boise Cascade, L.L.C.",
     "symbol": "BCC",
+    "time": "tbd"
+   },
+   {
+    "eps": "($0.31)",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 2532826370,
+    "name": "Cipher Digital Inc.",
+    "symbol": "CIFR",
     "time": "tbd"
    },
    {
@@ -662,7 +662,7 @@
     "eps": "$1.54",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 2428812290,
+    "marketCap": 2320335360,
     "name": "V2X, Inc.",
     "symbol": "VVX",
     "time": "tbd"
@@ -671,7 +671,7 @@
     "eps": "($0.24)",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 2416305920,
+    "marketCap": 2179657470,
     "name": "Recursion Pharmaceuticals, Inc.",
     "symbol": "RXRX",
     "time": "tbd"
@@ -680,27 +680,9 @@
     "eps": "$0.10",
     "fq": "Sep/2026",
     "lastYearEps": "",
-    "marketCap": 2412855550,
+    "marketCap": 2120795780,
     "name": "Ethos Technologies Inc.",
     "symbol": "LIFE",
-    "time": "tbd"
-   },
-   {
-    "eps": "$0.21",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 2092005890,
-    "name": "Calix, Inc",
-    "symbol": "CALX",
-    "time": "tbd"
-   },
-   {
-    "eps": "$0.26",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 2075381120,
-    "name": "Chemours Company (The)",
-    "symbol": "CC",
     "time": "tbd"
    }
   ],
@@ -6240,43 +6222,43 @@
    {
     "eps": "$0.36",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.33",
+    "lastYearEps": "",
     "marketCap": 104905523000,
     "name": "Enbridge Inc",
     "symbol": "ENB",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "($1.10)",
     "fq": "Sep/2026",
-    "lastYearEps": "($0.51)",
+    "lastYearEps": "",
     "marketCap": 96399499000,
     "name": "Moderna, Inc.",
     "symbol": "MRNA",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.44",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.41",
+    "lastYearEps": "",
     "marketCap": 83872907000,
     "name": "Brookfield Asset Management",
     "symbol": "BAM",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "($1.03)",
     "fq": "Sep/2026",
-    "lastYearEps": "$3.24",
+    "lastYearEps": "",
     "marketCap": 49447870000,
     "name": "Humana Inc.",
     "symbol": "HUM",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.60",
+    "lastYearEps": "",
     "marketCap": 47048323000,
     "name": "Honda Motor Company, Ltd.",
     "symbol": "HMC",
@@ -6285,7 +6267,7 @@
    {
     "eps": "$2.94",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.75",
+    "lastYearEps": "",
     "marketCap": 37889855000,
     "name": "Vistra Corp.",
     "symbol": "VST",
@@ -6294,7 +6276,7 @@
    {
     "eps": "$3.82",
     "fq": "Sep/2026",
-    "lastYearEps": "$3.42",
+    "lastYearEps": "",
     "marketCap": 31109998600,
     "name": "Ubiquiti Inc.",
     "symbol": "UI",
@@ -6303,88 +6285,88 @@
    {
     "eps": "$0.53",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.48",
+    "lastYearEps": "",
     "marketCap": 27091613700,
     "name": "PPL Corporation",
     "symbol": "PPL",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "($0.42)",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.83",
+    "lastYearEps": "",
     "marketCap": 26164756500,
     "name": "EchoStar Corporation",
     "symbol": "ECHO",
     "time": "bmo"
    },
    {
-    "eps": "$0.89",
+    "eps": "$0.90",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.83",
+    "lastYearEps": "",
     "marketCap": 17312106500,
     "name": "Brookfield Infrastructure Partners LP",
     "symbol": "BIP",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.40",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.39",
+    "lastYearEps": "",
     "marketCap": 17307545600,
     "name": "Plains All American Pipeline, L.P.",
     "symbol": "PAA",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.78",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.67",
+    "lastYearEps": "",
     "marketCap": 16365157400,
     "name": "Franklin Templeton, Inc.",
     "symbol": "BEN",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.64",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.64",
+    "lastYearEps": "",
     "marketCap": 15741372400,
     "name": "Emera Incorporated",
     "symbol": "EMA",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.13",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.17",
+    "lastYearEps": "",
     "marketCap": 14951480300,
     "name": "TELUS Corporation",
     "symbol": "TU",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
-    "eps": "$10.21",
+    "eps": "$9.08",
     "fq": "Sep/2026",
-    "lastYearEps": "$8.34",
+    "lastYearEps": "",
     "marketCap": 14420722700,
     "name": "Charter Communications, Inc.",
     "symbol": "CHTR",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.20",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.19",
+    "lastYearEps": "",
     "marketCap": 11831045100,
     "name": "Elanco Animal Health Incorporated",
     "symbol": "ELAN",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.63",
+    "lastYearEps": "",
     "marketCap": 11301260300,
     "name": "Freedom Holding Corp.",
     "symbol": "FRHC",
@@ -6393,7 +6375,7 @@
    {
     "eps": "",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.59",
+    "lastYearEps": "",
     "marketCap": 8862654500,
     "name": "KT Corporation",
     "symbol": "KT",
@@ -6402,106 +6384,115 @@
    {
     "eps": "($1.18)",
     "fq": "Sep/2026",
-    "lastYearEps": "($0.37)",
+    "lastYearEps": "",
     "marketCap": 7654170100,
     "name": "MSG Knickerbockers Corp.",
     "symbol": "MSGK",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.88",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.67",
+    "lastYearEps": "",
     "marketCap": 6165527600,
     "name": "Essent Group Ltd.",
     "symbol": "ESNT",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.85",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.68",
+    "lastYearEps": "",
     "marketCap": 6015673300,
     "name": "Fluor Corporation",
     "symbol": "FLR",
-    "time": "bmo"
+    "time": "tbd"
+   },
+   {
+    "eps": "($0.86)",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 5743896100,
+    "name": "CG Oncology, Inc.",
+    "symbol": "CGON",
+    "time": "tbd"
    },
    {
     "eps": "$0.37",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.31",
+    "lastYearEps": "",
     "marketCap": 5222689800,
     "name": "Plains GP Holdings, L.P.",
     "symbol": "PAGP",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.95",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.14",
+    "lastYearEps": "",
     "marketCap": 5188002300,
     "name": "VEON Ltd.",
     "symbol": "VEON",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "($0.14)",
     "fq": "Sep/2026",
-    "lastYearEps": "($0.07)",
+    "lastYearEps": "",
     "marketCap": 5029604400,
     "name": "TeraWulf Inc.",
     "symbol": "WULF",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.28",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.36",
+    "lastYearEps": "",
     "marketCap": 4767776300,
     "name": "STARWOOD PROPERTY TRUST, INC.",
     "symbol": "STWD",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.10",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.09",
+    "lastYearEps": "",
     "marketCap": 4327032300,
     "name": "Algonquin Power & Utilities Corp.",
     "symbol": "AQN",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$7.59",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.52",
+    "lastYearEps": "",
     "marketCap": 3826398460,
     "name": "Delek US Holdings, Inc.",
     "symbol": "DK",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.21",
     "fq": "Sep/2026",
-    "lastYearEps": "($0.21)",
+    "lastYearEps": "",
     "marketCap": 3810388480,
     "name": "Calumet, Inc",
     "symbol": "CLMT",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.74",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.69",
+    "lastYearEps": "",
     "marketCap": 3766449410,
     "name": "Atmus Filtration Technologies Inc.",
     "symbol": "ATMU",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "",
     "fq": "Sep/2026",
-    "lastYearEps": "$23.46",
+    "lastYearEps": "",
     "marketCap": 3741557760,
     "name": "Biglari Holdings Inc.",
     "symbol": "BH",
@@ -6510,7 +6501,7 @@
    {
     "eps": "",
     "fq": "Sep/2026",
-    "lastYearEps": "$23.46",
+    "lastYearEps": "",
     "marketCap": 3741557760,
     "name": "Biglari Holdings Inc.",
     "symbol": "BH.A",
@@ -6519,95 +6510,140 @@
    {
     "eps": "$0.10",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.07",
+    "lastYearEps": "",
     "marketCap": 3724635900,
     "name": "Telephone and Data Systems, Inc.",
     "symbol": "TDS",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
-    "eps": "($0.28)",
+    "eps": "($0.29)",
     "fq": "Sep/2026",
-    "lastYearEps": "($0.20)",
+    "lastYearEps": "",
     "marketCap": 3571538940,
     "name": "Oklo Inc.",
     "symbol": "OKLO",
-    "time": "bmo"
+    "time": "tbd"
+   },
+   {
+    "eps": "",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 3251618820,
+    "name": "National HealthCare Corporation",
+    "symbol": "NHC",
+    "time": "tbd"
    },
    {
     "eps": "$0.36",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.33",
+    "lastYearEps": "",
     "marketCap": 3004952580,
     "name": "Kyivstar Group Ltd.",
     "symbol": "KYIV",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.38",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.85",
+    "lastYearEps": "",
     "marketCap": 2961533700,
     "name": "Delek Logistics Partners, L.P.",
     "symbol": "DKL",
-    "time": "bmo"
+    "time": "tbd"
+   },
+   {
+    "eps": "",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 2933799940,
+    "name": "Tootsie Roll Industries, Inc.",
+    "symbol": "TR",
+    "time": "tbd"
+   },
+   {
+    "eps": "",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 2717645820,
+    "name": "MSG Rangers Corp.",
+    "symbol": "MSGR",
+    "time": "tbd"
    },
    {
     "eps": "$0.07",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.97",
+    "lastYearEps": "",
     "marketCap": 2713505020,
     "name": "Array Digital Infrastructure, Inc.",
     "symbol": "AD",
-    "time": "bmo"
+    "time": "tbd"
+   },
+   {
+    "eps": "$3.44",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 2621747460,
+    "name": "Strive, Inc.",
+    "symbol": "ASST",
+    "time": "tbd"
    },
    {
     "eps": "($0.02)",
     "fq": "Sep/2026",
-    "lastYearEps": "($0.20)",
+    "lastYearEps": "",
     "marketCap": 2581614590,
     "name": "Brookdale Senior Living Inc.",
     "symbol": "BKD",
-    "time": "bmo"
+    "time": "tbd"
+   },
+   {
+    "eps": "",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 2392568580,
+    "name": "Under Armour, Inc.",
+    "symbol": "UA",
+    "time": "tbd"
    },
    {
     "eps": "($0.01)",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.04",
+    "lastYearEps": "",
     "marketCap": 2392568580,
     "name": "Under Armour, Inc.",
     "symbol": "UAA",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.19",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.17",
+    "lastYearEps": "",
     "marketCap": 2296407550,
     "name": "Sunstone Hotel Investors, Inc.",
     "symbol": "SHO",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.61",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.61",
+    "lastYearEps": "",
     "marketCap": 2186013440,
     "name": "Interface, Inc.",
     "symbol": "TILE",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
-    "eps": "$0.23",
+    "eps": "$0.24",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.23",
+    "lastYearEps": "",
     "marketCap": 2054340740,
     "name": "Utz Brands Inc",
     "symbol": "UTZ",
-    "time": "bmo"
+    "time": "tbd"
    }
   ]
  },
- "updatedAt": "2026-11-06T22:53:48+00:00",
+ "updatedAt": "2026-11-07T22:49:37+00:00",
  "week": "2026-11-02"
 }

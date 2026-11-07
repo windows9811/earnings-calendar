@@ -1489,7 +1489,7 @@
     "eps": "$0.45",
     "fq": "Sep/2026",
     "lastYearEps": "$0.44",
-    "marketCap": 260733616000,
+    "marketCap": 250883408000,
     "name": "Mitsubishi UFJ Financial Group Inc",
     "symbol": "MUFG",
     "time": "tbd"
@@ -1498,7 +1498,7 @@
     "eps": "$0.24",
     "fq": "Sep/2026",
     "lastYearEps": "$0.59",
-    "marketCap": 157186343000,
+    "marketCap": 149847146000,
     "name": "Sumitomo Mitsui Financial Group Inc",
     "symbol": "SMFG",
     "time": "tbd"
@@ -1507,7 +1507,7 @@
     "eps": "$0.21",
     "fq": "Sep/2026",
     "lastYearEps": "$0.20",
-    "marketCap": 122002579000,
+    "marketCap": 116898390000,
     "name": "Mizuho Financial Group, Inc.",
     "symbol": "MFG",
     "time": "tbd"
@@ -1516,7 +1516,7 @@
     "eps": "$3.94",
     "fq": "Sep/2026",
     "lastYearEps": "$3.21",
-    "marketCap": 40781996000,
+    "marketCap": 39671824000,
     "name": "KB Financial Group Inc",
     "symbol": "KB",
     "time": "tbd"
@@ -1525,7 +1525,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$3.57",
-    "marketCap": 16904339500,
+    "marketCap": 16842940400,
     "name": "Woori Bank",
     "symbol": "WF",
     "time": "tbd"
@@ -1534,7 +1534,7 @@
     "eps": "($0.86)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.57)",
-    "marketCap": 6001839600,
+    "marketCap": 5743896100,
     "name": "CG Oncology, Inc.",
     "symbol": "CGON",
     "time": "tbd"
@@ -1552,7 +1552,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "($0.16)",
-    "marketCap": 3278630140,
+    "marketCap": 3003067650,
     "name": "Twenty One Capital, Inc.",
     "symbol": "XXI",
     "time": "tbd"
@@ -1561,7 +1561,7 @@
     "eps": "$0.23",
     "fq": "Sep/2026",
     "lastYearEps": "($0.01)",
-    "marketCap": 2649999870,
+    "marketCap": 2489999870,
     "name": "LG Display Co., Ltd.",
     "symbol": "LPL",
     "time": "tbd"
@@ -1570,22 +1570,13 @@
     "eps": "($0.49)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.24)",
-    "marketCap": 2044720640,
+    "marketCap": 2097990270,
     "name": "Perpetua Resources Corp.",
     "symbol": "PPTA",
-    "time": "tbd"
-   },
-   {
-    "eps": "",
-    "fq": "Sep/2026",
-    "lastYearEps": "$0.02",
-    "marketCap": 2004497540,
-    "name": "RLX Technology Inc.",
-    "symbol": "RLX",
     "time": "tbd"
    }
   ]
  },
- "updatedAt": "2026-11-06T22:54:02+00:00",
+ "updatedAt": "2026-11-07T22:49:47+00:00",
  "week": "2026-11-09"
 }
