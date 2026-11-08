@@ -11287,12 +11287,12 @@
   "lastTimeDate": "2026-10-20"
  },
  "VMRK": {
-  "checkedAt": "2026-10-09T08:14:46+00:00",
+  "checkedAt": "2026-11-08T22:51:07+00:00",
   "label": "Vivmark Residential",
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04",
-  "logo": null,
-  "logoSource": null,
+  "logo": "VMRK.svg",
+  "logoSource": "wikidata",
   "website": "https://www.equityapartments.com"
  },
  "VNO": {
@@ -11430,7 +11430,7 @@
   "lastTimeDate": "2026-11-02"
  },
  "VYLR": {
-  "checkedAt": "2026-10-09T08:21:54+00:00",
+  "checkedAt": "2026-11-08T22:51:08+00:00",
   "label": "",
   "lastTime": "amc",
   "lastTimeDate": "2026-11-11",
