@@ -18,7 +18,7 @@
     "marketCap": 117109998000,
     "name": "Marvell Technology, Inc.",
     "symbol": "MRVL",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$2.13",
@@ -107,7 +107,7 @@
     "eps": "$2.41",
     "fq": "Oct/2026",
     "lastYearEps": "$2.66",
-    "marketCap": 183043424000,
+    "marketCap": 175833956000,
     "name": "Salesforce, Inc.",
     "symbol": "CRM",
     "time": "tbd"
@@ -116,7 +116,7 @@
     "eps": "$2.76",
     "fq": "Oct/2026",
     "lastYearEps": "$2.36",
-    "marketCap": 119849050000,
+    "marketCap": 118878700000,
     "name": "Bank Of Montreal",
     "symbol": "BMO",
     "time": "bmo"
@@ -125,7 +125,7 @@
     "eps": "$1.59",
     "fq": "Oct/2026",
     "lastYearEps": "$1.39",
-    "marketCap": 112518636000,
+    "marketCap": 112580076000,
     "name": "Bank of Nova Scotia (The)",
     "symbol": "BNS",
     "time": "bmo"
@@ -134,7 +134,7 @@
     "eps": "($0.32)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.84)",
-    "marketCap": 95093711000,
+    "marketCap": 97330463000,
     "name": "Snowflake Inc.",
     "symbol": "SNOW",
     "time": "amc"
@@ -143,7 +143,7 @@
     "eps": "$0.12",
     "fq": "Oct/2026",
     "lastYearEps": "($0.01)",
-    "marketCap": 33243592700,
+    "marketCap": 32229392400,
     "name": "Zscaler, Inc.",
     "symbol": "ZS",
     "time": "amc"
@@ -152,7 +152,7 @@
     "eps": "$0.36",
     "fq": "Oct/2026",
     "lastYearEps": "$0.38",
-    "marketCap": 13828330500,
+    "marketCap": 13337501700,
     "name": "Guidewire Software, Inc.",
     "symbol": "GWRE",
     "time": "tbd"
@@ -161,7 +161,7 @@
     "eps": "$1.12",
     "fq": "Oct/2026",
     "lastYearEps": "$0.68",
-    "marketCap": 13282336800,
+    "marketCap": 13229485100,
     "name": "Five Below, Inc.",
     "symbol": "FIVE",
     "time": "tbd"
@@ -170,7 +170,7 @@
     "eps": "$0.97",
     "fq": "Oct/2026",
     "lastYearEps": "$0.94",
-    "marketCap": 9651836900,
+    "marketCap": 9774701600,
     "name": "Donaldson Company, Inc.",
     "symbol": "DCI",
     "time": "bmo"
@@ -179,7 +179,7 @@
     "eps": "($0.21)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.10)",
-    "marketCap": 8854096900,
+    "marketCap": 8702918700,
     "name": "Netskope, Inc.",
     "symbol": "NTSK",
     "time": "amc"
@@ -188,25 +188,16 @@
     "eps": "$0.61",
     "fq": "Oct/2026",
     "lastYearEps": "$0.50",
-    "marketCap": 8105720800,
+    "marketCap": 8040327700,
     "name": "The Descartes Systems Group Inc.",
     "symbol": "DSGX",
     "time": "amc"
    },
    {
-    "eps": "$0.10",
-    "fq": "Oct/2026",
-    "lastYearEps": "$0.03",
-    "marketCap": 6780231700,
-    "name": "UiPath, Inc.",
-    "symbol": "PATH",
-    "time": "tbd"
-   },
-   {
     "eps": "($0.19)",
     "fq": "Oct/2026",
     "lastYearEps": "$0.09",
-    "marketCap": 6317862900,
+    "marketCap": 6027956700,
     "name": "Macy's Inc",
     "symbol": "M",
     "time": "tbd"
@@ -215,7 +206,7 @@
     "eps": "$0.87",
     "fq": "Oct/2026",
     "lastYearEps": "$0.63",
-    "marketCap": 4671638000,
+    "marketCap": 4493080100,
     "name": "Signet Jewelers Limited",
     "symbol": "SIG",
     "time": "bmo"
@@ -224,7 +215,7 @@
     "eps": "$0.17",
     "fq": "Oct/2026",
     "lastYearEps": "$0.41",
-    "marketCap": 4262899200,
+    "marketCap": 4182125310,
     "name": "Thor Industries, Inc.",
     "symbol": "THO",
     "time": "tbd"
@@ -233,7 +224,7 @@
     "eps": "$2.63",
     "fq": "Oct/2026",
     "lastYearEps": "$2.83",
-    "marketCap": 4257599230,
+    "marketCap": 4150098180,
     "name": "PVH Corp.",
     "symbol": "PVH",
     "time": "tbd"
@@ -242,7 +233,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$0.45",
-    "marketCap": 3014470660,
+    "marketCap": 2993106430,
     "name": "Kenon Holdings Ltd.",
     "symbol": "KEN",
     "time": "tbd"
@@ -251,7 +242,7 @@
     "eps": "$0.16",
     "fq": "Oct/2026",
     "lastYearEps": "$0.17",
-    "marketCap": 2454136580,
+    "marketCap": 2397039100,
     "name": "nCino, Inc.",
     "symbol": "NCNO",
     "time": "tbd"
@@ -292,7 +283,7 @@
     "marketCap": 41004573000,
     "name": "Kroger Company (The)",
     "symbol": "KR",
-    "time": "tbd"
+    "time": "bmo"
    },
    {
     "eps": "$1.40",
@@ -373,7 +364,7 @@
     "marketCap": 12076763100,
     "name": "The Cooper Companies, Inc.",
     "symbol": "COO",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "($0.20)",
@@ -392,6 +383,15 @@
     "name": "SentinelOne, Inc.",
     "symbol": "S",
     "time": "tbd"
+   },
+   {
+    "eps": "$0.10",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.03",
+    "marketCap": 6780231700,
+    "name": "UiPath, Inc.",
+    "symbol": "PATH",
+    "time": "amc"
    },
    {
     "eps": "$2.33",
@@ -453,13 +453,13 @@
     "eps": "$0.02",
     "fq": "Oct/2026",
     "lastYearEps": "($0.27)",
-    "marketCap": 8479714800,
+    "marketCap": 8618504200,
     "name": "Victorias Secret & Co.",
     "symbol": "VSXY",
     "time": "tbd"
    }
   ]
  },
- "updatedAt": "2026-11-08T22:50:25+00:00",
+ "updatedAt": "2026-11-09T12:24:37+00:00",
  "week": "2026-11-30"
 }

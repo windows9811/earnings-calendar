@@ -5,7 +5,7 @@
     "eps": "$1.03",
     "fq": "Oct/2026",
     "lastYearEps": "$0.44",
-    "marketCap": 21112639500,
+    "marketCap": 22650085400,
     "name": "Credo Technology Group Holding Ltd",
     "symbol": "CRDO",
     "time": "tbd"
@@ -14,7 +14,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$0.18",
-    "marketCap": 4999992800,
+    "marketCap": 5016052700,
     "name": "Hafnia Limited",
     "symbol": "HAFN",
     "time": "tbd"
@@ -126,7 +126,7 @@
     "eps": "$1.56",
     "fq": "Nov/2026",
     "lastYearEps": "$1.95",
-    "marketCap": 348213445000,
+    "marketCap": 351055741000,
     "name": "Oracle Corporation",
     "symbol": "ORCL",
     "time": "tbd"
@@ -135,25 +135,16 @@
     "eps": "$5.11",
     "fq": "Nov/2026",
     "lastYearEps": "$4.55",
-    "marketCap": 95914451000,
+    "marketCap": 93135561000,
     "name": "Adobe Inc.",
     "symbol": "ADBE",
-    "time": "tbd"
-   },
-   {
-    "eps": "$3.09",
-    "fq": "Oct/2026",
-    "lastYearEps": "$1.90",
-    "marketCap": 84379533000,
-    "name": "Synopsys, Inc.",
-    "symbol": "SNPS",
     "time": "tbd"
    },
    {
     "eps": "$3.46",
     "fq": "Oct/2026",
     "lastYearEps": "$3.03",
-    "marketCap": 17294096400,
+    "marketCap": 17259006000,
     "name": "Nordson Corporation",
     "symbol": "NDSN",
     "time": "tbd"
@@ -162,7 +153,7 @@
     "eps": "$0.20",
     "fq": "Oct/2026",
     "lastYearEps": "$0.14",
-    "marketCap": 9244326900,
+    "marketCap": 9067479000,
     "name": "Chewy, Inc.",
     "symbol": "CHWY",
     "time": "tbd"
@@ -171,7 +162,7 @@
     "eps": "($5.42)",
     "fq": "Oct/2026",
     "lastYearEps": "($5.20)",
-    "marketCap": 5662660600,
+    "marketCap": 5664446500,
     "name": "Vail Resorts, Inc.",
     "symbol": "MTN",
     "time": "tbd"
@@ -180,7 +171,7 @@
     "eps": "($0.08)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.19)",
-    "marketCap": 4136951550,
+    "marketCap": 4566292500,
     "name": "Planet Labs PBC",
     "symbol": "PL",
     "time": "tbd"
@@ -189,7 +180,7 @@
     "eps": "($0.09)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.02)",
-    "marketCap": 3211388670,
+    "marketCap": 3429445890,
     "name": "Uranium Energy Corp.",
     "symbol": "UEC",
     "time": "tbd"
@@ -262,6 +253,6 @@
   ],
   "2026-12-11": []
  },
- "updatedAt": "2026-11-08T22:50:40+00:00",
+ "updatedAt": "2026-11-09T12:24:51+00:00",
  "week": "2026-12-07"
 }

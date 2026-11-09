@@ -877,7 +877,7 @@
     "time": "amc"
    },
    {
-    "eps": "$0.75",
+    "eps": "$0.70",
     "fq": "Sep/2026",
     "lastYearEps": "$0.41",
     "marketCap": 2274319360,
@@ -942,12 +942,12 @@
     "time": "bmo"
    },
    {
-    "eps": "$1.13",
+    "eps": "$0.40",
     "fq": "Sep/2026",
-    "lastYearEps": "($1.17)",
-    "marketCap": 16698324000,
-    "name": "Ascendis Pharma A/S",
-    "symbol": "ASND",
+    "lastYearEps": "$0.36",
+    "marketCap": 11394413600,
+    "name": "Bio-Techne Corp",
+    "symbol": "TECH",
     "time": "tbd"
    },
    {
@@ -1048,15 +1048,6 @@
     "name": "Okeanis Eco Tankers Corp.",
     "symbol": "ECO",
     "time": "amc"
-   },
-   {
-    "eps": "",
-    "fq": "Sep/2026",
-    "lastYearEps": "$0.48",
-    "marketCap": 2933799940,
-    "name": "Tootsie Roll Industries, Inc.",
-    "symbol": "TR",
-    "time": "tbd"
    },
    {
     "eps": "$3.45",
@@ -1166,7 +1157,7 @@
     "marketCap": 57005609000,
     "name": "Nu Holdings Ltd.",
     "symbol": "NU",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "($0.61)",
@@ -1178,15 +1169,6 @@
     "time": "bmo"
    },
    {
-    "eps": "$0.26",
-    "fq": "Sep/2026",
-    "lastYearEps": "N/A",
-    "marketCap": 31314071600,
-    "name": "Bending Spoons S.p.A.",
-    "symbol": "BSP",
-    "time": "tbd"
-   },
-   {
     "eps": "($0.13)",
     "fq": "Sep/2026",
     "lastYearEps": "N/A",
@@ -1194,6 +1176,15 @@
     "name": "Cerebras Systems Inc.",
     "symbol": "CBRS",
     "time": "amc"
+   },
+   {
+    "eps": "$1.13",
+    "fq": "Sep/2026",
+    "lastYearEps": "($1.17)",
+    "marketCap": 16698324000,
+    "name": "Ascendis Pharma A/S",
+    "symbol": "ASND",
+    "time": "bmo"
    },
    {
     "eps": "",
@@ -1418,7 +1409,7 @@
     "marketCap": 3232495620,
     "name": "Enhanced Group Inc.",
     "symbol": "ENHA",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$0.12",
@@ -1466,13 +1457,13 @@
     "time": "bmo"
    },
    {
-    "eps": "$1.13",
+    "eps": "$0.09",
     "fq": "Sep/2026",
-    "lastYearEps": "$1.22",
-    "marketCap": 2126161280,
-    "name": "Globant S.A.",
-    "symbol": "GLOB",
-    "time": "tbd"
+    "lastYearEps": "N/A",
+    "marketCap": 2351234300,
+    "name": "Accelevation Holdings Corp.",
+    "symbol": "ACCV",
+    "time": "amc"
    },
    {
     "eps": "$0.83",
@@ -1531,15 +1522,6 @@
     "time": "tbd"
    },
    {
-    "eps": "($0.86)",
-    "fq": "Sep/2026",
-    "lastYearEps": "($0.57)",
-    "marketCap": 5743896100,
-    "name": "CG Oncology, Inc.",
-    "symbol": "CGON",
-    "time": "tbd"
-   },
-   {
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$0.05",
@@ -1555,7 +1537,7 @@
     "marketCap": 3003067650,
     "name": "Twenty One Capital, Inc.",
     "symbol": "XXI",
-    "time": "tbd"
+    "time": "bmo"
    },
    {
     "eps": "$0.23",
@@ -1577,6 +1559,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-08T22:49:47+00:00",
+ "updatedAt": "2026-11-09T12:23:58+00:00",
  "week": "2026-11-09"
 }

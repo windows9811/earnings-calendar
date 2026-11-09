@@ -117,6 +117,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
  },
+ "ACCV": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-12"
+ },
  "ACGL": {
   "checkedAt": "2026-10-09T08:14:50+00:00",
   "label": "Arch Capital Group",
@@ -549,6 +553,10 @@
   "logoSource": "parqet",
   "website": "https://www.appliedmaterials.com"
  },
+ "AMBA": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-24"
+ },
  "AMBP": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-22"
@@ -938,6 +946,8 @@
  "ASND": {
   "checkedAt": "2026-10-09T08:22:01+00:00",
   "label": "",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-12",
   "logo": "ASND.svg",
   "logoSource": "parqet",
   "website": "https://www.ascendispharma.com"
@@ -1181,6 +1191,8 @@
  "BABA": {
   "checkedAt": "2026-10-10T06:50:36+00:00",
   "label": "Alibaba Group",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-19",
   "logo": "BABA.svg",
   "logoSource": "wikidata",
   "website": "https://www.alibabagroup.com"
@@ -1552,6 +1564,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-06"
  },
+ "BKE": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-20"
+ },
  "BKH": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
@@ -1803,6 +1819,8 @@
  "BSP": {
   "checkedAt": "2026-10-09T08:22:11+00:00",
   "label": "",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-20",
   "logo": "BSP.png",
   "logoSource": "wikidata",
   "website": "https://www.bendingspoons.com/"
@@ -2609,6 +2627,8 @@
  "COO": {
   "checkedAt": "2026-10-17T22:41:11+00:00",
   "label": "The Cooper Companies",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-03",
   "logo": "COO.png",
   "logoSource": "wikidata",
   "website": "https://www.coopercos.com"
@@ -3678,6 +3698,10 @@
   "logoSource": "parqet",
   "website": "https://www.enbridge.com"
  },
+ "ENHA": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-12"
+ },
  "ENLT": {
   "checkedAt": "2026-10-22T12:01:20+00:00",
   "label": "",
@@ -3874,6 +3898,8 @@
  "ESTC": {
   "checkedAt": "2026-10-09T12:42:23+00:00",
   "label": "Elastic",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-19",
   "logo": "ESTC.svg",
   "logoSource": "wikipedia",
   "website": "https://www.elastic.co"
@@ -4736,6 +4762,10 @@
  "GLNG": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-18"
+ },
+ "GLOB": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-19"
  },
  "GLPI": {
   "checkedAt": "2026-10-09T08:17:13+00:00",
@@ -5929,6 +5959,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-28"
  },
+ "JOYY": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-18"
+ },
  "JPM": {
   "checkedAt": "2026-10-09T08:12:46+00:00",
   "label": "JPMorgan Chase",
@@ -6136,6 +6170,8 @@
  "KR": {
   "checkedAt": "2026-10-17T22:41:07+00:00",
   "label": "Kroger",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-03",
   "logo": "KR.svg",
   "logoSource": "wikidata",
   "website": "https://www.thekrogerco.com"
@@ -7139,6 +7175,8 @@
  "MRVL": {
   "checkedAt": "2026-10-17T22:41:00+00:00",
   "label": "Marvell Technology",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-01",
   "logo": "MRVL.svg",
   "logoSource": "wikidata",
   "website": "https://www.marvell.com"
@@ -7623,6 +7661,8 @@
  "NTNX": {
   "checkedAt": "2026-10-10T06:50:39+00:00",
   "label": "Nutanix",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-24",
   "logo": "NTNX.png",
   "logoSource": "wikidata",
   "website": "https://www.nutanix.com"
@@ -7661,6 +7701,8 @@
  "NU": {
   "checkedAt": "2026-10-09T08:22:08+00:00",
   "label": "Nu Holdings Ltd.",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-12",
   "logo": "NU.svg",
   "logoSource": "wikipedia",
   "website": "https://www.nubank.com.br"
@@ -8156,6 +8198,10 @@
  "PARR": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-03"
+ },
+ "PATH": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-03"
  },
  "PATK": {
   "lastTime": "bmo",
@@ -9171,6 +9217,8 @@
  "ROST": {
   "checkedAt": "2026-10-09T08:22:32+00:00",
   "label": "Ross Dress for Less",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-19",
   "logo": "ROST.svg",
   "logoSource": "wikidata",
   "website": "https://www.rossstores.com"
@@ -11871,6 +11919,10 @@
  "XRAY": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-05"
+ },
+ "XXI": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-13"
  },
  "XYL": {
   "checkedAt": "2026-10-09T08:14:56+00:00",

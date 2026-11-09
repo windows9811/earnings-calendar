@@ -112,15 +112,6 @@
   ],
   "2026-11-24": [
    {
-    "eps": "$1.31",
-    "fq": "Sep/2026",
-    "lastYearEps": "$0.44",
-    "marketCap": 261798068000,
-    "name": "Alibaba Group Holding Limited",
-    "symbol": "BABA",
-    "time": "tbd"
-   },
-   {
     "eps": "$6.41",
     "fq": "Oct/2026",
     "lastYearEps": "$2.35",
@@ -199,7 +190,7 @@
     "marketCap": 15968475100,
     "name": "Nutanix, Inc.",
     "symbol": "NTNX",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$1.71",
@@ -307,7 +298,7 @@
     "marketCap": 2435257340,
     "name": "Ambarella, Inc.",
     "symbol": "AMBA",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$0.41",
@@ -324,7 +315,7 @@
     "eps": "$4.07",
     "fq": "Oct/2026",
     "lastYearEps": "$3.93",
-    "marketCap": 178845237000,
+    "marketCap": 181093908000,
     "name": "Deere & Company",
     "symbol": "DE",
     "time": "bmo"
@@ -333,7 +324,7 @@
     "eps": "($0.08)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.09)",
-    "marketCap": 11649112100,
+    "marketCap": 12245249000,
     "name": "Li Auto Inc.",
     "symbol": "LI",
     "time": "tbd"
@@ -342,7 +333,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$0.07",
-    "marketCap": 4781997600,
+    "marketCap": 4825523200,
     "name": "CMB.TECH NV",
     "symbol": "CMBT",
     "time": "tbd"
@@ -351,7 +342,7 @@
     "eps": "$1.94",
     "fq": "Sep/2026",
     "lastYearEps": "($0.39)",
-    "marketCap": 3707561730,
+    "marketCap": 3692856830,
     "name": "Macro Bank Inc.",
     "symbol": "BMA",
     "time": "tbd"
@@ -363,13 +354,13 @@
     "eps": "$0.34",
     "fq": "Sep/2026",
     "lastYearEps": "$0.29",
-    "marketCap": 2342573570,
+    "marketCap": 2371188220,
     "name": "Chagee Holdings Limited",
     "symbol": "CHA",
     "time": "tbd"
    }
   ]
  },
- "updatedAt": "2026-11-08T22:50:14+00:00",
+ "updatedAt": "2026-11-09T12:24:23+00:00",
  "week": "2026-11-23"
 }

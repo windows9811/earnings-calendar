@@ -5,7 +5,7 @@
     "eps": "$1.02",
     "fq": "Sep/2026",
     "lastYearEps": "$3.76",
-    "marketCap": 27587385300,
+    "marketCap": 27940020200,
     "name": "Trip.com Group Limited",
     "symbol": "TCOM",
     "time": "tbd"
@@ -14,7 +14,7 @@
     "eps": "$0.57",
     "fq": "Sep/2026",
     "lastYearEps": "$1.23",
-    "marketCap": 27043280900,
+    "marketCap": 27856484400,
     "name": "Baidu, Inc.",
     "symbol": "BIDU",
     "time": "bmo"
@@ -41,7 +41,7 @@
     "eps": "$0.75",
     "fq": "Sep/2026",
     "lastYearEps": "$0.63",
-    "marketCap": 15443846100,
+    "marketCap": 15696015400,
     "name": "H World Group Limited",
     "symbol": "HTHT",
     "time": "bmo"
@@ -77,7 +77,7 @@
     "eps": "$0.53",
     "fq": "Sep/2026",
     "lastYearEps": "$0.45",
-    "marketCap": 7660650500,
+    "marketCap": 7847242800,
     "name": "XP Inc.",
     "symbol": "XP",
     "time": "tbd"
@@ -86,7 +86,7 @@
     "eps": "$1.52",
     "fq": "Sep/2026",
     "lastYearEps": "$1.41",
-    "marketCap": 4556256300,
+    "marketCap": 4849903100,
     "name": "Powell Industries, Inc.",
     "symbol": "POWL",
     "time": "amc"
@@ -435,7 +435,7 @@
     "marketCap": 3918000130,
     "name": "JOYY Inc.",
     "symbol": "JOYY",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$0.26",
@@ -479,16 +479,25 @@
     "eps": "$0.64",
     "fq": "Oct/2026",
     "lastYearEps": "$0.62",
-    "marketCap": 1013298100000,
+    "marketCap": 995843830000,
     "name": "Walmart Inc.",
     "symbol": "WMT",
+    "time": "bmo"
+   },
+   {
+    "eps": "$1.31",
+    "fq": "Sep/2026",
+    "lastYearEps": "$0.44",
+    "marketCap": 265141092000,
+    "name": "Alibaba Group Holding Limited",
+    "symbol": "BABA",
     "time": "bmo"
    },
    {
     "eps": "$2.47",
     "fq": "Oct/2026",
     "lastYearEps": "$1.88",
-    "marketCap": 94826021000,
+    "marketCap": 91261092000,
     "name": "Intuit Inc.",
     "symbol": "INTU",
     "time": "amc"
@@ -497,7 +506,7 @@
     "eps": "$2.40",
     "fq": "Sep/2026",
     "lastYearEps": "$1.88",
-    "marketCap": 80761496000,
+    "marketCap": 82605687000,
     "name": "NetEase, Inc.",
     "symbol": "NTES",
     "time": "bmo"
@@ -506,16 +515,16 @@
     "eps": "$1.82",
     "fq": "Oct/2026",
     "lastYearEps": "$1.58",
-    "marketCap": 75144954000,
+    "marketCap": 73822421000,
     "name": "Ross Stores, Inc.",
     "symbol": "ROST",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$1.68",
     "fq": "Oct/2026",
     "lastYearEps": "$1.42",
-    "marketCap": 50207932000,
+    "marketCap": 49176576000,
     "name": "Veeva Systems Inc.",
     "symbol": "VEEV",
     "time": "tbd"
@@ -524,7 +533,7 @@
     "eps": "$3.09",
     "fq": "Oct/2026",
     "lastYearEps": "$1.65",
-    "marketCap": 44367483000,
+    "marketCap": 46328701000,
     "name": "Keysight Technologies Inc.",
     "symbol": "KEYS",
     "time": "amc"
@@ -533,7 +542,7 @@
     "eps": "$0.41",
     "fq": "Oct/2026",
     "lastYearEps": "$0.41",
-    "marketCap": 30088757200,
+    "marketCap": 29597777900,
     "name": "Copart, Inc.",
     "symbol": "CPRT",
     "time": "tbd"
@@ -542,7 +551,7 @@
     "eps": "$0.38",
     "fq": "Sep/2026",
     "lastYearEps": "$0.21",
-    "marketCap": 16697663500,
+    "marketCap": 16373336100,
     "name": "Warner Music Group Corp.",
     "symbol": "WMG",
     "time": "bmo"
@@ -551,7 +560,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$2.93",
-    "marketCap": 13181363200,
+    "marketCap": 13744837600,
     "name": "Futu Holdings Limited",
     "symbol": "FUTU",
     "time": "bmo"
@@ -560,7 +569,7 @@
     "eps": "$0.19",
     "fq": "Sep/2026",
     "lastYearEps": "$0.12",
-    "marketCap": 9265270800,
+    "marketCap": 9503905800,
     "name": "Full Truck Alliance Co. Ltd.",
     "symbol": "YMM",
     "time": "bmo"
@@ -569,16 +578,16 @@
     "eps": "$0.14",
     "fq": "Oct/2026",
     "lastYearEps": "($0.06)",
-    "marketCap": 8923530200,
+    "marketCap": 9122773000,
     "name": "Elastic N.V.",
     "symbol": "ESTC",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$0.73",
     "fq": "Oct/2026",
     "lastYearEps": "$0.62",
-    "marketCap": 7871963600,
+    "marketCap": 7545282600,
     "name": "Gap, Inc. (The)",
     "symbol": "GAP",
     "time": "amc"
@@ -587,7 +596,7 @@
     "eps": "$2.59",
     "fq": "Sep/2026",
     "lastYearEps": "$2.32",
-    "marketCap": 7001198600,
+    "marketCap": 7144453600,
     "name": "ESCO Technologies Inc.",
     "symbol": "ESE",
     "time": "amc"
@@ -596,7 +605,7 @@
     "eps": "$0.31",
     "fq": "Sep/2026",
     "lastYearEps": "$0.33",
-    "marketCap": 6709379600,
+    "marketCap": 6656549900,
     "name": "Vipshop Holdings Limited",
     "symbol": "VIPS",
     "time": "tbd"
@@ -605,34 +614,34 @@
     "eps": "$0.42",
     "fq": "Sep/2026",
     "lastYearEps": "$0.45",
-    "marketCap": 4571421200,
+    "marketCap": 4441283100,
     "name": "Valvoline Inc.",
     "symbol": "VVV",
-    "time": "bmo"
-   },
-   {
-    "eps": "$0.11",
-    "fq": "Oct/2026",
-    "lastYearEps": "$0.35",
-    "marketCap": 4452328400,
-    "name": "Bath & Body Works, Inc.",
-    "symbol": "BBWI",
     "time": "bmo"
    },
    {
     "eps": "$1.36",
     "fq": "Sep/2026",
     "lastYearEps": "$1.07",
-    "marketCap": 4448249300,
+    "marketCap": 4428168200,
     "name": "Construction Partners, Inc.",
     "symbol": "ROAD",
     "time": "tbd"
    },
    {
+    "eps": "$0.11",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.35",
+    "marketCap": 4307143700,
+    "name": "Bath & Body Works, Inc.",
+    "symbol": "BBWI",
+    "time": "bmo"
+   },
+   {
     "eps": "$1.69",
     "fq": "Sep/2026",
     "lastYearEps": "$2.09",
-    "marketCap": 3724020480,
+    "marketCap": 3650612740,
     "name": "Post Holdings, Inc.",
     "symbol": "POST",
     "time": "amc"
@@ -641,7 +650,7 @@
     "eps": "$1.88",
     "fq": "Sep/2026",
     "lastYearEps": "$1.62",
-    "marketCap": 3624204290,
+    "marketCap": 3429433600,
     "name": "Maximus, Inc.",
     "symbol": "MMS",
     "time": "bmo"
@@ -650,7 +659,7 @@
     "eps": "$0.05",
     "fq": "Sep/2026",
     "lastYearEps": "$0.06",
-    "marketCap": 2600630020,
+    "marketCap": 2660103940,
     "name": "Webull Corporation",
     "symbol": "BULL",
     "time": "amc"
@@ -659,13 +668,31 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "N/A",
-    "marketCap": 2428375040,
+    "marketCap": 2377708540,
     "name": "Youdao, Inc.",
     "symbol": "DAO",
     "time": "bmo"
+   },
+   {
+    "eps": "$1.13",
+    "fq": "Sep/2026",
+    "lastYearEps": "$1.22",
+    "marketCap": 2047142780,
+    "name": "Globant S.A.",
+    "symbol": "GLOB",
+    "time": "amc"
    }
   ],
   "2026-11-20": [
+   {
+    "eps": "$0.26",
+    "fq": "Sep/2026",
+    "lastYearEps": "N/A",
+    "marketCap": 31314071600,
+    "name": "Bending Spoons S.p.A.",
+    "symbol": "BSP",
+    "time": "bmo"
+   },
    {
     "eps": "$1.22",
     "fq": "Oct/2026",
@@ -727,10 +754,10 @@
     "marketCap": 2285606660,
     "name": "Buckle, Inc. (The)",
     "symbol": "BKE",
-    "time": "tbd"
+    "time": "bmo"
    }
   ]
  },
- "updatedAt": "2026-11-08T22:50:00+00:00",
+ "updatedAt": "2026-11-09T12:24:09+00:00",
  "week": "2026-11-16"
 }
