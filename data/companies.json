@@ -9811,6 +9811,8 @@
  "SNPS": {
   "checkedAt": "2026-10-24T22:43:56+00:00",
   "label": "Synopsys",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-08",
   "logo": "SNPS.svg",
   "logoSource": "wikidata",
   "website": "https://www.synopsys.com"
@@ -10692,6 +10694,10 @@
   "logo": "TRV.jpg",
   "logoSource": "wikidata",
   "website": "https://www.travelers.com"
+ },
+ "TRVI": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-09"
  },
  "TS": {
   "checkedAt": "2026-10-09T08:19:29+00:00",
