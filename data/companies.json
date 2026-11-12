@@ -528,8 +528,13 @@
   "lastTimeDate": "2026-11-05"
  },
  "ALSN": {
+  "checkedAt": "2026-11-12T19:03:12+00:00",
+  "label": "Allison Transmission",
   "lastTime": "amc",
-  "lastTimeDate": "2026-11-02"
+  "lastTimeDate": "2026-11-02",
+  "logo": "ALSN.svg",
+  "logoSource": "wikidata",
+  "website": "https://www.allisontransmission.com"
  },
  "ALV": {
   "lastTime": "bmo",
@@ -1053,6 +1058,8 @@
  "AVGO": {
   "checkedAt": "2026-10-24T22:43:58+00:00",
   "label": "Broadcom",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-09",
   "logo": "AVGO.svg",
   "logoSource": "wikidata",
   "website": "https://www.broadcom.com"
@@ -1261,6 +1268,10 @@
   "logo": "BAX.svg",
   "logoSource": "wikidata",
   "website": "https://www.baxter.com"
+ },
+ "BBAR": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-24"
  },
  "BBD": {
   "checkedAt": "2026-10-09T08:13:50+00:00",
@@ -1643,6 +1654,13 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-22"
  },
+ "BMNR": {
+  "checkedAt": "2026-11-12T19:03:11+00:00",
+  "label": "BitMine Immersion",
+  "logo": "BMNR.png",
+  "logoSource": "parqet",
+  "website": "https://www.bitminetech.io"
+ },
  "BMO": {
   "checkedAt": "2026-10-17T22:41:06+00:00",
   "label": "Bank of Montreal",
@@ -1884,6 +1902,8 @@
  "BURL": {
   "checkedAt": "2026-10-10T06:50:40+00:00",
   "label": "Burlington",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-24",
   "logo": "BURL.svg",
   "logoSource": "wikidata",
   "website": "https://www.burlington.com"
@@ -1907,7 +1927,7 @@
  },
  "BWLP": {
   "lastTime": "bmo",
-  "lastTimeDate": "2026-11-23"
+  "lastTimeDate": "2026-11-24"
  },
  "BWXT": {
   "checkedAt": "2026-10-09T08:17:53+00:00",
@@ -1952,6 +1972,10 @@
   "logo": "C.svg",
   "logoSource": "wikidata",
   "website": "https://www.citigroup.com"
+ },
+ "CAAP": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-17"
  },
  "CACC": {
   "lastTime": "amc",
@@ -2351,6 +2375,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-02"
  },
+ "CIG": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-12"
+ },
  "CIGI": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-04"
@@ -2424,6 +2452,10 @@
   "logo": "CM.svg",
   "logoSource": "parqet",
   "website": "https://www.cibc.com"
+ },
+ "CMBT": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-26"
  },
  "CMC": {
   "lastTime": "bmo",
@@ -2769,6 +2801,8 @@
  "CRDO": {
   "checkedAt": "2026-10-24T22:43:53+00:00",
   "label": "",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-01",
   "logo": "CRDO.svg",
   "logoSource": "parqet",
   "website": "https://www.credosemi.com"
@@ -2802,6 +2836,8 @@
  "CRM": {
   "checkedAt": "2026-10-17T22:41:04+00:00",
   "label": "Salesforce",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-02",
   "logo": "CRM.svg",
   "logoSource": "wikidata",
   "website": "https://www.salesforce.com"
@@ -3158,6 +3194,8 @@
  "DELL": {
   "checkedAt": "2026-10-10T06:50:35+00:00",
   "label": "Dell",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-24",
   "logo": "DELL.svg",
   "logoSource": "wikidata",
   "website": "https://www.dell.com"
@@ -4427,6 +4465,8 @@
  "FRO": {
   "checkedAt": "2026-10-09T08:22:38+00:00",
   "label": "Frontline",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-20",
   "logo": "FRO.svg",
   "logoSource": "wikidata",
   "website": "https://www.frontlineplc.cy"
@@ -4615,6 +4655,10 @@
   "logoSource": "wikidata",
   "website": "https://www.godaddy.com"
  },
+ "GDS": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-25"
+ },
  "GE": {
   "checkedAt": "2026-10-09T08:13:03+00:00",
   "label": "GE Aerospace",
@@ -4662,6 +4706,10 @@
   "logo": "GEV.svg",
   "logoSource": "parqet",
   "website": "https://www.gevernova.com"
+ },
+ "GFF": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-17"
  },
  "GFL": {
   "checkedAt": "2026-10-09T08:15:37+00:00",
@@ -4998,6 +5046,10 @@
  "HAE": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-05"
+ },
+ "HAFN": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-18"
  },
  "HAL": {
   "checkedAt": "2026-10-09T08:13:12+00:00",
@@ -5852,8 +5904,13 @@
   "website": "https://www.jacobs.com"
  },
  "JAN": {
+  "checkedAt": "2026-11-12T19:03:13+00:00",
+  "label": "",
   "lastTime": "amc",
-  "lastTimeDate": "2026-11-02"
+  "lastTimeDate": "2026-11-02",
+  "logo": "JAN.png",
+  "logoSource": "parqet",
+  "website": ""
  },
  "JAZZ": {
   "checkedAt": "2026-10-09T08:19:58+00:00",
@@ -6093,6 +6150,10 @@
  "KLAR": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-17"
+ },
+ "KLIC": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-18"
  },
  "KMB": {
   "checkedAt": "2026-10-09T08:16:33+00:00",
@@ -6395,6 +6456,8 @@
  "LI": {
   "checkedAt": "2026-10-10T06:50:41+00:00",
   "label": "Li Auto",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-25",
   "logo": "LI.svg",
   "logoSource": "wikidata",
   "website": "https://www.lixiang.com"
@@ -6699,6 +6762,10 @@
   "logoSource": "parqet",
   "website": "https://www.manh.com"
  },
+ "MANU": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-19"
+ },
  "MAR": {
   "checkedAt": "2026-10-09T08:18:01+00:00",
   "label": "Marriott International",
@@ -6902,9 +6969,15 @@
  "MFG": {
   "checkedAt": "2026-10-09T08:22:13+00:00",
   "label": "Mizuho Financial Group",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-13",
   "logo": "MFG.svg",
   "logoSource": "wikidata",
   "website": "https://www.mizuho-fg.co.jp"
+ },
+ "MFP": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-17"
  },
  "MGA": {
   "checkedAt": "2026-10-09T08:17:30+00:00",
@@ -7413,6 +7486,8 @@
  "NDSN": {
   "checkedAt": "2026-10-24T22:43:57+00:00",
   "label": "Nordson Corporation",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-15",
   "logo": "NDSN.svg",
   "logoSource": "wikidata",
   "website": "https://www.nordson.com"
@@ -8511,6 +8586,10 @@
   "logoSource": "wikidata",
   "website": "https://www.posco.co.kr"
  },
+ "PL": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-10"
+ },
  "PLD": {
   "checkedAt": "2026-10-09T08:12:52+00:00",
   "label": "Prologis",
@@ -8925,6 +9004,8 @@
  "RBRK": {
   "checkedAt": "2026-10-17T22:41:09+00:00",
   "label": "Rubrik",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-30",
   "logo": "RBRK.svg",
   "logoSource": "wikidata",
   "website": "https://www.rubrik.com"
@@ -9164,6 +9245,10 @@
  "RNW": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-02"
+ },
+ "ROAD": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-19"
  },
  "ROG": {
   "lastTime": "amc",
@@ -9419,6 +9504,10 @@
  "SBCF": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-27"
+ },
+ "SBLK": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-18"
  },
  "SBRA": {
   "lastTime": "amc",
@@ -9733,6 +9822,8 @@
  "SMFG": {
   "checkedAt": "2026-10-09T08:22:12+00:00",
   "label": "Sumitomo Mitsui Financial Group",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-13",
   "logo": "SMFG.svg",
   "logoSource": "wikidata",
   "website": "https://www.smfg.co.jp"
@@ -9755,6 +9846,8 @@
  "SMTC": {
   "checkedAt": "2026-10-10T06:50:34+00:00",
   "label": "Semtech Corporation",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-23",
   "logo": "SMTC.svg",
   "logoSource": "wikidata",
   "website": "https://www.semtech.com"
@@ -9944,6 +10037,8 @@
  "SQM": {
   "checkedAt": "2026-10-09T08:22:24+00:00",
   "label": "Sociedad Química y Minera de Chile",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-17",
   "logo": "SQM.svg",
   "logoSource": "wikipedia",
   "website": "https://sqm.com"
@@ -10564,6 +10659,8 @@
  "TOL": {
   "checkedAt": "2026-10-31T22:48:20+00:00",
   "label": "Toll Brothers",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-07",
   "logo": "TOL.svg",
   "logoSource": "wikidata",
   "website": "https://www.tollbrothers.com"
@@ -11062,6 +11159,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-21"
  },
+ "UNFI": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-08"
+ },
  "UNH": {
   "checkedAt": "2026-10-09T08:12:48+00:00",
   "label": "UnitedHealth Group",
@@ -11101,6 +11202,10 @@
  "UPST": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-03"
+ },
+ "URBN": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-24"
  },
  "URI": {
   "checkedAt": "2026-10-09T08:15:24+00:00",
@@ -11226,6 +11331,10 @@
  "VFC": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-28"
+ },
+ "VFS": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-02"
  },
  "VG": {
   "checkedAt": "2026-10-09T08:21:32+00:00",
@@ -11905,6 +12014,8 @@
  "XP": {
   "checkedAt": "2026-10-09T08:22:18+00:00",
   "label": "XP Investimentos",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-16",
   "logo": "XP.svg",
   "logoSource": "wikidata",
   "website": "https://www.xpinc.com"
