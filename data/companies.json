@@ -1169,6 +1169,8 @@
  "AZO": {
   "checkedAt": "2026-10-24T22:43:54+00:00",
   "label": "AutoZone",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-08",
   "logo": "AZO.png",
   "logoSource": "wikidata",
   "website": "https://www.autozone.com"
@@ -2367,6 +2369,8 @@
  "CIEN": {
   "checkedAt": "2026-10-24T22:43:58+00:00",
   "label": "Ciena",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-10",
   "logo": "CIEN.svg",
   "logoSource": "wikipedia",
   "website": "https://www.ciena.com"
@@ -8404,6 +8408,8 @@
  "PDD": {
   "checkedAt": "2026-10-09T08:22:20+00:00",
   "label": "PDD Holdings",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-19",
   "logo": "PDD.png",
   "logoSource": "parqet",
   "website": "https://www.pddholdings.com"
@@ -9457,6 +9463,8 @@
  "SAIL": {
   "checkedAt": "2026-10-24T22:43:56+00:00",
   "label": "",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-08",
   "logo": "SAIL.svg",
   "logoSource": "parqet",
   "website": "https://www.sailpoint.com"
@@ -9892,6 +9900,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-29"
  },
+ "SNEX": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-18"
+ },
  "SNOW": {
   "checkedAt": "2026-10-17T22:41:04+00:00",
   "label": "Snowflake Inc.",
@@ -10230,6 +10242,15 @@
   "logoSource": "parqet",
   "website": "https://www.suninc.com"
  },
+ "SUNB": {
+  "checkedAt": "2026-11-13T18:40:52+00:00",
+  "label": "Sunbelt Rentals",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-08",
+  "logo": "SUNB.png",
+  "logoSource": "wikipedia",
+  "website": "https://www.sunbeltrentals.com"
+ },
  "SUPN": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-29"
@@ -10389,6 +10410,8 @@
  "TD": {
   "checkedAt": "2026-10-17T22:41:05+00:00",
   "label": "Toronto-Dominion Bank",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-03",
   "logo": "TD.svg",
   "logoSource": "wikidata",
   "website": "https://www.td.com"
@@ -11561,6 +11584,10 @@
   "logo": "VST.svg",
   "logoSource": "parqet",
   "website": "https://www.vistracorp.com"
+ },
+ "VSXY": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-03"
  },
  "VTMX": {
   "lastTime": "amc",
