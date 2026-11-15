@@ -1479,7 +1479,7 @@
    {
     "eps": "$0.45",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.44",
+    "lastYearEps": "",
     "marketCap": 258122711000,
     "name": "Mitsubishi UFJ Financial Group Inc",
     "symbol": "MUFG",
@@ -1488,7 +1488,7 @@
    {
     "eps": "$0.24",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.59",
+    "lastYearEps": "",
     "marketCap": 155527037000,
     "name": "Sumitomo Mitsui Financial Group Inc",
     "symbol": "SMFG",
@@ -1497,7 +1497,7 @@
    {
     "eps": "$0.21",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.20",
+    "lastYearEps": "",
     "marketCap": 125986341000,
     "name": "Mizuho Financial Group, Inc.",
     "symbol": "MFG",
@@ -1506,7 +1506,7 @@
    {
     "eps": "$3.94",
     "fq": "Sep/2026",
-    "lastYearEps": "$3.21",
+    "lastYearEps": "",
     "marketCap": 40218042000,
     "name": "KB Financial Group Inc",
     "symbol": "KB",
@@ -1515,7 +1515,7 @@
    {
     "eps": "",
     "fq": "Sep/2026",
-    "lastYearEps": "$3.57",
+    "lastYearEps": "",
     "marketCap": 17152391200,
     "name": "Woori Bank",
     "symbol": "WF",
@@ -1524,7 +1524,7 @@
    {
     "eps": "",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.63",
+    "lastYearEps": "",
     "marketCap": 10079088600,
     "name": "Freedom Holding Corp.",
     "symbol": "FRHC",
@@ -1533,7 +1533,7 @@
    {
     "eps": "",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.59",
+    "lastYearEps": "",
     "marketCap": 9065174000,
     "name": "KT Corporation",
     "symbol": "KT",
@@ -1542,7 +1542,7 @@
    {
     "eps": "$0.23",
     "fq": "Sep/2026",
-    "lastYearEps": "($0.01)",
+    "lastYearEps": "",
     "marketCap": 2569999870,
     "name": "LG Display Co., Ltd.",
     "symbol": "LPL",
@@ -1551,7 +1551,7 @@
    {
     "eps": "($0.49)",
     "fq": "Sep/2026",
-    "lastYearEps": "($0.24)",
+    "lastYearEps": "",
     "marketCap": 2231145470,
     "name": "Perpetua Resources Corp.",
     "symbol": "PPTA",
@@ -1559,6 +1559,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-14T02:27:54+00:00",
+ "updatedAt": "2026-11-15T01:57:15+00:00",
  "week": "2026-11-09"
 }
