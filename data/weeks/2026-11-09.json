@@ -1259,15 +1259,6 @@
     "time": "tbd"
    },
    {
-    "eps": "",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 5265678800,
-    "name": "Comp En De Mn Cemig ADS",
-    "symbol": "CIG",
-    "time": "amc"
-   },
-   {
     "eps": "($0.18)",
     "fq": "Sep/2026",
     "lastYearEps": "",
@@ -1283,15 +1274,6 @@
     "marketCap": 5128662000,
     "name": "DPC Holdings PLC",
     "symbol": "DPC",
-    "time": "tbd"
-   },
-   {
-    "eps": "$0.13",
-    "fq": "Sep/2026",
-    "lastYearEps": "",
-    "marketCap": 4689336300,
-    "name": "Grupo Aval Acciones y Valores S.A.",
-    "symbol": "AVAL",
     "time": "tbd"
    },
    {
@@ -1492,7 +1474,7 @@
     "marketCap": 155527037000,
     "name": "Sumitomo Mitsui Financial Group Inc",
     "symbol": "SMFG",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$0.21",
@@ -1501,7 +1483,7 @@
     "marketCap": 125986341000,
     "name": "Mizuho Financial Group, Inc.",
     "symbol": "MFG",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$3.94",
@@ -1540,6 +1522,33 @@
     "time": "tbd"
    },
    {
+    "eps": "",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 5265678800,
+    "name": "Comp En De Mn Cemig ADS",
+    "symbol": "CIG",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.13",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 4689336300,
+    "name": "Grupo Aval Acciones y Valores S.A.",
+    "symbol": "AVAL",
+    "time": "tbd"
+   },
+   {
+    "eps": "",
+    "fq": "Sep/2026",
+    "lastYearEps": "",
+    "marketCap": 2811860990,
+    "name": "Twenty One Capital, Inc.",
+    "symbol": "XXI",
+    "time": "tbd"
+   },
+   {
     "eps": "$0.23",
     "fq": "Sep/2026",
     "lastYearEps": "",
@@ -1559,6 +1568,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-15T01:57:15+00:00",
+ "updatedAt": "2026-11-16T02:11:34+00:00",
  "week": "2026-11-09"
 }
