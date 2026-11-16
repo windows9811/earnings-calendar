@@ -161,6 +161,8 @@
  "ACN": {
   "checkedAt": "2026-10-09T08:12:42+00:00",
   "label": "Accenture",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-17",
   "logo": "ACN.svg",
   "logoSource": "wikidata",
   "website": "https://www.accenture.com"
@@ -176,6 +178,8 @@
  "ADBE": {
   "checkedAt": "2026-10-24T22:43:55+00:00",
   "label": "Adobe",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-09",
   "logo": "ADBE.svg",
   "logoSource": "wikidata",
   "website": "https://www.adobe.com"
@@ -1966,6 +1970,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-22"
  },
+ "BZ": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-25"
+ },
  "C": {
   "checkedAt": "2026-10-09T08:12:48+00:00",
   "label": "Citigroup",
@@ -2554,6 +2562,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-03"
  },
+ "CNM": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-08"
+ },
  "CNO": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-29"
@@ -2703,6 +2715,8 @@
  "COST": {
   "checkedAt": "2026-10-24T22:43:56+00:00",
   "label": "Costco",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-10",
   "logo": "COST.svg",
   "logoSource": "wikidata",
   "website": "https://www.costco.com"
@@ -3097,6 +3111,10 @@
   "logoSource": "wikidata",
   "website": "https://www.dominionenergy.com"
  },
+ "DAC": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-23"
+ },
  "DAL": {
   "checkedAt": "2026-10-09T08:12:45+00:00",
   "label": "Delta Air Lines",
@@ -3363,6 +3381,10 @@
   "logoSource": "wikidata",
   "website": "https://www.docusign.com"
  },
+ "DOO": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-03"
+ },
  "DORM": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-26"
@@ -3500,6 +3522,10 @@
  "DXPE": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-05"
+ },
+ "DY": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-24"
  },
  "E": {
   "checkedAt": "2026-10-09T08:14:09+00:00",
@@ -6185,6 +6211,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-04"
  },
+ "KMX": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-17"
+ },
  "KN": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-22"
@@ -7147,6 +7177,8 @@
  "MOG.A": {
   "checkedAt": "2026-10-09T08:22:40+00:00",
   "label": "",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-20",
   "logo": "MOG-A.svg",
   "logoSource": "wikipedia",
   "website": ""
@@ -7154,6 +7186,8 @@
  "MOG.B": {
   "checkedAt": "2026-10-09T08:22:39+00:00",
   "label": "",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-20",
   "logo": "MOG-B.svg",
   "logoSource": "wikipedia",
   "website": "https://www.moog.com"
@@ -9452,6 +9486,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-03"
  },
+ "S": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-03"
+ },
  "SAH": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-29"
@@ -11331,6 +11369,8 @@
  "VEEV": {
   "checkedAt": "2026-10-09T08:22:38+00:00",
   "label": "Veeva Systems",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-03",
   "logo": "VEEV.svg",
   "logoSource": "parqet",
   "website": "https://www.veeva.com"
@@ -11856,6 +11896,10 @@
   "logo": "WMT.svg",
   "logoSource": "wikidata",
   "website": "https://stock.walmart.com"
+ },
+ "WOR": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-15"
  },
  "WPC": {
   "checkedAt": "2026-10-09T08:15:06+00:00",
