@@ -5,7 +5,7 @@
     "eps": "$4.89",
     "fq": "Oct/2026",
     "lastYearEps": "$4.58",
-    "marketCap": 13636834300,
+    "marketCap": 13623934000,
     "name": "Toll Brothers, Inc.",
     "symbol": "TOL",
     "time": "amc"
@@ -200,16 +200,16 @@
     "eps": "$4.87",
     "fq": "Nov/2026",
     "lastYearEps": "$4.34",
-    "marketCap": 490194108000,
+    "marketCap": 483990307000,
     "name": "Costco Wholesale Corporation",
     "symbol": "COST",
-    "time": "amc"
+    "time": "tbd"
    },
    {
     "eps": "$1.77",
     "fq": "Oct/2026",
     "lastYearEps": "$0.64",
-    "marketCap": 39782965000,
+    "marketCap": 41690288000,
     "name": "Ciena Corporation",
     "symbol": "CIEN",
     "time": "bmo"
@@ -218,7 +218,7 @@
     "eps": "$0.97",
     "fq": "Oct/2026",
     "lastYearEps": "$2.59",
-    "marketCap": 11156013100,
+    "marketCap": 11030356000,
     "name": "lululemon athletica inc.",
     "symbol": "LULU",
     "time": "tbd"
@@ -227,7 +227,7 @@
     "eps": "($0.08)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.19)",
-    "marketCap": 5024740900,
+    "marketCap": 5057486800,
     "name": "Planet Labs PBC",
     "symbol": "PL",
     "time": "amc"
@@ -236,7 +236,7 @@
     "eps": "",
     "fq": "Oct/2026",
     "lastYearEps": "$0.49",
-    "marketCap": 3485297660,
+    "marketCap": 3394490880,
     "name": "National Beverage Corp.",
     "symbol": "FIZZ",
     "time": "tbd"
@@ -245,7 +245,7 @@
     "eps": "$0.67",
     "fq": "Oct/2026",
     "lastYearEps": "$1.71",
-    "marketCap": 2449761540,
+    "marketCap": 2445596160,
     "name": "RH",
     "symbol": "RH",
     "time": "tbd"
@@ -253,6 +253,6 @@
   ],
   "2026-12-11": []
  },
- "updatedAt": "2026-11-16T21:11:06+00:00",
+ "updatedAt": "2026-11-17T04:31:29+00:00",
  "week": "2026-12-07"
 }

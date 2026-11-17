@@ -54,7 +54,7 @@
     "eps": "$37.95",
     "fq": "Nov/2026",
     "lastYearEps": "$4.61",
-    "marketCap": 880597990000,
+    "marketCap": 903373520000,
     "name": "Micron Technology, Inc.",
     "symbol": "MU",
     "time": "tbd"
@@ -63,7 +63,7 @@
     "eps": "$3.64",
     "fq": "Nov/2026",
     "lastYearEps": "$2.30",
-    "marketCap": 26181259300,
+    "marketCap": 26769244200,
     "name": "Jabil Inc.",
     "symbol": "JBL",
     "time": "tbd"
@@ -72,7 +72,7 @@
     "eps": "$0.96",
     "fq": "Nov/2026",
     "lastYearEps": "$1.10",
-    "marketCap": 18350463000,
+    "marketCap": 17922713600,
     "name": "General Mills, Inc.",
     "symbol": "GIS",
     "time": "tbd"
@@ -81,7 +81,7 @@
     "eps": "$0.97",
     "fq": "Oct/2026",
     "lastYearEps": "$0.91",
-    "marketCap": 10023905300,
+    "marketCap": 10114782200,
     "name": "Toro Company (The)",
     "symbol": "TTC",
     "time": "tbd"
@@ -90,7 +90,7 @@
     "eps": "$1.24",
     "fq": "Oct/2026",
     "lastYearEps": "$0.88",
-    "marketCap": 3202701310,
+    "marketCap": 3210321150,
     "name": "ABM Industries Incorporated",
     "symbol": "ABM",
     "time": "tbd"
@@ -99,7 +99,7 @@
     "eps": "$0.34",
     "fq": "Nov/2026",
     "lastYearEps": "$0.36",
-    "marketCap": 2019904770,
+    "marketCap": 2015800320,
     "name": "Enerpac Tool Group Corp.",
     "symbol": "EPAC",
     "time": "tbd"
@@ -254,6 +254,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-16T21:11:18+00:00",
+ "updatedAt": "2026-11-17T04:31:44+00:00",
  "week": "2026-12-14"
 }
