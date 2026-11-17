@@ -1275,6 +1275,10 @@
   "logoSource": "wikidata",
   "website": "https://www.baxter.com"
  },
+ "BB": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-17"
+ },
  "BBAR": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-24"
@@ -1567,6 +1571,10 @@
   "logo": "BIP.svg",
   "logoSource": "wikidata",
   "website": "https://www.bip.brookfield.com"
+ },
+ "BIRK": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-10"
  },
  "BJ": {
   "checkedAt": "2026-10-09T08:22:37+00:00",
@@ -7512,6 +7520,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-29"
  },
+ "NCNO": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-01"
+ },
  "NDAQ": {
   "checkedAt": "2026-10-09T08:13:44+00:00",
   "label": "Nasdaq, Inc.",
@@ -11452,6 +11464,10 @@
   "logoSource": "parqet",
   "website": "https://www.viking.com"
  },
+ "VIPS": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-24"
+ },
  "VIR": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
@@ -11947,6 +11963,8 @@
  "WSM": {
   "checkedAt": "2026-10-09T08:22:35+00:00",
   "label": "Williams-Sonoma, Inc.",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-19",
   "logo": "WSM.svg",
   "logoSource": "parqet",
   "website": "https://www.williams-sonomainc.com"
