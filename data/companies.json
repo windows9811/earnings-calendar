@@ -151,8 +151,13 @@
   "lastTimeDate": "2026-11-05"
  },
  "ACM": {
+  "checkedAt": "2026-11-18T19:30:40+00:00",
+  "label": "AECOM",
   "lastTime": "amc",
-  "lastTimeDate": "2026-11-16"
+  "lastTimeDate": "2026-11-16",
+  "logo": "ACM.png",
+  "logoSource": "wikidata",
+  "website": "https://www.aecom.com"
  },
  "ACMR": {
   "lastTime": "bmo",
@@ -2075,6 +2080,8 @@
  "CASY": {
   "checkedAt": "2026-10-24T22:43:54+00:00",
   "label": "Casey's General Stores",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-08",
   "logo": "CASY.svg",
   "logoSource": "wikidata",
   "website": "https://www.caseys.com"
@@ -2241,6 +2248,14 @@
  "CELH": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-05"
+ },
+ "CENT": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-23"
+ },
+ "CENTA": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-11-23"
  },
  "CENX": {
   "lastTime": "amc",
@@ -2475,7 +2490,7 @@
  },
  "CMBT": {
   "lastTime": "bmo",
-  "lastTimeDate": "2026-11-26"
+  "lastTimeDate": "2026-11-24"
  },
  "CMC": {
   "lastTime": "bmo",
@@ -2771,6 +2786,8 @@
  "CPRT": {
   "checkedAt": "2026-10-09T08:22:38+00:00",
   "label": "Copart",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-01",
   "logo": "CPRT.svg",
   "logoSource": "parqet",
   "website": "https://www.copart.com"
@@ -5602,6 +5619,8 @@
  "IESC": {
   "checkedAt": "2026-10-09T08:22:37+00:00",
   "label": "Integrated Electrical Services",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-20",
   "logo": "IESC.svg",
   "logoSource": "wikidata",
   "website": "https://www.ies-co.com"
@@ -6186,8 +6205,13 @@
   "website": "https://www.kla.com"
  },
  "KLAR": {
+  "checkedAt": "2026-11-18T19:30:38+00:00",
+  "label": "",
   "lastTime": "bmo",
-  "lastTimeDate": "2026-11-17"
+  "lastTimeDate": "2026-11-17",
+  "logo": "KLAR.svg",
+  "logoSource": "parqet",
+  "website": ""
  },
  "KLIC": {
   "lastTime": "amc",
@@ -6755,6 +6779,10 @@
   "logo": "LYV.svg",
   "logoSource": "wikipedia",
   "website": "https://www.livenationentertainment.com"
+ },
+ "M": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-02"
  },
  "MA": {
   "checkedAt": "2026-10-09T08:15:56+00:00",
@@ -7626,6 +7654,10 @@
  "NICE": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-04"
+ },
+ "NIO": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-01"
  },
  "NIQ": {
   "lastTime": "bmo",
