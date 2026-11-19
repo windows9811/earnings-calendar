@@ -5,7 +5,7 @@
     "eps": "($0.38)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.30)",
-    "marketCap": 20871409700,
+    "marketCap": 22803486700,
     "name": "Rubrik, Inc.",
     "symbol": "RBRK",
     "time": "amc"
@@ -16,7 +16,7 @@
     "eps": "$0",
     "fq": "Oct/2026",
     "lastYearEps": "N/A",
-    "marketCap": 224835617000,
+    "marketCap": 242703270000,
     "name": "CrowdStrike Holdings, Inc.",
     "symbol": "CRWD",
     "time": "amc"
@@ -25,34 +25,34 @@
     "eps": "$0.79",
     "fq": "Oct/2026",
     "lastYearEps": "$0.62",
-    "marketCap": 130430108000,
+    "marketCap": 127624028000,
     "name": "Marvell Technology, Inc.",
     "symbol": "MRVL",
-    "time": "amc"
-   },
-   {
-    "eps": "$2.13",
-    "fq": "Oct/2026",
-    "lastYearEps": "$1.63",
-    "marketCap": 33988343800,
-    "name": "NetApp, Inc.",
-    "symbol": "NTAP",
     "time": "amc"
    },
    {
     "eps": "$0.43",
     "fq": "Oct/2026",
     "lastYearEps": "$0.31",
-    "marketCap": 30513244200,
+    "marketCap": 34196721700,
     "name": "Okta, Inc.",
     "symbol": "OKTA",
+    "time": "amc"
+   },
+   {
+    "eps": "$2.13",
+    "fq": "Oct/2026",
+    "lastYearEps": "$1.63",
+    "marketCap": 33821388800,
+    "name": "NetApp, Inc.",
+    "symbol": "NTAP",
     "time": "amc"
    },
    {
     "eps": "$0.41",
     "fq": "Oct/2026",
     "lastYearEps": "$0.41",
-    "marketCap": 29134587900,
+    "marketCap": 29143853100,
     "name": "Copart, Inc.",
     "symbol": "CPRT",
     "time": "bmo"
@@ -61,7 +61,7 @@
     "eps": "$0.08",
     "fq": "Oct/2026",
     "lastYearEps": "($0.08)",
-    "marketCap": 24056539100,
+    "marketCap": 24707434500,
     "name": "MongoDB, Inc.",
     "symbol": "MDB",
     "time": "amc"
@@ -70,7 +70,7 @@
     "eps": "$1.03",
     "fq": "Oct/2026",
     "lastYearEps": "$0.44",
-    "marketCap": 23296641000,
+    "marketCap": 23106807800,
     "name": "Credo Technology Group Holding Ltd",
     "symbol": "CRDO",
     "time": "amc"
@@ -79,7 +79,7 @@
     "eps": "$0.96",
     "fq": "Oct/2026",
     "lastYearEps": "$0.82",
-    "marketCap": 8423725600,
+    "marketCap": 8049025500,
     "name": "HealthEquity, Inc.",
     "symbol": "HQY",
     "time": "amc"
@@ -88,16 +88,16 @@
     "eps": "($0.09)",
     "fq": "Oct/2026",
     "lastYearEps": "N/A",
-    "marketCap": 7427028000,
+    "marketCap": 7413700100,
     "name": "GitLab Inc.",
     "symbol": "GTLB",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "($0.03)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.21)",
-    "marketCap": 7040924200,
+    "marketCap": 6940697600,
     "name": "NIO Inc.",
     "symbol": "NIO",
     "time": "bmo"
@@ -106,16 +106,16 @@
     "eps": "$0.09",
     "fq": "Oct/2026",
     "lastYearEps": "$0.02",
-    "marketCap": 5888657400,
+    "marketCap": 5922957300,
     "name": "Box, Inc.",
     "symbol": "BOX",
     "time": "amc"
    },
    {
-    "eps": "$0.51",
+    "eps": "$0.50",
     "fq": "Oct/2026",
     "lastYearEps": "$0.53",
-    "marketCap": 3549203200,
+    "marketCap": 3639692800,
     "name": "American Eagle Outfitters, Inc.",
     "symbol": "AEO",
     "time": "tbd"
@@ -124,7 +124,7 @@
     "eps": "$0.16",
     "fq": "Oct/2026",
     "lastYearEps": "$0.17",
-    "marketCap": 2335712000,
+    "marketCap": 2295532290,
     "name": "nCino, Inc.",
     "symbol": "NCNO",
     "time": "amc"
@@ -133,7 +133,7 @@
     "eps": "($0.17)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.16)",
-    "marketCap": 2113394180,
+    "marketCap": 2106525060,
     "name": "Asana, Inc.",
     "symbol": "ASAN",
     "time": "amc"
@@ -144,25 +144,25 @@
     "eps": "$2.41",
     "fq": "Oct/2026",
     "lastYearEps": "$2.66",
-    "marketCap": 160089965000,
+    "marketCap": 156699197000,
     "name": "Salesforce, Inc.",
     "symbol": "CRM",
     "time": "amc"
    },
    {
-    "eps": "$2.76",
+    "eps": "$2.69",
     "fq": "Oct/2026",
     "lastYearEps": "$2.36",
-    "marketCap": 115676561000,
+    "marketCap": 112682000000,
     "name": "Bank Of Montreal",
     "symbol": "BMO",
     "time": "bmo"
    },
    {
-    "eps": "$1.58",
+    "eps": "$1.55",
     "fq": "Oct/2026",
     "lastYearEps": "$1.39",
-    "marketCap": 109320962000,
+    "marketCap": 107128979000,
     "name": "Bank of Nova Scotia (The)",
     "symbol": "BNS",
     "time": "bmo"
@@ -171,7 +171,7 @@
     "eps": "($0.32)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.84)",
-    "marketCap": 96293233000,
+    "marketCap": 98649940000,
     "name": "Snowflake Inc.",
     "symbol": "SNOW",
     "time": "amc"
@@ -180,16 +180,16 @@
     "eps": "$0.12",
     "fq": "Oct/2026",
     "lastYearEps": "($0.01)",
-    "marketCap": 30196099100,
+    "marketCap": 32257110000,
     "name": "Zscaler, Inc.",
     "symbol": "ZS",
     "time": "amc"
    },
    {
-    "eps": "$1.15",
+    "eps": "$1.17",
     "fq": "Oct/2026",
     "lastYearEps": "$0.68",
-    "marketCap": 12776389600,
+    "marketCap": 12966877200,
     "name": "Five Below, Inc.",
     "symbol": "FIVE",
     "time": "tbd"
@@ -198,7 +198,7 @@
     "eps": "$0.36",
     "fq": "Oct/2026",
     "lastYearEps": "$0.38",
-    "marketCap": 12016228400,
+    "marketCap": 11555973100,
     "name": "Guidewire Software, Inc.",
     "symbol": "GWRE",
     "time": "tbd"
@@ -207,7 +207,7 @@
     "eps": "$0.97",
     "fq": "Oct/2026",
     "lastYearEps": "$0.94",
-    "marketCap": 9800201200,
+    "marketCap": 9825701900,
     "name": "Donaldson Company, Inc.",
     "symbol": "DCI",
     "time": "bmo"
@@ -216,7 +216,7 @@
     "eps": "($0.21)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.10)",
-    "marketCap": 8519054300,
+    "marketCap": 9603855400,
     "name": "Netskope, Inc.",
     "symbol": "NTSK",
     "time": "amc"
@@ -225,7 +225,7 @@
     "eps": "$0.61",
     "fq": "Oct/2026",
     "lastYearEps": "$0.50",
-    "marketCap": 7841125900,
+    "marketCap": 7783897100,
     "name": "The Descartes Systems Group Inc.",
     "symbol": "DSGX",
     "time": "amc"
@@ -234,7 +234,7 @@
     "eps": "($0.36)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.41)",
-    "marketCap": 6831445000,
+    "marketCap": 6878235600,
     "name": "VinFast Auto Ltd.",
     "symbol": "VFS",
     "time": "bmo"
@@ -243,16 +243,16 @@
     "eps": "($0.17)",
     "fq": "Oct/2026",
     "lastYearEps": "$0.09",
-    "marketCap": 6108921900,
+    "marketCap": 6498075100,
     "name": "Macy's Inc",
     "symbol": "M",
     "time": "bmo"
    },
    {
-    "eps": "$2.63",
+    "eps": "$2.60",
     "fq": "Oct/2026",
     "lastYearEps": "$2.83",
-    "marketCap": 4239144190,
+    "marketCap": 4514587100,
     "name": "PVH Corp.",
     "symbol": "PVH",
     "time": "tbd"
@@ -261,7 +261,7 @@
     "eps": "$0.87",
     "fq": "Oct/2026",
     "lastYearEps": "$0.63",
-    "marketCap": 3991890430,
+    "marketCap": 4181177600,
     "name": "Signet Jewelers Limited",
     "symbol": "SIG",
     "time": "bmo"
@@ -270,7 +270,7 @@
     "eps": "$0.17",
     "fq": "Oct/2026",
     "lastYearEps": "$0.41",
-    "marketCap": 3910807550,
+    "marketCap": 4022648320,
     "name": "Thor Industries, Inc.",
     "symbol": "THO",
     "time": "tbd"
@@ -279,7 +279,7 @@
     "eps": "",
     "fq": "Sep/2026",
     "lastYearEps": "$0.45",
-    "marketCap": 3069184510,
+    "marketCap": 3008217860,
     "name": "Kenon Holdings Ltd.",
     "symbol": "KEN",
     "time": "tbd"
@@ -287,10 +287,10 @@
   ],
   "2026-12-03": [
    {
-    "eps": "$2.97",
+    "eps": "$2.93",
     "fq": "Oct/2026",
     "lastYearEps": "$2.76",
-    "marketCap": 272034677000,
+    "marketCap": 263003537000,
     "name": "Royal Bank Of Canada",
     "symbol": "RY",
     "time": "bmo"
@@ -299,7 +299,7 @@
     "eps": "$1.77",
     "fq": "Oct/2026",
     "lastYearEps": "$1.57",
-    "marketCap": 195381150000,
+    "marketCap": 188957737000,
     "name": "Toronto Dominion Bank (The)",
     "symbol": "TD",
     "time": "bmo"
@@ -308,7 +308,7 @@
     "eps": "$1.72",
     "fq": "Oct/2026",
     "lastYearEps": "$1.57",
-    "marketCap": 101557404000,
+    "marketCap": 97742021000,
     "name": "Canadian Imperial Bank of Commerce",
     "symbol": "CM",
     "time": "bmo"
@@ -317,16 +317,16 @@
     "eps": "$1.68",
     "fq": "Oct/2026",
     "lastYearEps": "$1.42",
-    "marketCap": 46696133000,
+    "marketCap": 44881134000,
     "name": "Veeva Systems Inc.",
     "symbol": "VEEV",
     "time": "amc"
    },
    {
-    "eps": "$1.16",
+    "eps": "$1.17",
     "fq": "Oct/2026",
     "lastYearEps": "$1.05",
-    "marketCap": 41860927000,
+    "marketCap": 40780149000,
     "name": "Kroger Company (The)",
     "symbol": "KR",
     "time": "bmo"
@@ -335,7 +335,7 @@
     "eps": "$1.40",
     "fq": "Oct/2026",
     "lastYearEps": "$1.28",
-    "marketCap": 29458960400,
+    "marketCap": 29531762700,
     "name": "Dollar General Corporation",
     "symbol": "DG",
     "time": "bmo"
@@ -344,7 +344,7 @@
     "eps": "$5.61",
     "fq": "Oct/2026",
     "lastYearEps": "$5.14",
-    "marketCap": 27383167000,
+    "marketCap": 27728648200,
     "name": "Ulta Beauty, Inc.",
     "symbol": "ULTA",
     "time": "amc"
@@ -353,7 +353,7 @@
     "eps": "$0.03",
     "fq": "Oct/2026",
     "lastYearEps": "$0.01",
-    "marketCap": 22996717600,
+    "marketCap": 23353935900,
     "name": "Samsara Inc.",
     "symbol": "IOT",
     "time": "amc"
@@ -362,7 +362,7 @@
     "eps": "",
     "fq": "Oct/2026",
     "lastYearEps": "$0.47",
-    "marketCap": 14270679000,
+    "marketCap": 14545996800,
     "name": "Brown Forman Corporation",
     "symbol": "BF.A",
     "time": "bmo"
@@ -371,7 +371,7 @@
     "eps": "$0.46",
     "fq": "Oct/2026",
     "lastYearEps": "$0.47",
-    "marketCap": 14270679000,
+    "marketCap": 14545996800,
     "name": "Brown Forman Corporation",
     "symbol": "BF.B",
     "time": "bmo"
@@ -380,7 +380,7 @@
     "eps": "$0.53",
     "fq": "Oct/2026",
     "lastYearEps": "$0.42",
-    "marketCap": 14191503400,
+    "marketCap": 14312989700,
     "name": "DocuSign, Inc.",
     "symbol": "DOCU",
     "time": "tbd"
@@ -389,7 +389,7 @@
     "eps": "$0.38",
     "fq": "Oct/2026",
     "lastYearEps": "$0.32",
-    "marketCap": 12426921000,
+    "marketCap": 12740621300,
     "name": "Hormel Foods Corporation",
     "symbol": "HRL",
     "time": "bmo"
@@ -398,16 +398,25 @@
     "eps": "$1.07",
     "fq": "Oct/2026",
     "lastYearEps": "$1.15",
-    "marketCap": 11546229800,
+    "marketCap": 11551934500,
     "name": "The Cooper Companies, Inc.",
     "symbol": "COO",
+    "time": "amc"
+   },
+   {
+    "eps": "($0.11)",
+    "fq": "Oct/2026",
+    "lastYearEps": "($0.13)",
+    "marketCap": 8123466200,
+    "name": "SentinelOne, Inc.",
+    "symbol": "S",
     "time": "amc"
    },
    {
     "eps": "$0.04",
     "fq": "Oct/2026",
     "lastYearEps": "($0.27)",
-    "marketCap": 7872710700,
+    "marketCap": 8080097300,
     "name": "Victorias Secret & Co.",
     "symbol": "VSXY",
     "time": "bmo"
@@ -416,43 +425,34 @@
     "eps": "($0.20)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.31)",
-    "marketCap": 7779171800,
+    "marketCap": 7865028100,
     "name": "ServiceTitan, Inc.",
     "symbol": "TTAN",
-    "time": "amc"
-   },
-   {
-    "eps": "($0.11)",
-    "fq": "Oct/2026",
-    "lastYearEps": "($0.13)",
-    "marketCap": 7361239000,
-    "name": "SentinelOne, Inc.",
-    "symbol": "S",
-    "time": "amc"
-   },
-   {
-    "eps": "$0.10",
-    "fq": "Oct/2026",
-    "lastYearEps": "$0.03",
-    "marketCap": 6457115600,
-    "name": "UiPath, Inc.",
-    "symbol": "PATH",
     "time": "amc"
    },
    {
     "eps": "$2.33",
     "fq": "Oct/2026",
     "lastYearEps": "$2.58",
-    "marketCap": 6063844900,
+    "marketCap": 6160628200,
     "name": "Science Applications International Corporation",
     "symbol": "SAIC",
-    "time": "tbd"
+    "time": "bmo"
+   },
+   {
+    "eps": "$0.10",
+    "fq": "Oct/2026",
+    "lastYearEps": "$0.03",
+    "marketCap": 6113153000,
+    "name": "UiPath, Inc.",
+    "symbol": "PATH",
+    "time": "amc"
    },
    {
     "eps": "$0.56",
     "fq": "Oct/2026",
     "lastYearEps": "$1.15",
-    "marketCap": 4504346100,
+    "marketCap": 4557495300,
     "name": "BRP Inc.",
     "symbol": "DOO",
     "time": "bmo"
@@ -461,7 +461,7 @@
     "eps": "$3.34",
     "fq": "Oct/2026",
     "lastYearEps": "$2.17",
-    "marketCap": 4114251260,
+    "marketCap": 4264510720,
     "name": "Argan, Inc.",
     "symbol": "AGX",
     "time": "tbd"
@@ -470,7 +470,7 @@
     "eps": "$1.24",
     "fq": "Oct/2026",
     "lastYearEps": "$1.10",
-    "marketCap": 2546809340,
+    "marketCap": 2552900860,
     "name": "John Wiley & Sons, Inc.",
     "symbol": "WLY",
     "time": "tbd"
@@ -479,7 +479,7 @@
     "eps": "",
     "fq": "Oct/2026",
     "lastYearEps": "$1.10",
-    "marketCap": 2546809340,
+    "marketCap": 2552900860,
     "name": "John Wiley & Sons, Inc.",
     "symbol": "WLYB",
     "time": "tbd"
@@ -497,6 +497,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-19T03:32:02+00:00",
+ "updatedAt": "2026-11-19T19:35:06+00:00",
  "week": "2026-11-30"
 }

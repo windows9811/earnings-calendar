@@ -1801,6 +1801,10 @@
   "logoSource": "parqet",
   "website": "https://www.broadridge.com"
  },
+ "BRC": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-08"
+ },
  "BRK.A": {
   "checkedAt": "2026-10-09T08:21:20+00:00",
   "label": "Berkshire Hathaway",
@@ -2370,6 +2374,10 @@
   "logoSource": "wikidata",
   "website": "https://corporate.charter.com"
  },
+ "CHWY": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-09"
+ },
  "CHYM": {
   "checkedAt": "2026-10-09T08:20:25+00:00",
   "label": "",
@@ -2769,6 +2777,10 @@
   "logo": "CPAY.png",
   "logoSource": "wikidata",
   "website": "https://www.corpay.com"
+ },
+ "CPB": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-09"
  },
  "CPK": {
   "lastTime": "amc",
@@ -5060,6 +5072,10 @@
  "GTES": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-30"
+ },
+ "GTLB": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-01"
  },
  "GTX": {
   "lastTime": "bmo",
@@ -9541,6 +9557,10 @@
  "SAIA": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-10-29"
+ },
+ "SAIC": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-03"
  },
  "SAIL": {
   "checkedAt": "2026-10-24T22:43:56+00:00",
