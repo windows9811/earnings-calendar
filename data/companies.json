@@ -374,6 +374,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-11-05"
  },
+ "AGX": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-03"
+ },
  "AGYS": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-26"
@@ -3464,6 +3468,8 @@
  "DRI": {
   "checkedAt": "2026-10-31T22:48:23+00:00",
   "label": "Darden Restaurants",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-18",
   "logo": "DRI.svg",
   "logoSource": "wikipedia",
   "website": "https://www.darden.com"
@@ -4367,6 +4373,8 @@
  "FIVE": {
   "checkedAt": "2026-10-17T22:41:04+00:00",
   "label": "Five Below",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-02",
   "logo": "FIVE.png",
   "logoSource": "wikidata",
   "website": "https://www.fivebelow.com"
@@ -4848,6 +4856,8 @@
  "GIS": {
   "checkedAt": "2026-10-31T22:48:19+00:00",
   "label": "General Mills",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-17",
   "logo": "GIS.svg",
   "logoSource": "wikidata",
   "website": "https://www.generalmills.com"
@@ -7461,6 +7471,10 @@
   "lastTime": "amc",
   "lastTimeDate": "2026-10-28"
  },
+ "MTN": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-09"
+ },
  "MTRN": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-04"
@@ -7868,8 +7882,13 @@
   "website": "https://www.northerntrust.com"
  },
  "NTSK": {
+  "checkedAt": "2026-11-20T19:13:17+00:00",
+  "label": "",
   "lastTime": "amc",
-  "lastTimeDate": "2026-12-02"
+  "lastTimeDate": "2026-12-02",
+  "logo": "NTSK.svg",
+  "logoSource": "wikipedia",
+  "website": "https://www.netskope.com"
  },
  "NU": {
   "checkedAt": "2026-10-09T08:22:08+00:00",
@@ -8202,6 +8221,8 @@
  "ORCL": {
   "checkedAt": "2026-10-24T22:43:57+00:00",
   "label": "Oracle Corporation",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-14",
   "logo": "ORCL.svg",
   "logoSource": "wikidata",
   "website": "https://www.oracle.com"
@@ -8961,6 +8982,10 @@
  "PURR": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-05"
+ },
+ "PVH": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-03"
  },
  "PVLA": {
   "lastTime": "bmo",
