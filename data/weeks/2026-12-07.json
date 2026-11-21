@@ -144,16 +144,25 @@
     "eps": "$3.45",
     "fq": "Oct/2026",
     "lastYearEps": "$1.61",
-    "marketCap": 1654778760000,
+    "marketCap": 1690103710000,
     "name": "Broadcom Inc.",
     "symbol": "AVGO",
     "time": "amc"
    },
    {
+    "eps": "$1.56",
+    "fq": "Nov/2026",
+    "lastYearEps": "$1.95",
+    "marketCap": 344373297000,
+    "name": "Oracle Corporation",
+    "symbol": "ORCL",
+    "time": "tbd"
+   },
+   {
     "eps": "$5.11",
     "fq": "Nov/2026",
     "lastYearEps": "$4.55",
-    "marketCap": 86277857000,
+    "marketCap": 88037040000,
     "name": "Adobe Inc.",
     "symbol": "ADBE",
     "time": "amc"
@@ -162,7 +171,7 @@
     "eps": "$0.20",
     "fq": "Oct/2026",
     "lastYearEps": "$0.14",
-    "marketCap": 8187257900,
+    "marketCap": 8319894000,
     "name": "Chewy, Inc.",
     "symbol": "CHWY",
     "time": "bmo"
@@ -171,7 +180,7 @@
     "eps": "$0.44",
     "fq": "Oct/2026",
     "lastYearEps": "$0.77",
-    "marketCap": 6963780100,
+    "marketCap": 7267979300,
     "name": "The Campbell's Company",
     "symbol": "CPB",
     "time": "bmo"
@@ -180,16 +189,16 @@
     "eps": "($5.42)",
     "fq": "Oct/2026",
     "lastYearEps": "($5.20)",
-    "marketCap": 5431211000,
+    "marketCap": 5589796900,
     "name": "Vail Resorts, Inc.",
     "symbol": "MTN",
-    "time": "amc"
+    "time": "tbd"
    },
    {
     "eps": "($0.09)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.02)",
-    "marketCap": 2854567680,
+    "marketCap": 2933861120,
     "name": "Uranium Energy Corp.",
     "symbol": "UEC",
     "time": "tbd"
@@ -262,6 +271,6 @@
   ],
   "2026-12-11": []
  },
- "updatedAt": "2026-11-20T19:12:33+00:00",
+ "updatedAt": "2026-11-21T03:14:58+00:00",
  "week": "2026-12-07"
 }

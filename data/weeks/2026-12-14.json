@@ -16,7 +16,7 @@
     "eps": "$1.44",
     "fq": "Nov/2026",
     "lastYearEps": "$2.03",
-    "marketCap": 19724308500,
+    "marketCap": 19015366700,
     "name": "Lennar Corporation",
     "symbol": "LEN",
     "time": "tbd"
@@ -25,7 +25,7 @@
     "eps": "",
     "fq": "Nov/2026",
     "lastYearEps": "$2.03",
-    "marketCap": 19724308500,
+    "marketCap": 19015366700,
     "name": "Lennar Corporation",
     "symbol": "LEN.B",
     "time": "tbd"
@@ -34,7 +34,7 @@
     "eps": "$3.46",
     "fq": "Oct/2026",
     "lastYearEps": "$3.03",
-    "marketCap": 17954134000,
+    "marketCap": 17646116900,
     "name": "Nordson Corporation",
     "symbol": "NDSN",
     "time": "amc"
@@ -43,7 +43,7 @@
     "eps": "$0.70",
     "fq": "Nov/2026",
     "lastYearEps": "$0.65",
-    "marketCap": 2853122300,
+    "marketCap": 2794995970,
     "name": "Worthington Enterprises, Inc.",
     "symbol": "WOR",
     "time": "amc"
@@ -236,6 +236,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-20T19:12:48+00:00",
+ "updatedAt": "2026-11-21T03:15:10+00:00",
  "week": "2026-12-14"
 }

@@ -5,7 +5,7 @@
     "eps": "($0.38)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.30)",
-    "marketCap": 22803486700,
+    "marketCap": 23748796400,
     "name": "Rubrik, Inc.",
     "symbol": "RBRK",
     "time": "amc"
@@ -16,7 +16,7 @@
     "eps": "$0",
     "fq": "Oct/2026",
     "lastYearEps": "N/A",
-    "marketCap": 242703270000,
+    "marketCap": 249287180000,
     "name": "CrowdStrike Holdings, Inc.",
     "symbol": "CRWD",
     "time": "amc"
@@ -25,7 +25,7 @@
     "eps": "$0.79",
     "fq": "Oct/2026",
     "lastYearEps": "$0.62",
-    "marketCap": 127624028000,
+    "marketCap": 121424339000,
     "name": "Marvell Technology, Inc.",
     "symbol": "MRVL",
     "time": "amc"
@@ -34,16 +34,16 @@
     "eps": "$0.43",
     "fq": "Oct/2026",
     "lastYearEps": "$0.31",
-    "marketCap": 34196721700,
+    "marketCap": 36161708000,
     "name": "Okta, Inc.",
     "symbol": "OKTA",
     "time": "amc"
    },
    {
-    "eps": "$2.13",
+    "eps": "$2.14",
     "fq": "Oct/2026",
     "lastYearEps": "$1.63",
-    "marketCap": 33821388800,
+    "marketCap": 33426585600,
     "name": "NetApp, Inc.",
     "symbol": "NTAP",
     "time": "amc"
@@ -52,7 +52,7 @@
     "eps": "$0.41",
     "fq": "Oct/2026",
     "lastYearEps": "$0.41",
-    "marketCap": 29143853100,
+    "marketCap": 28588025900,
     "name": "Copart, Inc.",
     "symbol": "CPRT",
     "time": "bmo"
@@ -61,7 +61,7 @@
     "eps": "$0.08",
     "fq": "Oct/2026",
     "lastYearEps": "($0.08)",
-    "marketCap": 24707434500,
+    "marketCap": 23926038500,
     "name": "MongoDB, Inc.",
     "symbol": "MDB",
     "time": "amc"
@@ -70,7 +70,7 @@
     "eps": "$1.03",
     "fq": "Oct/2026",
     "lastYearEps": "$0.44",
-    "marketCap": 23106807800,
+    "marketCap": 22133217300,
     "name": "Credo Technology Group Holding Ltd",
     "symbol": "CRDO",
     "time": "amc"
@@ -79,7 +79,7 @@
     "eps": "$0.96",
     "fq": "Oct/2026",
     "lastYearEps": "$0.82",
-    "marketCap": 8049025500,
+    "marketCap": 8054815700,
     "name": "HealthEquity, Inc.",
     "symbol": "HQY",
     "time": "amc"
@@ -88,7 +88,7 @@
     "eps": "($0.09)",
     "fq": "Oct/2026",
     "lastYearEps": "N/A",
-    "marketCap": 7413700100,
+    "marketCap": 7277087700,
     "name": "GitLab Inc.",
     "symbol": "GTLB",
     "time": "amc"
@@ -97,7 +97,7 @@
     "eps": "($0.03)",
     "fq": "Sep/2026",
     "lastYearEps": "($0.21)",
-    "marketCap": 6940697600,
+    "marketCap": 6665074200,
     "name": "NIO Inc.",
     "symbol": "NIO",
     "time": "bmo"
@@ -106,7 +106,7 @@
     "eps": "$0.09",
     "fq": "Oct/2026",
     "lastYearEps": "$0.02",
-    "marketCap": 5922957300,
+    "marketCap": 5910609400,
     "name": "Box, Inc.",
     "symbol": "BOX",
     "time": "amc"
@@ -115,7 +115,7 @@
     "eps": "$0.50",
     "fq": "Oct/2026",
     "lastYearEps": "$0.53",
-    "marketCap": 3639692800,
+    "marketCap": 3519040000,
     "name": "American Eagle Outfitters, Inc.",
     "symbol": "AEO",
     "time": "tbd"
@@ -124,7 +124,7 @@
     "eps": "$0.16",
     "fq": "Oct/2026",
     "lastYearEps": "$0.17",
-    "marketCap": 2295532290,
+    "marketCap": 2180279810,
     "name": "nCino, Inc.",
     "symbol": "NCNO",
     "time": "amc"
@@ -133,7 +133,7 @@
     "eps": "($0.17)",
     "fq": "Oct/2026",
     "lastYearEps": "($0.16)",
-    "marketCap": 2106525060,
+    "marketCap": 2044703100,
     "name": "Asana, Inc.",
     "symbol": "ASAN",
     "time": "amc"
@@ -497,6 +497,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-20T19:12:19+00:00",
+ "updatedAt": "2026-11-21T03:14:47+00:00",
  "week": "2026-11-30"
 }
