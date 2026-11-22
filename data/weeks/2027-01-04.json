@@ -1,0 +1,121 @@
+{
+ "days": {
+  "2027-01-04": [],
+  "2027-01-05": [
+   {
+    "eps": "$1.39",
+    "fq": "Nov/2026",
+    "lastYearEps": "$1.18",
+    "marketCap": 4219588350,
+    "name": "AAR Corp.",
+    "symbol": "AIR",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.88",
+    "fq": "Nov/2026",
+    "lastYearEps": "$0.36",
+    "marketCap": 2576813310,
+    "name": "Penguin Solutions, Inc.",
+    "symbol": "PENG",
+    "time": "tbd"
+   }
+  ],
+  "2027-01-06": [
+   {
+    "eps": "$2.77",
+    "fq": "Nov/2026",
+    "lastYearEps": "$3.06",
+    "marketCap": 23931435000,
+    "name": "Constellation Brands Inc",
+    "symbol": "STZ",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.95",
+    "fq": "Nov/2026",
+    "lastYearEps": "$0.96",
+    "marketCap": 9386598400,
+    "name": "Jefferies Financial Group Inc.",
+    "symbol": "JEF",
+    "time": "tbd"
+   },
+   {
+    "eps": "$1.28",
+    "fq": "Nov/2026",
+    "lastYearEps": "$0.99",
+    "marketCap": 5990797800,
+    "name": "MSC Industrial Direct Company, Inc.",
+    "symbol": "MSM",
+    "time": "tbd"
+   },
+   {
+    "eps": "$0.61",
+    "fq": "Nov/2026",
+    "lastYearEps": "$0.69",
+    "marketCap": 5659903500,
+    "name": "Albertsons Companies, Inc.",
+    "symbol": "ACI",
+    "time": "tbd"
+   },
+   {
+    "eps": "",
+    "fq": "Nov/2026",
+    "lastYearEps": "$1.29",
+    "marketCap": 5157281800,
+    "name": "PriceSmart, Inc.",
+    "symbol": "PSMT",
+    "time": "tbd"
+   },
+   {
+    "eps": "($0.44)",
+    "fq": "Nov/2026",
+    "lastYearEps": "($0.11)",
+    "marketCap": 4227372290,
+    "name": "Applied Digital Corporation",
+    "symbol": "APLD",
+    "time": "tbd"
+   },
+   {
+    "eps": "$2.28",
+    "fq": "Nov/2026",
+    "lastYearEps": "$1.98",
+    "marketCap": 4167385860,
+    "name": "Unifirst Corporation",
+    "symbol": "UNF",
+    "time": "tbd"
+   },
+   {
+    "eps": "$1.82",
+    "fq": "Nov/2026",
+    "lastYearEps": "$1.52",
+    "marketCap": 3680501760,
+    "name": "AZZ Inc.",
+    "symbol": "AZZ",
+    "time": "tbd"
+   },
+   {
+    "eps": "",
+    "fq": "Nov/2026",
+    "lastYearEps": "$2.13",
+    "marketCap": 3263670530,
+    "name": "Cal-Maine Foods, Inc.",
+    "symbol": "CALM",
+    "time": "tbd"
+   },
+   {
+    "eps": "",
+    "fq": "Sep/2026",
+    "lastYearEps": "N/A",
+    "marketCap": 2162055940,
+    "name": "Regencell Bioscience Holdings Limited",
+    "symbol": "RGC",
+    "time": "tbd"
+   }
+  ],
+  "2027-01-07": [],
+  "2027-01-08": []
+ },
+ "updatedAt": "2026-11-22T02:17:41+00:00",
+ "week": "2027-01-04"
+}
