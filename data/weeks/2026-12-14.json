@@ -5,7 +5,7 @@
     "eps": "$1.56",
     "fq": "Nov/2026",
     "lastYearEps": "$1.95",
-    "marketCap": 334334493000,
+    "marketCap": 305971855000,
     "name": "Oracle Corporation",
     "symbol": "ORCL",
     "time": "amc"
@@ -16,7 +16,7 @@
     "eps": "$1.44",
     "fq": "Nov/2026",
     "lastYearEps": "$2.03",
-    "marketCap": 19015366700,
+    "marketCap": 19208065000,
     "name": "Lennar Corporation",
     "symbol": "LEN",
     "time": "tbd"
@@ -25,7 +25,7 @@
     "eps": "",
     "fq": "Nov/2026",
     "lastYearEps": "$2.03",
-    "marketCap": 19015366700,
+    "marketCap": 19208065000,
     "name": "Lennar Corporation",
     "symbol": "LEN.B",
     "time": "tbd"
@@ -34,7 +34,7 @@
     "eps": "$3.46",
     "fq": "Oct/2026",
     "lastYearEps": "$3.03",
-    "marketCap": 17646116900,
+    "marketCap": 17111959600,
     "name": "Nordson Corporation",
     "symbol": "NDSN",
     "time": "amc"
@@ -43,7 +43,7 @@
     "eps": "$0.70",
     "fq": "Nov/2026",
     "lastYearEps": "$0.65",
-    "marketCap": 2794995970,
+    "marketCap": 2728987900,
     "name": "Worthington Enterprises, Inc.",
     "symbol": "WOR",
     "time": "amc"
@@ -51,19 +51,10 @@
   ],
   "2026-12-16": [
    {
-    "eps": "$37.95",
-    "fq": "Nov/2026",
-    "lastYearEps": "$4.61",
-    "marketCap": 781179810000,
-    "name": "Micron Technology, Inc.",
-    "symbol": "MU",
-    "time": "tbd"
-   },
-   {
     "eps": "$3.64",
     "fq": "Nov/2026",
     "lastYearEps": "$2.30",
-    "marketCap": 25377028100,
+    "marketCap": 23248545800,
     "name": "Jabil Inc.",
     "symbol": "JBL",
     "time": "tbd"
@@ -72,7 +63,7 @@
     "eps": "$0.97",
     "fq": "Oct/2026",
     "lastYearEps": "$0.91",
-    "marketCap": 9708676100,
+    "marketCap": 9543961600,
     "name": "Toro Company (The)",
     "symbol": "TTC",
     "time": "tbd"
@@ -81,7 +72,7 @@
     "eps": "$1.24",
     "fq": "Oct/2026",
     "lastYearEps": "$0.88",
-    "marketCap": 3154637310,
+    "marketCap": 3142328320,
     "name": "ABM Industries Incorporated",
     "symbol": "ABM",
     "time": "tbd"
@@ -89,10 +80,19 @@
   ],
   "2026-12-17": [
    {
+    "eps": "$37.95",
+    "fq": "Nov/2026",
+    "lastYearEps": "$4.61",
+    "marketCap": 672642430000,
+    "name": "Micron Technology, Inc.",
+    "symbol": "MU",
+    "time": "amc"
+   },
+   {
     "eps": "$3.91",
     "fq": "Nov/2026",
     "lastYearEps": "$3.94",
-    "marketCap": 146169430000,
+    "marketCap": 147901432000,
     "name": "Accenture plc",
     "symbol": "ACN",
     "time": "bmo"
@@ -101,7 +101,7 @@
     "eps": "$1.36",
     "fq": "Nov/2026",
     "lastYearEps": "$1.21",
-    "marketCap": 86927679000,
+    "marketCap": 87360487000,
     "name": "Cintas Corporation",
     "symbol": "CTAS",
     "time": "tbd"
@@ -110,16 +110,16 @@
     "eps": "$0.34",
     "fq": "Nov/2026",
     "lastYearEps": "$0.53",
-    "marketCap": 50990653000,
+    "marketCap": 48896369000,
     "name": "Nike, Inc.",
     "symbol": "NKE",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$1.62",
     "fq": "Oct/2026",
     "lastYearEps": "$1.33",
-    "marketCap": 46296039000,
+    "marketCap": 45113692000,
     "name": "Heico Corporation",
     "symbol": "HEI",
     "time": "tbd"
@@ -128,7 +128,7 @@
     "eps": "",
     "fq": "Oct/2026",
     "lastYearEps": "$1.33",
-    "marketCap": 46296039000,
+    "marketCap": 45113692000,
     "name": "Heico Corporation",
     "symbol": "HEI.A",
     "time": "tbd"
@@ -137,7 +137,7 @@
     "eps": "$0.96",
     "fq": "Nov/2026",
     "lastYearEps": "$1.10",
-    "marketCap": 18436012000,
+    "marketCap": 19109718000,
     "name": "General Mills, Inc.",
     "symbol": "GIS",
     "time": "bmo"
@@ -146,7 +146,7 @@
     "eps": "$1.17",
     "fq": "Sep/2026",
     "lastYearEps": "$2.11",
-    "marketCap": 11645228000,
+    "marketCap": 11632389100,
     "name": "Korea Electric Power Corporation",
     "symbol": "KEP",
     "time": "tbd"
@@ -155,7 +155,7 @@
     "eps": "$5.03",
     "fq": "Nov/2026",
     "lastYearEps": "$4.51",
-    "marketCap": 10863120400,
+    "marketCap": 11001730000,
     "name": "FactSet Research Systems Inc.",
     "symbol": "FDS",
     "time": "tbd"
@@ -164,7 +164,7 @@
     "eps": "$0.43",
     "fq": "Nov/2026",
     "lastYearEps": "$0.51",
-    "marketCap": 7098560000,
+    "marketCap": 6823190500,
     "name": "CarMax Inc",
     "symbol": "KMX",
     "time": "bmo"
@@ -173,7 +173,7 @@
     "eps": "$0.04",
     "fq": "Nov/2026",
     "lastYearEps": "$0.04",
-    "marketCap": 4886087200,
+    "marketCap": 4539225600,
     "name": "BlackBerry Limited",
     "symbol": "BB",
     "time": "bmo"
@@ -182,7 +182,7 @@
     "eps": "$1.21",
     "fq": "Nov/2026",
     "lastYearEps": "$1.92",
-    "marketCap": 2778072320,
+    "marketCap": 2762881540,
     "name": "KB Home",
     "symbol": "KBH",
     "time": "tbd"
@@ -193,7 +193,7 @@
     "eps": "$1.29",
     "fq": "Nov/2026",
     "lastYearEps": "$1.26",
-    "marketCap": 39656223000,
+    "marketCap": 40094081000,
     "name": "Paychex, Inc.",
     "symbol": "PAYX",
     "time": "tbd"
@@ -202,7 +202,7 @@
     "eps": "$0.22",
     "fq": "Nov/2026",
     "lastYearEps": "$0.34",
-    "marketCap": 37070901000,
+    "marketCap": 35753185000,
     "name": "Carnival Corporation Ltd.",
     "symbol": "CCL",
     "time": "tbd"
@@ -211,7 +211,7 @@
     "eps": "$2.28",
     "fq": "Nov/2026",
     "lastYearEps": "$2.08",
-    "marketCap": 26181341200,
+    "marketCap": 25540952100,
     "name": "Darden Restaurants, Inc.",
     "symbol": "DRI",
     "time": "bmo"
@@ -220,7 +220,7 @@
     "eps": "$0.87",
     "fq": "Nov/2026",
     "lastYearEps": "$0.69",
-    "marketCap": 7234851300,
+    "marketCap": 7123249200,
     "name": "Lamb Weston Holdings, Inc.",
     "symbol": "LW",
     "time": "tbd"
@@ -229,13 +229,13 @@
     "eps": "$0.34",
     "fq": "Nov/2026",
     "lastYearEps": "$0.45",
-    "marketCap": 7008400900,
+    "marketCap": 7122979800,
     "name": "ConAgra Brands, Inc.",
     "symbol": "CAG",
     "time": "tbd"
    }
   ]
  },
- "updatedAt": "2026-11-23T02:49:28+00:00",
+ "updatedAt": "2026-11-23T22:50:15+00:00",
  "week": "2026-12-14"
 }

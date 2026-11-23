@@ -280,6 +280,10 @@
   "logoSource": "wikidata",
   "website": "https://www.agnicoeagle.com"
  },
+ "AEO": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-02"
+ },
  "AEP": {
   "checkedAt": "2026-10-09T08:15:22+00:00",
   "label": "American Electric Power",
@@ -3418,6 +3422,8 @@
  "DOCU": {
   "checkedAt": "2026-10-17T22:41:09+00:00",
   "label": "Docusign",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-03",
   "logo": "DOCU.svg",
   "logoSource": "wikidata",
   "website": "https://www.docusign.com"
@@ -5098,6 +5104,8 @@
  "GWRE": {
   "checkedAt": "2026-10-17T22:41:04+00:00",
   "label": "Guidewire Software",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-03",
   "logo": "GWRE.png",
   "logoSource": "wikipedia",
   "website": "https://www.guidewire.com"
@@ -7504,6 +7512,8 @@
  "MU": {
   "checkedAt": "2026-10-09T08:12:43+00:00",
   "label": "Micron Technology",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-17",
   "logo": "MU.svg",
   "logoSource": "wikidata",
   "website": "https://www.micron.com"
@@ -7700,6 +7710,8 @@
  "NKE": {
   "checkedAt": "2026-10-09T08:12:43+00:00",
   "label": "Nike",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-17",
   "logo": "NKE.svg",
   "logoSource": "wikidata",
   "website": "https://www.nike.com"
