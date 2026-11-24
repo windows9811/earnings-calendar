@@ -2317,6 +2317,10 @@
   "logoSource": "parqet",
   "website": "https://www.cognex.com"
  },
+ "CHA": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-11-30"
+ },
  "CHD": {
   "checkedAt": "2026-10-09T08:17:31+00:00",
   "label": "Church & Dwight",
@@ -4241,6 +4245,8 @@
  "FDS": {
   "checkedAt": "2026-10-09T12:42:23+00:00",
   "label": "FactSet",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-17",
   "logo": "FDS.svg",
   "logoSource": "wikidata",
   "website": "https://www.factset.com"
@@ -10542,6 +10548,8 @@
  "TCOM": {
   "checkedAt": "2026-10-09T08:22:15+00:00",
   "label": "Trip.com Group",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-01",
   "logo": "TCOM.jpg",
   "logoSource": "wikidata",
   "website": "https://www.group.trip.com"
@@ -11032,6 +11040,8 @@
  "TTC": {
   "checkedAt": "2026-10-31T22:48:20+00:00",
   "label": "Toro",
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-16",
   "logo": "TTC.jpg",
   "logoSource": "wikidata",
   "website": "https://www.thetorocompany.com"
