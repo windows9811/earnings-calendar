@@ -113,6 +113,10 @@
   "logoSource": "wikidata",
   "website": "https://www.abbott.com"
  },
+ "ABVX": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-14"
+ },
  "ACAD": {
   "lastTime": "amc",
   "lastTimeDate": "2026-11-04"
@@ -973,6 +977,10 @@
   "logo": "ASND.svg",
   "logoSource": "parqet",
   "website": "https://www.ascendispharma.com"
+ },
+ "ASO": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-08"
  },
  "ASTS": {
   "checkedAt": "2026-10-09T08:21:43+00:00",
@@ -6759,6 +6767,8 @@
  "LULU": {
   "checkedAt": "2026-10-24T22:43:57+00:00",
   "label": "Lululemon Athletica",
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-08",
   "logo": "LULU.svg",
   "logoSource": "wikidata",
   "website": "https://www.lululemon.com"
@@ -8158,6 +8168,10 @@
  "OLED": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-28"
+ },
+ "OLLI": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-08"
  },
  "OMC": {
   "checkedAt": "2026-10-09T08:13:10+00:00",
@@ -10712,6 +10726,10 @@
  "THG": {
   "lastTime": "amc",
   "lastTimeDate": "2026-10-28"
+ },
+ "THO": {
+  "lastTime": "bmo",
+  "lastTimeDate": "2026-12-08"
  },
  "TIC": {
   "lastTime": "bmo",
