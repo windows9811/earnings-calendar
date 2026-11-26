@@ -1080,6 +1080,10 @@
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-12"
  },
+ "AVAV": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-08"
+ },
  "AVGO": {
   "checkedAt": "2026-10-24T22:43:58+00:00",
   "label": "Broadcom",
@@ -7577,6 +7581,10 @@
  "NATL": {
   "lastTime": "bmo",
   "lastTimeDate": "2026-11-04"
+ },
+ "NAVN": {
+  "lastTime": "amc",
+  "lastTimeDate": "2026-12-08"
  },
  "NBIS": {
   "checkedAt": "2026-10-09T08:21:49+00:00",

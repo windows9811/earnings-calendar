@@ -312,27 +312,36 @@
   ],
   "2026-11-25": [
    {
+    "eps": "$4.07",
+    "fq": "Oct/2026",
+    "lastYearEps": "",
+    "marketCap": 165485298000,
+    "name": "Deere & Company",
+    "symbol": "DE",
+    "time": "tbd"
+   },
+   {
     "eps": "($0.08)",
     "fq": "Sep/2026",
-    "lastYearEps": "($0.09)",
+    "lastYearEps": "",
     "marketCap": 10456837100,
     "name": "Li Auto Inc.",
     "symbol": "LI",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "($0.02)",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.24",
+    "lastYearEps": "",
     "marketCap": 6010986000,
     "name": "KANZHUN LIMITED",
     "symbol": "BZ",
-    "time": "bmo"
+    "time": "tbd"
    },
    {
     "eps": "$1.44",
     "fq": "Sep/2026",
-    "lastYearEps": "($0.39)",
+    "lastYearEps": "",
     "marketCap": 3124587780,
     "name": "Macro Bank Inc.",
     "symbol": "BMA",
@@ -341,11 +350,11 @@
    {
     "eps": "$1.31",
     "fq": "Sep/2026",
-    "lastYearEps": "$0.45",
+    "lastYearEps": "",
     "marketCap": 2763207170,
     "name": "GDS Holdings Limited",
     "symbol": "GDS",
-    "time": "bmo"
+    "time": "tbd"
    }
   ],
   "2026-11-26": [
@@ -371,6 +380,6 @@
    }
   ]
  },
- "updatedAt": "2026-11-26T04:10:40+00:00",
+ "updatedAt": "2026-11-26T20:23:11+00:00",
  "week": "2026-11-23"
 }

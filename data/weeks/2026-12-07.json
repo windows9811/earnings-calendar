@@ -40,7 +40,7 @@
     "time": "bmo"
    },
    {
-    "eps": "$6.01",
+    "eps": "$5.92",
     "fq": "Oct/2026",
     "lastYearEps": "$5.53",
     "marketCap": 25392373800,
@@ -85,6 +85,15 @@
     "time": "bmo"
    },
    {
+    "eps": "($0.01)",
+    "fq": "Oct/2026",
+    "lastYearEps": "($1.96)",
+    "marketCap": 6880045100,
+    "name": "Navan, Inc.",
+    "symbol": "NAVN",
+    "time": "amc"
+   },
+   {
     "eps": "$0.77",
     "fq": "Oct/2026",
     "lastYearEps": "$0.75",
@@ -109,7 +118,7 @@
     "marketCap": 4543370800,
     "name": "AeroVironment, Inc.",
     "symbol": "AVAV",
-    "time": "tbd"
+    "time": "amc"
    },
    {
     "eps": "$1.21",
@@ -262,6 +271,6 @@
   ],
   "2026-12-11": []
  },
- "updatedAt": "2026-11-26T04:11:02+00:00",
+ "updatedAt": "2026-11-26T20:23:35+00:00",
  "week": "2026-12-07"
 }
